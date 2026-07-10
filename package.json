@@ -2,6 +2,13 @@
   "name": "taar-spider",
   "version": "1.0.0",
   "type": "module",
-  "scripts": { "fetch": "node fetch-news.js" },
-  "dependencies": { "rss-parser": "^3.13.0" }
+  "description": "TAAR — fetches trusted RSS feeds on a schedule, tags by topic, writes news.json. Also watches the ICMAB student notice board and pings Telegram on new notices.",
+  "scripts": {
+    "fetch": "node fetch-news.js",
+    "watch-icmab": "node icmab-watch.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "puppeteer": "^22.0.0"
+  }
 }
