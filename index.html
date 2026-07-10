@@ -25,6 +25,11 @@
   .editorial-source { font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #8A9296; margin-bottom: 3px; }
   .editorial-title { font-family: 'Source Serif 4', serif; font-size: 15px; line-height: 1.35; }
   .search-row { padding: 0 16px 10px; }
+  .live-search-block { padding: 0 16px 16px; border-bottom: 1px solid #232B2F; margin-bottom: 14px; }
+  .live-search-row { display: flex; gap: 8px; }
+  .live-search-btn { background: #C98A2C; border: none; color: #12181B; border-radius: 8px; padding: 0 14px; font-size: 16px; cursor: pointer; font-weight: 600; }
+  .live-search-note { font-size: 11.5px; color: #6E767A; padding: 8px 0 0; }
+  .live-loading { font-size: 12.5px; color: #8A9296; padding: 10px 0; font-family: 'IBM Plex Mono', monospace; }
   .search-input { width: 100%; background: #1B2226; border: 1px solid #2A3236; border-radius: 8px; padding: 9px 12px; color: #EDE6D6; font-size: 13.5px; outline: none; }
   .chip-row { display: flex; gap: 8px; overflow-x: auto; padding: 0 16px 12px; }
   .chip { flex-shrink: 0; background: #1B2226; border: 1px solid #2A3236; color: #EDE6D6; border-radius: 20px; padding: 7px 15px; font-size: 13.5px; cursor: pointer; white-space: nowrap; }
@@ -70,7 +75,17 @@
   </div>
 
   <div id="mainView">
+    <div class="live-search-block">
+      <div class="section-label">LIVE SEARCH — পুরো ওয়েব</div>
+      <div class="live-search-row">
+        <input class="search-input" id="liveSearchBox" placeholder="যেকোনো শব্দ লিখে Enter দাও..." onkeydown="if(event.key==='Enter') runLiveSearch()" />
+        <button class="live-search-btn" onclick="runLiveSearch()">🔍</button>
+      </div>
+      <div id="liveSearchResults"></div>
+    </div>
+
     <div class="search-row">
+      <div class="section-label" style="margin-bottom:4px;">সংগ্রহে খুঁজো (spider-এর জমা করা খবর থেকে)</div>
       <input class="search-input" id="searchBox" placeholder="খুঁজো... (যেকোনো শব্দ)" oninput="onSearch()" />
     </div>
     <div class="chip-row" id="chipRow"></div>
@@ -92,7 +107,37 @@ let activeTopics = new Set();
 let searchTerm = '';
 let currentView = 'main';
 
+const LIVE_SEARCH_WORKER_URL = "https://taar-search.jarvismyvpa.workers.dev";
+
+let liveArticlesMap = {};
+
+async function runLiveSearch() {
+  const q = document.getElementById('liveSearchBox').value.trim();
+  const box = document.getElementById('liveSearchResults');
+  if (!q) { box.innerHTML = ''; return; }
+
+  if (!LIVE_SEARCH_WORKER_URL || LIVE_SEARCH_WORKER_URL.startsWith('REPLACE_')) {
+    box.innerHTML = `<div class="live-search-note">⚠ Live search worker URL সেট করা হয়নি এখনো (index.html-এ LIVE_SEARCH_WORKER_URL বসাও)।</div>`;
+    return;
+  }
+
+  box.innerHTML = `<div class="live-loading">খোঁজা হচ্ছে "${q}"...</div>`;
+  try {
+    const r = await fetch(`${LIVE_SEARCH_WORKER_URL}?q=${encodeURIComponent(q)}`);
+    const data = await r.json();
+    if (data.error) throw new Error(data.error);
+    const items = data.items || [];
+    items.forEach(it => { liveArticlesMap[it.link] = it; });
+    box.innerHTML = items.length
+      ? `<div class="live-search-note">${items.length}টা ফলাফল</div>` + items.map(a => cardHTML(a)).join('')
+      : `<div class="empty-note">কিছু পাওয়া যায়নি।</div>`;
+  } catch (err) {
+    box.innerHTML = `<div class="empty-note">লাইভ সার্চে সমস্যা হয়েছে: ${err.message}</div>`;
+  }
+}
+
 function saveBookmarks() { localStorage.setItem('taar-bookmarks', JSON.stringify(bookmarks)); }
+
 function saveReadLog() { localStorage.setItem('taar-readlog', JSON.stringify(readLog)); }
 
 function timeAgo(dateStr) {
@@ -114,7 +159,7 @@ function estReadTime(summary) {
 function findBookmark(link) { return bookmarks.find(b => b.link === link); }
 
 function toggleBookmark(link) {
-  const article = (DATA.articles || []).find(a => a.link === link) || (findBookmark(link) || {}).article;
+  const article = (DATA.articles || []).find(a => a.link === link) || liveArticlesMap[link] || (findBookmark(link) || {}).article;
   if (!article) return;
   if (findBookmark(link)) {
     bookmarks = bookmarks.filter(b => b.link !== link);
