@@ -10,7 +10,6 @@ import fs from "fs";
 const NOTICE_URL = "https://icmab.gov.bd/notices/";
 const SEEN_FILE = "icmab-seen.json";
 const CATEGORIES = ["Students", "Members", "Employees", "Tenders"];
-// Only notify for these categories — change to include more, e.g. add "Members"
 const WATCH_CATEGORIES = ["Students"];
 
 const TELEGRAM_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
@@ -49,6 +48,17 @@ async function main() {
   console.log("Loading", NOTICE_URL);
   await page.goto(NOTICE_URL, { waitUntil: "networkidle2", timeout: 45000 });
   await new Promise((r) => setTimeout(r, 3000));
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await new Promise((r) => setTimeout(r, 2000));
+
+  try {
+    await page.screenshot({ path: "debug-screenshot.png", fullPage: true });
+    const bodyText = await page.evaluate(() => document.body.innerText);
+    fs.writeFileSync("debug-body.txt", bodyText);
+    console.log(`Debug: page title = "${await page.title()}", body text length = ${bodyText.length} chars`);
+  } catch (err) {
+    console.error("[debug capture failed]", err.message);
+  }
 
   const allItems = await page.evaluate((CATEGORIES) => {
     const allEls = Array.from(document.querySelectorAll("body *"));
