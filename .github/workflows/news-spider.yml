@@ -1,0 +1,33 @@
+name: TAAR news spider
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch news
+        run: npm run fetch
+
+      - name: Commit news.json
+        run: |
+          git config user.name "taar-spider-bot"
+          git config user.email "actions@github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "chore: refresh news.json [skip ci]"
+          git push
