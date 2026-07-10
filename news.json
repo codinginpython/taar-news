@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-07-10T00:00:00.000Z",
+  "topics": [
+    { "en": "Economy/Business", "bn": "অর্থনীতি ও ব্যবসা" },
+    { "en": "Politics", "bn": "রাজনীতি" },
+    { "en": "CNG/Fuel", "bn": "সিএনজি/জ্বালানি" },
+    { "en": "Technology", "bn": "প্রযুক্তি" },
+    { "en": "Computer Science", "bn": "কম্পিউটার সায়েন্স" },
+    { "en": "Physics", "bn": "পদার্থবিজ্ঞান" },
+    { "en": "Mathematics", "bn": "গণিত" },
+    { "en": "Statistics", "bn": "পরিসংখ্যান" },
+    { "en": "Science", "bn": "বিজ্ঞান" },
+    { "en": "Medicine", "bn": "চিকিৎসাবিজ্ঞান" },
+    { "en": "History", "bn": "ইতিহাস" },
+    { "en": "Philosophy", "bn": "দর্শন" },
+    { "en": "Literature", "bn": "সাহিত্য" },
+    { "en": "New Book Releases", "bn": "নতুন বই" },
+    { "en": "Fine Arts/Culture", "bn": "চারুকলা ও সংস্কৃতি" },
+    { "en": "Football", "bn": "ফুটবল" },
+    { "en": "Tennis", "bn": "টেনিস" },
+    { "en": "Chess", "bn": "দাবা" },
+    { "en": "ICMAB/Accounting", "bn": "হিসাববিজ্ঞান" }
+  ],
+  "articles": [],
+  "editorial": []
+}
