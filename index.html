@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TAAR — News Wire</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=Hind+Siliguri:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #12181B; color: #EDE6D6; font-family: 'Hind Siliguri', sans-serif; max-width: 480px; margin: 0 auto; min-height: 100vh; }
+  .header { display: flex; justify-content: space-between; align-items: center; padding: 18px 16px 4px; }
+  .header-left { display: flex; align-items: center; gap: 9px; }
+  .pulse-dot { width: 9px; height: 9px; border-radius: 50%; background: #C98A2C; animation: pulse 2s infinite; }
+  @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(201,138,44,0.6); } 70% { box-shadow: 0 0 0 8px rgba(201,138,44,0); } 100% { box-shadow: 0 0 0 0 rgba(201,138,44,0); } }
+  .wordmark { font-family: 'Source Serif 4', serif; font-weight: 700; font-size: 26px; letter-spacing: 2px; }
+  .tagline { padding: 0 16px 10px; font-size: 12.5px; color: #8A9296; font-family: 'IBM Plex Mono', monospace; }
+  .meta-bar { padding: 0 16px 10px; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #6E767A; border-bottom: 1px solid #232B2F; margin-bottom: 14px; padding-bottom: 12px; }
+  .offline-banner { margin: 0 16px 10px; padding: 8px 10px; background: #2A2016; border: 1px solid #5A4420; border-radius: 6px; font-size: 11.5px; color: #C98A2C; font-family: 'IBM Plex Mono', monospace; }
+  .icon-btn { background: #1B2226; border: 1px solid #2A3236; color: #EDE6D6; border-radius: 8px; padding: 7px 10px; cursor: pointer; font-size: 13px; }
+  .icon-btn.on { background: #C98A2C; color: #12181B; border-color: #C98A2C; }
+  .section-label { font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; letter-spacing: 1.5px; color: #C98A2C; margin: 0 16px 8px; }
+  .editorial-block { padding: 0 16px 18px; }
+  .editorial-card { display: block; text-decoration: none; color: #EDE6D6; background: linear-gradient(135deg, #1B2226, #171D20); border: 1px solid #2A3236; border-left: 3px solid #C98A2C; border-radius: 6px; padding: 10px 12px; margin-bottom: 8px; }
+  .editorial-source { font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #8A9296; margin-bottom: 3px; }
+  .editorial-title { font-family: 'Source Serif 4', serif; font-size: 15px; line-height: 1.35; }
+  .search-row { padding: 0 16px 10px; }
+  .search-input { width: 100%; background: #1B2226; border: 1px solid #2A3236; border-radius: 8px; padding: 9px 12px; color: #EDE6D6; font-size: 13.5px; outline: none; }
+  .chip-row { display: flex; gap: 8px; overflow-x: auto; padding: 0 16px 12px; }
+  .chip { flex-shrink: 0; background: #1B2226; border: 1px solid #2A3236; color: #EDE6D6; border-radius: 20px; padding: 7px 15px; font-size: 13.5px; cursor: pointer; white-space: nowrap; }
+  .chip.active { background: #C98A2C; border-color: #C98A2C; color: #12181B; font-weight: 600; }
+  .filed-under { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; padding: 8px 16px; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; color: #C98A2C; border-top: 1px dashed #2A3236; border-bottom: 1px dashed #2A3236; }
+  .hit-count { color: #6E767A; }
+  .clear-link { color: #6E767A; text-decoration: underline; cursor: pointer; margin-left: auto; }
+  .results { padding: 4px 16px 32px; }
+  .card { background: #171D20; border: 1px solid #232B2F; border-radius: 8px; padding: 12px 14px; margin-top: 10px; }
+  .card-top { display: flex; justify-content: space-between; margin-bottom: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; }
+  .source-tag { color: #5C7A5E; }
+  .time-tag { color: #6E767A; }
+  .card-title { display: block; color: #EDE6D6; text-decoration: none; font-family: 'Source Serif 4', serif; font-size: 16px; line-height: 1.4; font-weight: 600; margin-bottom: 4px; }
+  .card-title.read { opacity: 0.55; }
+  .other-sources { font-size: 11px; color: #6E767A; margin-bottom: 6px; font-family: 'IBM Plex Mono', monospace; }
+  .card-desc { font-size: 13px; color: #9BA2A6; line-height: 1.5; margin-bottom: 4px; }
+  .read-time { font-size: 10.5px; color: #5C6266; font-family: 'IBM Plex Mono', monospace; margin-bottom: 8px; display: block; }
+  .card-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .action-btn { background: none; border: none; color: #8A9296; font-size: 12px; cursor: pointer; font-family: 'Hind Siliguri', sans-serif; padding: 0; display: flex; align-items: center; gap: 4px; text-decoration: none; }
+  .action-btn.saved { color: #C98A2C; }
+  .action-btn.readlink { color: #C98A2C; font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; }
+  .empty-note, .welcome-note { font-size: 13.5px; color: #6E767A; padding: 16px 0; }
+  .welcome-note { text-align: center; padding: 24px 8px; line-height: 1.6; }
+</style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-left">
+      <span class="pulse-dot"></span>
+      <span class="wordmark">TAAR</span>
+    </div>
+    <div style="display:flex; gap:8px;">
+      <button class="icon-btn" id="readLaterBtn" onclick="toggleView('readlater')">🔖 Read Later</button>
+    </div>
+  </div>
+  <div class="tagline">verified sources · এক টপিক · এক ক্লিক</div>
+  <div id="offlineBanner" class="offline-banner" style="display:none;"></div>
+  <div class="meta-bar" id="metaBar">লোড হচ্ছে...</div>
+
+  <div id="editorialBlock" class="editorial-block">
+    <div class="section-label">EDITORIAL / OP-ED — WORLD</div>
+    <div id="editorialList"></div>
+  </div>
+
+  <div id="mainView">
+    <div class="search-row">
+      <input class="search-input" id="searchBox" placeholder="খুঁজো... (যেকোনো শব্দ)" oninput="onSearch()" />
+    </div>
+    <div class="chip-row" id="chipRow"></div>
+    <div class="filed-under" id="filedUnder" style="display:none;"></div>
+    <div class="results" id="results">
+      <div class="welcome-note">একটা বা একাধিক টপিক ট্যাপ করো, বা উপরে সার্চ করো।</div>
+    </div>
+  </div>
+
+  <div id="readlaterView" style="display:none;">
+    <div class="results" id="readlaterResults"></div>
+  </div>
+
+<script>
+let DATA = null;
+let bookmarks = JSON.parse(localStorage.getItem('taar-bookmarks') || '[]');
+let readLog = JSON.parse(localStorage.getItem('taar-readlog') || '[]');
+let activeTopics = new Set();
+let searchTerm = '';
+let currentView = 'main';
+
+function saveBookmarks() { localStorage.setItem('taar-bookmarks', JSON.stringify(bookmarks)); }
+function saveReadLog() { localStorage.setItem('taar-readlog', JSON.stringify(readLog)); }
+
+function timeAgo(dateStr) {
+  const d = new Date(dateStr);
+  if (isNaN(d)) return '';
+  const diffMin = Math.floor((Date.now() - d.getTime()) / 60000);
+  if (diffMin < 60) return diffMin + ' মিনিট আগে';
+  const diffHr = Math.floor(diffMin / 60);
+  if (diffHr < 24) return diffHr + ' ঘণ্টা আগে';
+  return Math.floor(diffHr / 24) + ' দিন আগে';
+}
+
+function estReadTime(summary) {
+  const words = (summary || '').split(/\s+/).filter(Boolean).length * 9;
+  const mins = Math.max(1, Math.round(words / 200));
+  return `≈ ${mins} মিনিট পড়া`;
+}
+
+function findBookmark(link) { return bookmarks.find(b => b.link === link); }
+
+function toggleBookmark(link) {
+  const article = (DATA.articles || []).find(a => a.link === link) || (findBookmark(link) || {}).article;
+  if (!article) return;
+  if (findBookmark(link)) {
+    bookmarks = bookmarks.filter(b => b.link !== link);
+  } else {
+    bookmarks = [{ link, article, read: false }, ...bookmarks];
+  }
+  saveBookmarks();
+  render();
+}
+
+function toggleRead(link) {
+  const b = findBookmark(link);
+  if (b) { b.read = !b.read; saveBookmarks(); render(); }
+}
+
+function markOpened(link) {
+  readLog.push({ link, date: new Date().toISOString() });
+  saveReadLog();
+  updateMetaBar();
+}
+
+function speak(title, summary, btn) {
+  if (!('speechSynthesis' in window)) { alert('এই ব্রাউজারে text-to-speech সাপোর্ট নেই।'); return; }
+  if (window.speechSynthesis.speaking) { window.speechSynthesis.cancel(); btn.textContent = '🔊 শুনো'; return; }
+  const utter = new SpeechSynthesisUtterance(`${title}. ${summary}`);
+  utter.rate = 0.95;
+  utter.onend = () => { btn.textContent = '🔊 শুনো'; };
+  window.speechSynthesis.speak(utter);
+  btn.textContent = '⏸ থামাও';
+}
+
+function whatsappShare(title, link) {
+  const text = encodeURIComponent(`${title}\n${link}`);
+  window.open(`https://wa.me/?text=${text}`, '_blank');
+}
+
+function translateLink(link) {
+  return `https://translate.google.com/translate?sl=auto&tl=en&u=${encodeURIComponent(link)}`;
+}
+
+function cardHTML(a, opts) {
+  opts = opts || {};
+  const saved = !!findBookmark(a.link);
+  const bm = findBookmark(a.link);
+  const isRead = bm ? bm.read : false;
+  const safeLink = a.link.replace(/'/g, "\\'");
+  const safeTitle = (a.title || '').replace(/'/g, "\\'");
+  const safeSummary = (a.summary || '').replace(/'/g, "\\'");
+  return `
+    <div class="card">
+      <div class="card-top">
+        <span class="source-tag">${a.source}${a.region === 'bd' ? ' · BD' : ''}</span>
+        <span class="time-tag">${timeAgo(a.pubDate)}</span>
+      </div>
+      <a class="card-title ${isRead ? 'read' : ''}" href="${a.link}" target="_blank" rel="noreferrer" onclick="markOpened('${safeLink}')">${a.title}</a>
+      ${a.otherSources && a.otherSources.length ? `<div class="other-sources">+ আরও কভার করেছে: ${a.otherSources.join(', ')}</div>` : ''}
+      ${a.summary ? `<div class="card-desc">${a.summary}</div>` : ''}
+      <span class="read-time">${estReadTime(a.summary)}</span>
+      <div class="card-actions">
+        <a class="action-btn readlink" href="${a.link}" target="_blank" rel="noreferrer" onclick="markOpened('${safeLink}')">↗ পড়ো</a>
+        <button class="action-btn ${saved ? 'saved' : ''}" onclick="toggleBookmark('${safeLink}')">${saved ? '★ সেভ করা' : '☆ পরে পড়ব'}</button>
+        ${opts.inReadLater ? `<button class="action-btn" onclick="toggleRead('${safeLink}')">${isRead ? '✓ পড়া হয়েছে' : 'পড়া হয়নি'}</button>` : ''}
+        <button class="action-btn" onclick="speak('${safeTitle}', '${safeSummary}', this)">🔊 শুনো</button>
+        <a class="action-btn" href="${translateLink(a.link)}" target="_blank" rel="noreferrer">🌐 English</a>
+        <button class="action-btn" onclick="whatsappShare('${safeTitle}', '${safeLink}')">📤 WhatsApp</button>
+      </div>
+    </div>`;
+}
+
+function toggleView(view) {
+  currentView = currentView === view ? 'main' : view;
+  document.getElementById('mainView').style.display = currentView === 'main' ? 'block' : 'none';
+  document.getElementById('readlaterView').style.display = currentView === 'readlater' ? 'block' : 'none';
+  document.getElementById('editorialBlock').style.display = currentView === 'main' ? 'block' : 'none';
+  document.getElementById('readLaterBtn').classList.toggle('on', currentView === 'readlater');
+  render();
+}
+
+function toggleTopic(t) {
+  if (activeTopics.has(t.en)) activeTopics.delete(t.en); else activeTopics.add(t.en);
+  render();
+}
+
+function clearFilters() {
+  activeTopics.clear();
+  searchTerm = '';
+  document.getElementById('searchBox').value = '';
+  render();
+}
+
+function onSearch() {
+  searchTerm = document.getElementById('searchBox').value.trim().toLowerCase();
+  render();
+}
+
+function updateMetaBar() {
+  if (!DATA) return;
+  const weekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const openedThisWeek = readLog.filter(r => new Date(r.date).getTime() > weekAgo).length;
+  const unreadSaved = bookmarks.filter(b => !b.read).length;
+  const genTime = new Date(DATA.generatedAt);
+  document.getElementById('metaBar').textContent =
+    `আপডেট: ${genTime.toLocaleString('bn-BD')} · ${DATA.articles.length} খবর · এই সপ্তাহে ${openedThisWeek}টা খুলেছ · read later-এ বাকি ${unreadSaved}টা`;
+}
+
+function render() {
+  if (!DATA) return;
+  updateMetaBar();
+
+  document.getElementById('chipRow').innerHTML = DATA.topics.map(t => `
+    <button class="chip ${activeTopics.has(t.en) ? 'active' : ''}" onclick='toggleTopic(${JSON.stringify(t)})'>${t.bn}</button>
+  `).join('');
+
+  document.getElementById('editorialList').innerHTML =
+    (DATA.editorial || []).length
+      ? DATA.editorial.slice(0, 6).map(a => `
+          <a class="editorial-card" href="${a.link}" target="_blank" rel="noreferrer">
+            <div class="editorial-source">${a.source}</div>
+            <div class="editorial-title">${a.title}</div>
+          </a>`).join('')
+      : `<div class="empty-note">আজকের এডিটোরিয়াল পাওয়া যায়নি।</div>`;
+
+  if (currentView === 'readlater') {
+    document.getElementById('readlaterResults').innerHTML =
+      bookmarks.length
+        ? `<div class="section-label" style="margin-left:0;">READ LATER — ${bookmarks.length}</div>` +
+          bookmarks.map(b => cardHTML(b.article, { inReadLater: true })).join('')
+        : `<div class="empty-note">এখনো কিছু "পরে পড়ব"-তে রাখোনি।</div>`;
+    return;
+  }
+
+  const filedUnder = document.getElementById('filedUnder');
+  const results = document.getElementById('results');
+
+  let list = DATA.articles || [];
+  if (activeTopics.size > 0) {
+    list = list.filter(a => [...activeTopics].every(t => (a.topics || []).includes(t)));
+  }
+  if (searchTerm) {
+    list = list.filter(a => `${a.title} ${a.summary}`.toLowerCase().includes(searchTerm));
+  }
+
+  if (activeTopics.size === 0 && !searchTerm) {
+    filedUnder.style.display = 'none';
+    results.innerHTML = `<div class="welcome-note">একটা বা একাধিক টপিক ট্যাপ করো, বা উপরে সার্চ করো।</div>`;
+    return;
+  }
+
+  filedUnder.style.display = 'flex';
+  const labelParts = [];
+  if (activeTopics.size) labelParts.push([...activeTopics].join(' + '));
+  if (searchTerm) labelParts.push(`"${searchTerm}"`);
+  filedUnder.innerHTML = `📡 FILED UNDER: ${labelParts.join(' · ')} <span class="hit-count">&nbsp;· ${list.length} হিট</span> <span class="clear-link" onclick="clearFilters()">সাফ করো</span>`;
+
+  results.innerHTML = list.length ? list.map(a => cardHTML(a)).join('') : `<div class="empty-note">কোনো তাজা খবর নেই এই ফিল্টারে।</div>`;
+}
+
+fetch('news.json?_=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    DATA = data;
+    localStorage.setItem('taar-cache', JSON.stringify(data));
+    document.getElementById('offlineBanner').style.display = 'none';
+    render();
+  })
+  .catch(err => {
+    const cached = localStorage.getItem('taar-cache');
+    if (cached) {
+      DATA = JSON.parse(cached);
+      const banner = document.getElementById('offlineBanner');
+      banner.style.display = 'block';
+      banner.textContent = `⚠ অফলাইন — শেষ ক্যাশ থেকে দেখানো হচ্ছে (${new Date(DATA.generatedAt).toLocaleString('bn-BD')})`;
+      render();
+    } else {
+      document.getElementById('metaBar').textContent = 'news.json লোড করা যায়নি, আর কোনো ক্যাশও নেই। spider চলেছে কিনা চেক করো।';
+    }
+    console.error(err);
+  });
+</script>
+</body>
+</html>
