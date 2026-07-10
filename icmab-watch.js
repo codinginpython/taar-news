@@ -7,8 +7,11 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 
-const NOTICE_URL = "https://icmab.gov.bd/student-notice-board/";
+const NOTICE_URL = "https://icmab.gov.bd/notices/";
 const SEEN_FILE = "icmab-seen.json";
+const CATEGORIES = ["Students", "Members", "Employees", "Tenders"];
+// Only notify for these categories — change to include more, e.g. add "Members"
+const WATCH_CATEGORIES = ["Students"];
 
 const TELEGRAM_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
@@ -47,25 +50,43 @@ async function main() {
   await page.goto(NOTICE_URL, { waitUntil: "networkidle2", timeout: 45000 });
   await new Promise((r) => setTimeout(r, 3000));
 
-  const items = await page.evaluate(() => {
-    const anchors = Array.from(document.querySelectorAll("a"));
-    const seenHrefs = new Set();
+  const allItems = await page.evaluate((CATEGORIES) => {
+    const allEls = Array.from(document.querySelectorAll("body *"));
+    const dateRe = /\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}/;
+    const candidates = allEls.filter((el) => {
+      const txt = el.textContent || "";
+      if (txt.length > 800) return false;
+      if (!dateRe.test(txt)) return false;
+      return CATEGORIES.some((c) => txt.includes(c));
+    });
+    const cards = candidates.filter(
+      (el) => !candidates.some((other) => other !== el && el.contains(other))
+    );
+
     const out = [];
-    const skipExact = ["home", "about us", "contact us", "login", "sign in", "menu", "read more"];
-    for (const a of anchors) {
-      const text = (a.innerText || "").trim().replace(/\s+/g, " ");
-      const href = a.href;
-      if (!text || text.length < 15 || text.length > 300) continue;
-      if (!href || seenHrefs.has(href)) continue;
-      if (skipExact.includes(text.toLowerCase())) continue;
-      seenHrefs.add(href);
-      out.push({ title: text, link: href });
+    for (const card of cards) {
+      const txt = (card.textContent || "").replace(/\s+/g, " ").trim();
+      const category = CATEGORIES.find((c) => txt.includes(c)) || "";
+      const dateMatch = txt.match(dateRe);
+      const link = card.querySelector("a");
+      const heading = card.querySelector("h1, h2, h3, h4, h5, h6, strong, b");
+      let title = heading ? heading.innerText.trim() : "";
+      if (!title && link) title = (link.innerText || "").trim();
+      if (!title || !link || !link.href) continue;
+      out.push({
+        title: title.replace(/\s+/g, " "),
+        category,
+        date: dateMatch ? dateMatch[0] : "",
+        link: link.href,
+      });
     }
     return out;
-  });
+  }, CATEGORIES);
 
-  console.log(`Found ${items.length} candidate notice items.`);
-  items.slice(0, 30).forEach((it, i) => console.log(`  ${i + 1}. ${it.title} — ${it.link}`));
+  const items = allItems.filter((it) => WATCH_CATEGORIES.includes(it.category));
+
+  console.log(`Found ${allItems.length} total notice cards, ${items.length} in watched categories (${WATCH_CATEGORIES.join(", ")}).`);
+  items.slice(0, 30).forEach((it, i) => console.log(`  ${i + 1}. [${it.category}] ${it.date} — ${it.title} — ${it.link}`));
 
   await browser.close();
 
@@ -83,7 +104,7 @@ async function main() {
   if (newItems.length && !isFirstRun) {
     console.log(`${newItems.length} new item(s) — sending Telegram notifications.`);
     for (const it of newItems.slice(0, 10)) {
-      await sendTelegram(`📋 ICMAB নতুন নোটিশ:\n${it.title}\n${it.link}`);
+      await sendTelegram(`📋 ICMAB নতুন নোটিশ [${it.category}, ${it.date}]:\n${it.title}\n${it.link}`);
     }
   } else if (isFirstRun) {
     console.log("First run — saving baseline without sending notifications, so you don't get flooded with old notices.");
