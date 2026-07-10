@@ -1,0 +1,36 @@
+name: TAAR ICMAB watcher
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ICMAB watcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node icmab-watch.js
+
+      - name: Commit updated seen-list
+        run: |
+          git config user.name "taar-icmab-bot"
+          git config user.email "actions@github.com"
+          git add icmab-seen.json
+          git diff --cached --quiet || git commit -m "chore: update icmab-seen.json [skip ci]"
+          git push
