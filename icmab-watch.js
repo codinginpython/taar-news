@@ -56,6 +56,22 @@ async function main() {
     const bodyText = await page.evaluate(() => document.body.innerText);
     fs.writeFileSync("debug-body.txt", bodyText);
     console.log(`Debug: page title = "${await page.title()}", body text length = ${bodyText.length} chars`);
+
+    const domChain = await page.evaluate(() => {
+      const needle = "Career Mentoring Program";
+      const allLeafish = Array.from(document.querySelectorAll("*")).filter(
+        (el) => el.children.length === 0 && (el.textContent || "").includes(needle)
+      );
+      if (!allLeafish.length) return `[no element found containing "${needle}"]`;
+      let el = allLeafish[0];
+      const chain = [];
+      for (let i = 0; i < 7 && el; i++) {
+        chain.push(`----LEVEL ${i} (${el.tagName}${el.className ? "." + String(el.className).replace(/\s+/g, ".") : ""})----\n` + el.outerHTML.slice(0, 1500));
+        el = el.parentElement;
+      }
+      return chain.join("\n\n");
+    });
+    fs.writeFileSync("debug-dom.txt", domChain);
   } catch (err) {
     console.error("[debug capture failed]", err.message);
   }
