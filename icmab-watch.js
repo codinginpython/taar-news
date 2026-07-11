@@ -77,42 +77,27 @@ async function main() {
   }
 
   const allItems = await page.evaluate((CATEGORIES) => {
-    const allEls = Array.from(document.querySelectorAll("body *"));
-    const dateRe = /\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}/;
-    const candidates = allEls.filter((el) => {
-      const txt = el.textContent || "";
-      if (txt.length > 800) return false;
-      if (!dateRe.test(txt)) return false;
-      return CATEGORIES.some((c) => txt.includes(c));
-    });
-    const cards = candidates.filter(
-      (el) => !candidates.some((other) => other !== el && el.contains(other))
-    );
-
+    const cards = Array.from(document.querySelectorAll(".MuiCard-root"));
     const out = [];
     for (const card of cards) {
-      const txt = (card.textContent || "").replace(/\s+/g, " ").trim();
-      const category = CATEGORIES.find((c) => txt.includes(c)) || "";
-      const dateMatch = txt.match(dateRe);
-      const link = card.querySelector("a");
-      const heading = card.querySelector("h1, h2, h3, h4, h5, h6, strong, b");
-      let title = heading ? heading.innerText.trim() : "";
-      if (!title && link) title = (link.innerText || "").trim();
-      if (!title || !link || !link.href) continue;
-      out.push({
-        title: title.replace(/\s+/g, " "),
-        category,
-        date: dateMatch ? dateMatch[0] : "",
-        link: link.href,
-      });
+      const category = card.querySelector(".MuiChip-label")?.textContent?.trim() || "";
+      if (!CATEGORIES.includes(category)) continue;
+      const captions = card.querySelectorAll(".MuiTypography-caption");
+      const date = captions[0]?.textContent?.trim() || "";
+      const time = captions[1]?.textContent?.trim() || "";
+      const title = card.querySelector("h6")?.textContent?.trim() || "";
+      if (!title) continue;
+      out.push({ category, date, time, title });
     }
     return out;
   }, CATEGORIES);
 
-  const items = allItems.filter((it) => WATCH_CATEGORIES.includes(it.category));
+  const items = allItems
+    .filter((it) => WATCH_CATEGORIES.includes(it.category))
+    .map((it) => ({ ...it, key: `${it.category}|${it.date}|${it.title}` }));
 
   console.log(`Found ${allItems.length} total notice cards, ${items.length} in watched categories (${WATCH_CATEGORIES.join(", ")}).`);
-  items.slice(0, 30).forEach((it, i) => console.log(`  ${i + 1}. [${it.category}] ${it.date} — ${it.title} — ${it.link}`));
+  items.slice(0, 30).forEach((it, i) => console.log(`  ${i + 1}. [${it.category}] ${it.date} ${it.time} — ${it.title}`));
 
   await browser.close();
 
@@ -122,15 +107,17 @@ async function main() {
   } catch {
     console.log(`No existing ${SEEN_FILE} found — treating this as the first run.`);
   }
-  const seenLinks = new Set(seenBefore.map((x) => x.link));
+  const seenKeys = new Set(seenBefore.map((x) => x.key));
   const isFirstRun = seenBefore.length === 0;
 
-  const newItems = items.filter((it) => !seenLinks.has(it.link));
+  const newItems = items.filter((it) => !seenKeys.has(it.key));
 
   if (newItems.length && !isFirstRun) {
     console.log(`${newItems.length} new item(s) — sending Telegram notifications.`);
     for (const it of newItems.slice(0, 10)) {
-      await sendTelegram(`📋 ICMAB নতুন নোটিশ [${it.category}, ${it.date}]:\n${it.title}\n${it.link}`);
+      await sendTelegram(
+        `📋 ICMAB নতুন নোটিশ [${it.category}, ${it.date}]:\n${it.title}\n${NOTICE_URL}`
+      );
     }
   } else if (isFirstRun) {
     console.log("First run — saving baseline without sending notifications, so you don't get flooded with old notices.");
