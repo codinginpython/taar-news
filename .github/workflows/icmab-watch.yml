@@ -2,8 +2,9 @@ name: TAAR ICMAB watcher
 
 on:
   schedule:
+    # every 6 hours
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
 
 permissions:
   contents: write
@@ -35,6 +36,7 @@ jobs:
           path: |
             debug-screenshot.png
             debug-body.txt
+            debug-dom.txt
           retention-days: 7
 
       - name: Commit updated seen-list
