@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T16:04:28.051Z",
+  "generatedAt": "2026-07-12T21:58:32.567Z",
   "topics": [
     {
       "en": "Economy/Business",
@@ -80,31 +80,11 @@
   ],
   "articles": [
     {
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T15:58:15.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
-      "summary": "Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.",
-      "link": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
-      "pubDate": "2026-07-12T15:56:25.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-      "summary": "⚽ All the latest as the quarter-finals conclude\n⚽ Player guide | Bracketology | Golden Boot | Email us\nSidebar, Whatever bears such a striking resemblance to Neil Innes’ I’m Free to be an Idiot that the former Monty Python collaborator received a songwriting c",
-      "link": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
-      "pubDate": "2026-07-12T15:44:20.000Z",
-      "source": "The Guardian Football",
+      "title": "Arsenal want Argentina's Alvarez - Monday's gossip",
+      "summary": "Arsenal want to sign Atletico Madrid's Julian Alvarez, Aston Villa hijack Newcastle's move for Johan Manzambi, plus more.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1myd53vgvno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T21:56:53.000Z",
+      "source": "BBC Football",
       "region": "global",
       "topics": [
         "Football"
@@ -112,20 +92,384 @@
       "otherSources": []
     },
     {
-      "title": "বন্যাকবলিত ১১ জেলায় বিজিবি মোতায়েন",
-      "summary": "টানা ভারী বর্ষণ ও পাহাড়ি ঢলে ক্ষতিগ্রস্ত ১১ জেলায় উদ্ধার, আশ্রয়, ত্রাণ ও চিকিৎসা সহায়তায় বিজিবি মোতায়েন করা হয়েছে, চলছে ৯০টি পয়েন্টে নজরদারি।",
-      "link": "https://www.prothomalo.com/bangladesh/mq7reydq5o",
-      "pubDate": "2026-07-12T15:40:19.000Z",
+      "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+      "summary": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
+      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+      "pubDate": "2026-07-12T21:46:50.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "CNG/Fuel"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Here’s the latest.",
+      "summary": "",
+      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest",
+      "pubDate": "2026-07-12T21:46:49.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
+      "summary": "Almost 55% of homes at auction were sold, weekend figures show. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nBurke says definitions of antisemitism and Islamophobia on campuses about keeping students safe\nTony Burke, t",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
+      "pubDate": "2026-07-12T21:43:25.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.",
+      "link": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
+      "pubDate": "2026-07-12T21:38:42.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Deadly Israeli strikes pound Gaza",
+      "summary": "Israel’s military has attacked several places across Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
+      "pubDate": "2026-07-12T21:33:10.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Israel to hold national elections on October 27, parliament says",
+      "summary": "Netanyahu, Israel's longest-serving prime minister, has confirmed that he will run for office again.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "pubDate": "2026-07-12T21:26:28.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "At least 27 killed in blaze at Bangkok pub, Thai officials say",
+      "summary": "Fire is one of the deadliest such incidents in the popular tourist destination in ⁠recent years\nAt least 27 people have ⁠been killed in a ⁠fire ​at a pub in Bangkok, Thailand’s prime minister and other officials said ⁠on Monday, in one of the deadliest such in",
+      "link": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
+      "pubDate": "2026-07-12T21:23:56.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
+      "summary": "Pro-Palestine activists unfurled a giant Palestinian flag and a banner on London's Tower Bridge.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
+      "pubDate": "2026-07-12T21:21:27.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
+      "summary": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to set up temporary housing to shelter thousands of people left homeless.",
+      "link": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T21:18:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "summary": "US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "pubDate": "2026-07-12T21:12:54.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "The man who changed the Arab world",
+      "summary": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss",
+      "pubDate": "2026-07-12T21:09:03.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Georgia's unique in the American Revolution told through its historical markers",
+      "summary": "NPR's Don Gonyea speaks with Andrew Iden, Executive Producer of Marked!: The Podcast, which examines Georgia's role in America's revolutionary period through the 2,000 roadside historical marker.",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
+      "pubDate": "2026-07-12T21:08:15.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Sinner beats Zverev in thriller to retain Wimbledon title",
+      "summary": "Jannik Sinner comes from a set down to defeat Alexander Zverev 6-7 (7-9) 7-6 (7-2) 6-3 6-4 to retain his Wimbledon title.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/c75y2rgvv96o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T21:03:22.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Venezuela’s Post-Quake Politics",
+      "summary": "People are openly and forcefully voicing their anger at the government for the first time in years.",
+      "link": "https://www.nytimes.com/2026/07/12/world/venezuela-earthquake-iran.html",
+      "pubDate": "2026-07-12T21:00:33.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+      "summary": "Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+      "pubDate": "2026-07-12T20:48:37.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Thailand: Bangkok bar fire leaves dozens dead",
+      "summary": "At least 27 people were killed in a fire at a bar in the Thai capital, Prime Minister Anutin Charnvirakul told local media.",
+      "link": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T20:25:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
+      "summary": "Italy's Jannik Sinner beats Germany's Alexander Zverev  6-7 (7-9) 7-6 (7-2) 6-3 6-4 to claim his fifth Grand Slam.",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/sinner-beats-zverev-to-defend-wimbledon-mens-singles-tennis-title?traffic_source=rss",
+      "pubDate": "2026-07-12T20:20:37.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Qatar’s former emir remembered as ‘a man of vision and courage’",
+      "summary": "US diplomat Adam Ereli remembers Qatar’s former Emir Sheikh as a personable and charismatic leader.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatars-former-emir-remembered-as-a-man-of-vision-and?traffic_source=rss",
+      "pubDate": "2026-07-12T20:14:43.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "How will Qatar’s Father Emir be remembered?",
+      "summary": "Former Emir Sheikh Hamad Bin Khalifa Al Thani has died",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/12/how-will-qatars-father-emir-be-remembered?traffic_source=rss",
+      "pubDate": "2026-07-12T20:14:13.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "At least 27 killed in Bangkok bar fire",
+      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T20:13:14.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ঢাকায় টাকা ঢেলেও জলাবদ্ধতা",
+      "summary": "আওয়ামী লীগ সরকারের সময়ে ব্যয় অন্তত ২,১৪৬ কোটি টাকা। সুফল নিয়ে প্রশ্ন। পরিকল্পিত কাজ করার পরামর্শ নতুন সরকারকে।",
+      "link": "https://www.prothomalo.com/bangladesh/capital/4gfyip048q",
+      "pubDate": "2026-07-12T20:12:08.000Z",
       "source": "প্রথম আলো",
       "region": "bd",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "Syrian parliament convenes for first time following al-Assad’s overthrow",
-      "summary": "President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss",
-      "pubDate": "2026-07-12T15:38:36.000Z",
+      "title": "Sinner holds off Zverev to defend Wimbledon title",
+      "summary": "Jannik Sinner underlines why he is the world's best player by holding off Alexander Zverev to win back-to-back Wimbledon men's singles titles.",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c78y2eqq317o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T20:10:20.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
+      "summary": "Mariano Rajoy condemned for opinion piece on Spanish website El Debate ahead of World Cup semifinal.",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss",
+      "pubDate": "2026-07-12T20:09:58.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Police warn Widdecombe murder speculation is ‘unhelpful and distressing’",
+      "summary": "Politicians should not comment before facts established, says ex-chief constable, as Farage calls killing ‘premeditated murder’\nSenior police figures and politicians have warned against speculation during the murder investigation into Ann Widdecombe’s death, a",
+      "link": "https://www.theguardian.com/politics/2026/jul/12/police-speculation-during-widdecombe-investigation-is-unhelpful-and-distressing",
+      "pubDate": "2026-07-12T20:07:42.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "How Sinner slid his way to Wimbledon glory",
+      "summary": "BBC Sport's Jamie Murray, Tim Henman and Todd Woodbridge analyse Jannik Sinner's Wimbledon final victory against Alexander Zverev.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/c8r27pymem1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T20:03:54.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
+      "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
+      "link": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
+      "pubDate": "2026-07-12T20:01:45.000Z",
+      "source": "STAT News",
+      "region": "global",
+      "topics": [
+        "Medicine",
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "মোহাম্মদপুরে ঘুমের ওষুধ খেয়ে যুবকের মৃত্যু, হাসপাতালে মারমুখী স্বজনেরা",
+      "summary": "ভুল চিকিৎসার অভিযোগ তুলে হাসপাতালের কর্মকর্তা-কর্মচারীদের আক্রমণের চেষ্টা করেন মৃতের ক্ষুব্ধ স্বজনেরা। পরে পুলিশ গিয়ে হাসপাতালের পরিস্থিতি নিয়ন্ত্রণে আনে।",
+      "link": "https://www.prothomalo.com/bangladesh/capital/zh0d05s3ik",
+      "pubDate": "2026-07-12T19:59:30.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "5 Live Sport: All About… Wimbledon 2026",
+      "summary": "Reaction to Jannik Sinner's 5th Grand Slam victory with Pat Cash & Marion Bartoli.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nydrjg?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:59:00.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
+      "summary": "New explosions have been heard in Bandar Abbas and Qeshm Island.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
+      "pubDate": "2026-07-12T19:56:26.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Wimbledon crowd 'played big part' in me reaching final - Zverev",
+      "summary": "After his defeat to Jannik Sinner, Alexander Zverev reflected on how the Wimbledon crowd \"played a big part\" in his journey to the final.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/c982xw18yz8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:55:52.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+      "summary": "Footage shared online by first responders shows a huge blaze raging and plumes coming out of the front door of the pub in the northern part of the Thai capital.",
+      "link": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+      "pubDate": "2026-07-12T19:53:24.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "summary": "Ukraine is particularly vulnerable to Russian ballistic missiles due to critical shortage of Patriot munitions.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
+      "pubDate": "2026-07-12T19:53:03.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+      "summary": "First competitive game between teams since 2002 World Cup\n\nGeorgia braced for potential flashpoints in Atlanta buildup\n\nIt has been billed as one of the biggest grudge matches in the history of international football. After England’s players rode their luck ag",
+      "link": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
+      "pubDate": "2026-07-12T19:51:33.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football",
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "বিশ্বকাপে ফ্রান্সের পারফরম্যান্স বাংলাদেশের তরুণ ফুটবলারদের অনুপ্রাণিত করবে: ফ্রান্সের রাষ্ট্রদূত",
+      "summary": "ফ্রান্সের রাষ্ট্রদূত উল্লেখ করেছেন, ফ্রান্সের বিশ্বকাপ পারফরম্যান্স বাংলাদেশের তরুণ ফুটবলারদের অনুপ্রাণিত করবে এবং দেশের ফুটবলের উন্নয়নে সহায়ক হবে।",
+      "link": "https://www.prothomalo.com/bangladesh/capital/6bssb8jdof",
+      "pubDate": "2026-07-12T19:51:26.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+      "summary": "Oil and gas deals are expected ⁠to be signed as part of a broader push ​for economic, trade and investment cooperation.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
+      "pubDate": "2026-07-12T19:48:00.000Z",
       "source": "Al Jazeera",
       "region": "global",
       "topics": [
@@ -134,10 +478,379 @@
       "otherSources": []
     },
     {
-      "title": "Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign",
-      "summary": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump?",
-      "link": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "pubDate": "2026-07-12T15:38:03.000Z",
+      "title": "'It takes two' - Sinner praises Zverev for pushing him in 'amazing' final",
+      "summary": "Jannik Sinner says Alexander Zverev can be a Wimbledon champion soon and promises to \"be very, very careful\" as the German challenges his world number one status, following a four-set win for Sinner in the final of the grass-court Grand Slam.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/c5yz1k3wj40o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:43:35.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:42:26.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
+      "summary": "The Republican senator from South Carolina had an intense interest in the Middle East, and was a staunch supporter of U.S. strikes on Iran.",
+      "link": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
+      "pubDate": "2026-07-12T19:42:07.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "হরমুজ প্রণালি এড়াতে ভূমধ্যসাগরীয় পাইপলাইন চালুর পরিকল্পনা করছে সিরিয়া, ইরাক ও যুক্তরাষ্ট্র",
+      "summary": "ইরানের প্রভাব এড়াতে ভূমধ্যসাগর পর্যন্ত একটি পুরোনো তেলের পাইপলাইন নতুন করে চালুর পরিকল্পনা করছে সিরিয়া, ইরাক ও যুক্তরাষ্ট্র। আগামী সপ্তাহে এই চুক্তি হতে পারে।",
+      "link": "https://www.prothomalo.com/world/middle-east/tdsz237hfr",
+      "pubDate": "2026-07-12T19:40:54.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "আবারও উইম্বলডন চ্যাম্পিয়ন সিনার",
+      "summary": "আলেকসান্দার জভেরেভকে ৬-৭ (৭/৯), ৭-৬ (৭/২), ৬-৩, ৬-৪ গেমে হারিয়ে উইম্বলডন শিরোপা ধরে রাখলেন ইয়ানিক সিনার।",
+      "link": "https://www.prothomalo.com/sports/tennis/4b3ufak1w9",
+      "pubDate": "2026-07-12T19:40:46.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Sinner beats Zverev to retain Wimbledon title",
+      "summary": "Jannik Sinner retained his Wimbledon title by beating Alexander Zverev in Sunday's men's final. The Italian claims his fifth Grand Slam crown and extends his dominance over the German to 10 straight victories.",
+      "link": "https://www.dw.com/en/sinner-beats-zverev-to-retain-wimbledon-title/a-77926065?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T19:39:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "France opens terror probe after gun found in Jewish suburb",
+      "summary": "Police said they found a \"military-grade weapon\" during the search of a suspicious car parked in a Paris neighborhood with a large Jewish population.",
+      "link": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T19:37:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
+      "summary": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.",
+      "link": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
+      "pubDate": "2026-07-12T19:32:18.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
+      "summary": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
+      "pubDate": "2026-07-12T19:31:20.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Why the Iran-US ceasefire is falling apart",
+      "summary": "Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+      "pubDate": "2026-07-12T19:27:34.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Sinner's best shots as world number one retains Wimbledon title",
+      "summary": "Enjoy the best of Jannik Sinner's title-retaining performance, as the world number one defeats Alexander Zverev in four sets in the men's singles final at Wimbledon 2026.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/c932rl3r324o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:24:19.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Anti-migrant display set alight in Northern Ireland bonfire",
+      "summary": "The flags of Palestine, Syria, Sudan and Somalia were draped over a huge bonfire tower before it was set alight.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss",
+      "pubDate": "2026-07-12T19:21:17.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Friends turned foes: The split reshaping Senegal",
+      "summary": "Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
+      "pubDate": "2026-07-12T19:21:00.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Infantino opens door to 64-team World Cup",
+      "summary": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:18:56.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "'Sweet Sinner' wraps up 'compelling' final to retain title",
+      "summary": "Jannik Sinner brings Centre Court to its feet, winning a brilliant rally before wrapping up a \"compelling\" Wimbledon final against Alexander Zverev to retain the men's singles title.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/c3rygp5yj43o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:11:29.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "'Written off as too old' - France beat up-and-coming Spain in 2006",
+      "summary": "Spain meet France in the last 16 of the 2006 World Cup.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3vyg507xd2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T19:07:01.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "আর জি কর হত্যাকাণ্ডে বিতর্কিত নির্মল ঘোষকে দলে নিলেন না তৃণমূলের বিদ্রোহীরা",
+      "summary": "নির্মল ঘোষের বিরুদ্ধে অভিযোগ রয়েছে, আর জি কর হাসপাতালে চিকিৎসককে ধর্ষণ ও হত্যার ঘটনায় ময়নাতদন্ত ছাড়াই মরদেহ দাফনে জড়িত ছিলেন তিনি।",
+      "link": "https://www.prothomalo.com/world/india/q6mz9zpnq7",
+      "pubDate": "2026-07-12T19:05:47.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "সংসদ চত্বরে চিরনিদ্রায় শায়িত হলেন সাবেক স্পিকার জমির উদ্দিন সরকার",
+      "summary": "সহকর্মী ও রাজনৈতিক নেতাদের শ্রদ্ধায় সংসদ ভবন চত্বরে চিরনিদ্রায় শায়িত হলেন সাবেক স্পিকার জমির উদ্দিন সরকার। তাঁর বিদায়ে রাজনৈতিক অঙ্গনে শূন্যতা তৈরি হয়েছে।",
+      "link": "https://www.prothomalo.com/politics/0nwixlfekr",
+      "pubDate": "2026-07-12T19:02:37.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+      "summary": "General Jean Elysee Dao says 60 others also wounded as army retakes key town after nearly a week of fighting.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
+      "pubDate": "2026-07-12T19:01:40.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "জিলাপি খাইয়ে সড়ক উদ্বোধন, এরপরই ইট চুরি",
+      "summary": "",
+      "link": "https://www.prothomalo.com/video/bangladesh/jbpexp9q16",
+      "pubDate": "2026-07-12T18:59:08.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "How Maradona dominated England in 1986",
+      "summary": "Diego Maradona leads his Argentina team to victory against England in the quarter-final of the World Cup in 1986.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/clyxj3x99l9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T18:58:20.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T18:57:17.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Argentina v England 2002 - Redemption for Beckham",
+      "summary": "England meet Argentina in the group stage of the 2002 World Cup.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cy5vxevngndo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T18:54:43.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Argentina v England 1998 - Owen, Beckham and penalty pain",
+      "summary": "England meet Argentina in the last 16 of the 1998 World Cup.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cz75405qe3wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T18:51:53.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Reform would have received a fraction of £26.7m donations haul under a £100,000 cap, analysis shows",
+      "summary": "Exclusive: Party’s average registered donation was £137, 496 last year, almost six times that of Labour or Tories\nReform UK would have held just 15% of the donations it received last year if a proposed £100,000 cap on political donations had been in force, acc",
+      "link": "https://www.theguardian.com/politics/2026/jul/12/reform-uk-donations-proposed-10000-cap-analysis",
+      "pubDate": "2026-07-12T18:44:38.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
+      "summary": "The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot afford to be distracted heading into the World Cup semi-final\nThomas Tuchel lobbed a grenade into the mix. Jude Bellingham picked it up and threw it back. There was ",
+      "link": "https://www.theguardian.com/football/2026/jul/12/thomas-tuchel-jude-bellingham-tension-england-argentina-norway-world-cup-2026",
+      "pubDate": "2026-07-12T18:30:40.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football",
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "বৃষ্টিভেজা সন্ধ্যায় ‘রইদ’ নিয়ে ব্যতিক্রমী আয়োজন",
+      "summary": "‘রইদ: প্রতীক, পুনরাবৃত্তি, প্রেম ও পৌরাণিক আলো-আঁধারি ভাষার সামষ্টিক অধ্যয়ন’ শিরোনামের এ ব্যতিক্রমী আয়োজনটি করেছিল ম্যাজিক লণ্ঠন স্কুল।",
+      "link": "https://www.prothomalo.com/entertainment/dhallywood/qjpxdjdfpm",
+      "pubDate": "2026-07-12T18:30:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
+      "summary": "Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.",
+      "link": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
+      "pubDate": "2026-07-12T18:26:13.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
+      "summary": "Thousands gathered in Doha to bid farewell to Qatar's Father Emir, Sheikh Hamad bin Khalifa Al Thani.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+      "pubDate": "2026-07-12T18:24:30.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+      "summary": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T18:18:22.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "মার্কিন সিনেটর লিন্ডসে গ্রাহামের মৃত্যুতে কেন শোকে বিহ্বল ইসরায়েলি নেতারা",
+      "summary": "প্রধানমন্ত্রীর বিবৃতির পাশাপাশি সামাজিক মাধ্যমে পোস্ট দিয়েছেন ইসরায়েলের প্রেসিডেন্ট, প্রতিরক্ষামন্ত্রী, পররাষ্ট্রমন্ত্রী ও সাবেক প্রধানমন্ত্রী নাফতালি বেনেট।",
+      "link": "https://www.prothomalo.com/world/usa/yjivukv5si",
+      "pubDate": "2026-07-12T18:13:29.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74",
+      "summary": "Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.",
+      "link": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html",
+      "pubDate": "2026-07-12T18:11:16.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "জুলাইয়ের চেতনা এ দেশে বাস্তবায়ন করে ছাড়ব: সাবেক ধর্ম উপদেষ্টা",
+      "summary": "বর্তমান রাজনৈতিক পরিস্থিতি নিয়ে উদ্বেগ প্রকাশ করে আ ফ ম খালিদ দাবি করেন, বিভিন্ন দলের মধ্যে কাদা–ছোড়াছুড়ি বাড়ছে। তাঁর ধারণা, এর পেছনে তৃতীয় কোনো শক্তিরও ভূমিকা থাকতে পারে।",
+      "link": "https://www.prothomalo.com/bangladesh/capital/otnfrllcqb",
+      "pubDate": "2026-07-12T18:04:17.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "বাঁশখালীতে পানিবন্দী পরিবারগুলোর পাশে প্রথম আলো বন্ধুসভা",
+      "summary": "",
+      "link": "https://www.prothomalo.com/bangladesh/district/wgl1iaccrf",
+      "pubDate": "2026-07-12T17:58:03.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Who will replace Trump ally Lindsey Graham in the US Senate?",
+      "summary": "The US president suggests he is considering a potential candidate to fill the late senator's seat in South Carolina.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
+      "pubDate": "2026-07-12T17:51:54.000Z",
       "source": "Al Jazeera",
       "region": "global",
       "topics": [],
@@ -145,22 +858,183 @@
     },
     {
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T15:34:45.000Z",
+      "pubDate": "2026-07-12T17:40:34.000Z",
       "source": "BBC News",
       "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
-      "summary": "The BBC's Nick Beake sees homes razed to the ground and \"a sea of black\" in one of the villages hit hardest by Spain's deadly wildfires.",
-      "link": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T15:33:27.000Z",
+      "title": "Former Spanish PM accused of racism in remarks about French football team",
+      "summary": "Political leaders in both countries rebuke Mariano Rajoy after he writes team ‘does not have any French players’\nThe former Spanish conservative prime minister Mariano Rajoy is facing growing accusations of racism after writing in a World Cup newspaper column ",
+      "link": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
+      "pubDate": "2026-07-12T17:39:13.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football",
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Toronto police looking for suspects after deadly shooting at festival",
+      "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+      "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+      "pubDate": "2026-07-12T17:22:29.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [
+        "Fine Arts/Culture"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
+      "link": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+      "pubDate": "2026-07-12T17:13:47.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Here’s a look at the heavy strikes in recent days.",
+      "summary": "The attack",
+      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes",
+      "pubDate": "2026-07-12T17:10:53.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
+      "summary": "Ukraine's president announced a government shake up, with PM Yuliia Svyrydenko stepping down after a year in office.",
+      "link": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T17:03:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Scrapping early release for sex offenders could leave no capacity in jails, says David Lammy",
+      "summary": "Exclusive: Deputy PM says opponents have ‘no solutions’ to possible collapse of justice system in England and Wales\n\nDrugs, drones and heat: Amber Rudd and David Lammy begin search for answers to prisons crisis\n\nOpponents of plans to release rapists and sex of",
+      "link": "https://www.theguardian.com/society/2026/jul/12/scrapping-early-release-sex-offenders-no-capacity-jails-england-wales-david-lammy",
+      "pubDate": "2026-07-12T17:00:11.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
+      "summary": "A surge of cases of the intestinal illness that causes diarrhea and nausea has been detected in 31 states, according to federal health authorities, but the source is still under investigation.",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
+      "pubDate": "2026-07-12T16:48:41.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T16:46:24.000Z",
       "source": "BBC News",
       "region": "global",
       "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Are German companies leaving the country?",
+      "summary": "Should I stay or should I go? Given Germany's high cost and sluggish growth, some business leaders are mulling relocating, or at least investing abroad. DW has a look at the numbers.",
+      "link": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T16:46:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+      "summary": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
+      "link": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+      "pubDate": "2026-07-12T16:43:37.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T16:35:50.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Ken Bates obituary",
+      "summary": "Former owner and chairman of Chelsea FC who bought the club for a pound and helped restore it to the top rank of English football\nFor more than 20 years, Ken Bates, who has died aged 94, was synonymous with Chelsea Football Club, which he bought in 1982 from t",
+      "link": "https://www.theguardian.com/football/2026/jul/12/ken-bates-obituary",
+      "pubDate": "2026-07-12T16:19:05.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Starmer is expected to use last week in power to push through Hillsborough law",
+      "summary": "Stalled legislation aims to prevent cover-ups and help families seek justice after major disasters\nKeir Starmer is expected to use his final week in office to push the Hillsborough law through its remaining stages in the Commons after months of delays.\nThis bi",
+      "link": "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law",
+      "pubDate": "2026-07-12T16:11:57.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+      "summary": "We assess the teams who played in the last eight as the business end of the tournament approaches\nDidier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandabl",
+      "link": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
+      "pubDate": "2026-07-12T16:00:22.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football",
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley",
+      "summary": "Real Madrid forward is thriving on the global stage as the first player to score twice in consecutive knockout matches at the tournament since Maradona in 1986\nEngland’s World Cup journey has rapidly become the Jude Bellingham show. He scored twice to see off ",
+      "link": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-england-world-cup-2026-international-goals-leading-scorers",
+      "pubDate": "2026-07-12T15:48:14.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
       "otherSources": []
     },
     {
@@ -174,55 +1048,13 @@
       "otherSources": []
     },
     {
-      "title": "বাক্প্রতিবন্ধী ওয়াহিদার কবর দেখতে এলেন আরও ১৩ স্বজন, কাঁদলেন",
-      "summary": "মেথিকান্দা রেলস্টেশন এলাকার বাসিন্দারা নিহত ওই নারীকে ববি বেগম হিসেবে চিনলেও তাঁর আসল নাম ওয়াহিদা বেগম। বাড়ি বগুড়ায়।",
-      "link": "https://www.prothomalo.com/bangladesh/district/anrrc1179h",
-      "pubDate": "2026-07-12T15:30:02.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "শাড়ি নিয়ে প্রতারণার মামলায় তানজিন তিশাকে আদালতে হাজিরের নির্দেশ",
-      "summary": "আদালত তানজিনার তিশার বিরুদ্ধে সমন জারি করে আগামী ১৩ আগস্ট আদালতে হাজির হওয়ার নির্দেশ দিয়েছেন।",
-      "link": "https://www.prothomalo.com/bangladesh/gxrv1zm0sn",
-      "pubDate": "2026-07-12T15:24:21.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "২৫ বছর পূর্ণ না হলে পেনশন নেই",
-      "summary": "২৫ বছর পূর্ণ না হলে পেনশন নেই",
-      "link": "https://www.prothomalo.com/bangladesh/25-bchr-puurnn-naa-hle-penshn-nei",
-      "pubDate": "2026-07-12T15:23:02.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
-      "summary": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "summary": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
       "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-12T15:22:52.000Z",
       "source": "BBC News",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Starmer to use last week in power to push through Hillsborough law",
-      "summary": "Stalled legislation aims to prevent cover-ups and help families seek justice after major disasters\nKeir Starmer is expected to use his final week in office to push the Hillsborough law through its remaining stages in the Commons after months of delays.\nThis bi",
-      "link": "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law",
-      "pubDate": "2026-07-12T15:19:51.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
       "otherSources": []
     },
     {
@@ -238,82 +1070,8 @@
       "otherSources": []
     },
     {
-      "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-      "summary": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-      "pubDate": "2026-07-12T15:16:44.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "প্রামাণ্যচিত্রে মানবিকতা ও সংগ্রামের প্রতিচ্ছবি",
-      "summary": "সৈয়দা জোহরা তাজউদ্দীনের বর্ণাঢ্য জীবন নিয়ে নির্মিত প্রামাণ্যচিত্রটির প্রিমিয়ার প্রদর্শনী হলো গতকাল।",
-      "link": "https://www.prothomalo.com/bangladesh/capital/dxse4uyurz",
-      "pubDate": "2026-07-12T15:16:04.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [
-        "Philosophy"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "জার্সি বদলায়, বন্ধুত্ব নয়: ফুটবলের পাঁচ অমলিন ব্রোম্যান্স",
-      "summary": "ফুটবল শুধু গোল, ট্রফি কিংবা রেকর্ডের গল্প নয়। একই ড্রেসিংরুমে গড়ে ওঠা কিছু বন্ধুত্ব সময়, ক্লাব ও প্রতিদ্বন্দ্বিতার সীমা পেরিয়ে হয়ে উঠেছে কিংবদন্তি। মাঠের বাইরের সেই মানবিক সম্পর্কই ফুটবলকে আরও সুন্দর করে তোলে।",
-      "link": "https://www.haal.fashion/celeb/klibced48c",
-      "pubDate": "2026-07-12T15:15:26.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Here’s the latest.",
-      "summary": "",
-      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest",
-      "pubDate": "2026-07-12T15:05:50.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "What made US Republican Senator Lindsey Graham a controversial figure",
-      "summary": "Graham was known for his hawkish views on US defence and foreign policies.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
-      "pubDate": "2026-07-12T15:03:49.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "বন্যাদুর্গত বাঁশখালী ও সাতকানিয়ায় ত্রাণ বিতরণে যুবদল সভাপতি",
-      "summary": "",
-      "link": "https://www.prothomalo.com/bangladesh/district/1xy7kjaycz",
-      "pubDate": "2026-07-12T15:01:25.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "ইংল্যান্ড টেস্ট দল থেকে চাকরি গেল ম্যাককালামের",
-      "summary": "ইংল্যান্ডের টেস্ট দলের প্রধান কোচের পদ থেকে ব্রেন্ডন ম্যাককালামকে বরখাস্ত করেছে ইংল্যান্ড। তবে সাদা বলের দায়িত্বে থাকছেন তিনি।",
-      "link": "https://www.prothomalo.com/sports/cricket/yn94w730gd",
-      "pubDate": "2026-07-12T15:01:23.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Dorothy’s aged care home charged $52 a day for Foxtel, wine and newspapers that were no use to her. She wasn’t alone",
-      "summary": "Exclusive: Many aged care residents in Australia are charged for services they can’t use or understand, prompting an investigation from the regulator\n\nGet our breaking news email, free app or daily news podcast\n\nJeff Gilling was surprised when he looked at the",
+      "summary": "Exclusive: Many aged care residents in Australia are charged for services they can’t use or understand, prompting an investigation from the regulator\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news p",
       "link": "https://www.theguardian.com/australia-news/2026/jul/13/aged-care-charges-services-regulator-investigation",
       "pubDate": "2026-07-12T15:00:22.000Z",
       "source": "The Guardian World",
@@ -323,7 +1081,7 @@
     },
     {
       "title": "Australia to ditch paper arrrival cards for incoming travellers",
-      "summary": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trial\n\nGet our breaking news email, free app or daily news podcast\n\nThe days of filling out paper arrival cards are to end for millions of travellers",
+      "summary": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trial\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe days of filling out p",
       "link": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
       "pubDate": "2026-07-12T15:00:22.000Z",
       "source": "The Guardian World",
@@ -333,7 +1091,7 @@
     },
     {
       "title": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
-      "summary": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predict\n\nGet our breaking news email, free app or daily news podcast\n\nOne Nation’s spectacular rise from a distant 6% of the vote in t",
+      "summary": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predict\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nOne Nati",
       "link": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government",
       "pubDate": "2026-07-12T15:00:21.000Z",
       "source": "The Guardian World",
@@ -357,176 +1115,11 @@
       "otherSources": []
     },
     {
-      "title": "আর্লিং হলান্ড — হেরে গিয়েও বিশ্বকাপের নায়ক",
-      "summary": "সেই অপূর্ণতাই পূর্ণতা পেল ২০২৬ সালে। দীর্ঘ ২৮ বছর পর, ১৯৯৮ সালের পর প্রথমবারের মতো নরওয়ে বিশ্বকাপের মূল পর্বে জায়গা করে নেয়। বাছাইপর্বে দুর্দান্ত নৈপুণ্য, ইতালির মতো শক্তিশালী প্রতিপক্ষকে হারানো এবং গোলের পর গোল করে দলকে সামনে থেকে নেতৃত্ব দেওয়া—সবকিছুর কেন্দ্",
-      "link": "https://www.bondhushava.com/sports/iz66wp55pq",
-      "pubDate": "2026-07-12T15:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "বিজিবির অভিযানে বান্দরবানের গহিন থেকে ৪ পর্যটকে উদ্ধার",
-      "summary": "",
-      "link": "https://www.prothomalo.com/video/bangladesh/l1hias3a6o",
-      "pubDate": "2026-07-12T15:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "রাজশাহীতে ধর্ষণ মামলায় গির্জার ফাদার বেকসুর খালাস, বাদীপক্ষের অসন্তোষ",
-      "summary": "রাজশাহীর তানোরে ছয় বছর আগের একটি ধর্ষণ মামলা থেকে বেকসুর খালাস পেয়েছেন স্থানীয় একটি গির্জার ফাদার প্রদীপ গ্রেগরি।",
-      "link": "https://www.prothomalo.com/bangladesh/district/r2vorz5vjm",
-      "pubDate": "2026-07-12T14:56:12.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "স্থানীয় সরকার নির্বাচনের জন্য সাংগঠনিক তৎপরতা জোরদারের সিদ্ধান্ত বিএনপির",
-      "summary": "",
-      "link": "https://www.prothomalo.com/politics/niaqprsbnl",
-      "pubDate": "2026-07-12T14:55:16.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "চীনে টাইফুন ‘বাভি’র আঘাত, প্রায় ২০ লাখ মানুষ নিরাপদ স্থানে",
-      "summary": "",
-      "link": "https://www.prothomalo.com/video/international/dtwixjyg0g",
-      "pubDate": "2026-07-12T14:52:12.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
       "summary": "President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.",
       "link": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
-      "pubDate": "2026-07-12T14:51:39.000Z",
+      "pubDate": "2026-07-12T14:51:40.000Z",
       "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "শাহজালালে বদ্ধ বিমানে ১৮২ যাত্রীর দুর্বিষহ ৫ ঘণ্টা",
-      "summary": "কলম্বোগামী ফিটস এয়ারের একটি ফ্লাইটে এমন অভিজ্ঞতার মুখে পড়েন ১৮২ যাত্রী। কারিগরি ত্রুটির কারণে তাঁদের ফ্লাইটটি উড্ডয়নে দেরি হয়েছিল।",
-      "link": "https://www.prothomalo.com/bangladesh/zniqjbdhzg",
-      "pubDate": "2026-07-12T14:51:37.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
-      "summary": "FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
-      "pubDate": "2026-07-12T14:47:15.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "The architect of Qatari autonomy",
-      "summary": "Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
-      "pubDate": "2026-07-12T14:42:27.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "‘হাতিটির মেরুদণ্ড ভেঙে গিয়েছিল, পেছনের পা দুটিও অচল হয়ে পড়ে’",
-      "summary": "",
-      "link": "https://www.prothomalo.com/video/bangladesh/cztx9075vp",
-      "pubDate": "2026-07-12T14:42:20.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "ভারী বৃষ্টিতে ঢাকা বিশ্ববিদ্যালয়ে জলাবদ্ধতা, বিদ্যুৎ সরবরাহ বন্ধ ছাত্রীদের দুই হলে",
-      "summary": "বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব হলের আবাসিক শিক্ষার্থী আনিকা তামজিদ বলেন, বৃষ্টিতে এত পানি জমেছে যে হলের কোনো শিক্ষার্থীই বের হতে পারছেন না।",
-      "link": "https://www.prothomalo.com/bangladesh/capital/iyiv7j0oyo",
-      "pubDate": "2026-07-12T14:41:28.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "মুম্বাইয়ে আরেকটি ফ্ল্যাট বিক্রি করলেন সালমান, লাভ হলো কত",
-      "summary": "সম্প্রতি মুম্বাইয়ের বান্দ্রায় নিজের একটি ফ্ল্যাট বিক্রি করেছেন বলিউড তারকা সালমান খান।",
-      "link": "https://www.prothomalo.com/entertainment/bollywood/p1gn0xmoov",
-      "pubDate": "2026-07-12T14:35:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "শিশুকে ঘন ঘন অ্যান্টিবায়োটিক খাওয়ালে কী হয়",
-      "summary": "জ্বর হলে দোকানি বা প্রতিবেশীর পরামর্শে শিশুকে কয়েক ডোজ অ্যান্টিবায়োটিক দিলেই তাড়াতাড়ি ভালো হয়ে যায়—এই প্রবণতা বাংলাদেশে খুবই পরিচিত।",
-      "link": "https://www.prothomalo.com/lifestyle/health/i25d25owml",
-      "pubDate": "2026-07-12T14:30:52.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "বিকাশে ক্যাশ আউট খরচ কমল, ‘প্রিয় এজেন্টে’ হাজারে খরচ ১৩ টাকা ৯৫ পয়সা",
-      "summary": "এই চার্জের মধ্যে ভ্যাটসহ সব ধরনের খরচ অন্তর্ভুক্ত থাকবে। ফলে গ্রাহককে বাড়তি কোনো টাকা গুনতে হবে না। এত দিন প্রিয় এজেন্ট নম্বরে ক্যাশ আউট চার্জ ছিল ১৪ টাকা ৯০ পয়সা।",
-      "link": "https://www.prothomalo.com/business/3486cb4kr8",
-      "pubDate": "2026-07-12T14:30:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "আর্জেন্টিনা মানেই রুদ্ধশ্বাস নাটক ও বিতর্ক",
-      "summary": "",
-      "link": "https://www.prothomalo.com/video/sports/4w6hede3zu",
-      "pubDate": "2026-07-12T14:30:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Why Wimbledon is more special to Sinner than other majors",
-      "summary": "Jannik Sinner says tennis was only his third sport growing up, behind skiing and football, except during Wimbledon, the one major he watched and the tournament that sparked his love of grass.",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/cm2jlnmg9kyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T14:16:31.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis",
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
-      "summary": "Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss",
-      "pubDate": "2026-07-12T14:12:45.000Z",
-      "source": "Al Jazeera",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -559,28 +1152,6 @@
       ]
     },
     {
-      "title": "Why is Zverev allowed to use a phone during his matches?",
-      "summary": "Alexander Zverev explains how he uses a mobile phone to monitor his blood glucose levels when he is playing, as the Wimbledon finalist suffers from Type 1 Diabetes.",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/cn07dydp65do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T13:55:13.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Marc Marquez dominates Germany MotoGP to close in on championship lead",
-      "summary": "Reigning champion won his 10th German Grand Prix and moves to within 18 points of the riders' championship lead.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/marc-marquez-dominates-germany-motogp-to-close-in-on-championship-lead?traffic_source=rss",
-      "pubDate": "2026-07-12T13:45:32.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
       "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
@@ -598,9 +1169,12 @@
       "source": "The Guardian Politics",
       "region": "global",
       "topics": [
-        "Politics"
+        "Politics",
+        "Economy/Business"
       ],
-      "otherSources": []
+      "otherSources": [
+        "The Guardian Business"
+      ]
     },
     {
       "title": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
@@ -615,113 +1189,15 @@
       "otherSources": []
     },
     {
-      "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-      "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
-      "pubDate": "2026-07-12T13:28:53.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
-      "summary": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.",
-      "link": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
-      "pubDate": "2026-07-12T13:23:24.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Pape Thiaw fired as Senegal coach after disappointing FIFA World Cup",
-      "summary": "Senegal part ways with head coach after national side's elimination from the football tournament at the last-32 stage.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/pape-thiaw-fired-as-senegal-coach-after-disappointing-fifa-world-cup?traffic_source=rss",
-      "pubDate": "2026-07-12T13:23:21.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Former Emir Sheikh Hamad Bin Khalifa Al Thani’s legacy in Palestine",
-      "summary": "Former Emir Sheikh Hamad Bin Khalifa Al Thani's legacy in Palestine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/former-emir-sheikh-hamad-bin-khalifa-al-thanis-legacy-in-palestine?traffic_source=rss",
-      "pubDate": "2026-07-12T13:21:17.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Football Daily | Was Tuchel and Bellingham really a Keane v McCarthy moment?",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!\nBreakfast in America was a happy place for an Englishman this Sunday morning. Thanks to Jude Bellingham, (very probably) a hanging cable and a remarkable cameo from Djed Spence that brought back the ghost of ",
-      "link": "https://www.theguardian.com/football/2026/jul/12/tuchel-bellingham-really-keane-v-mccarthy-moment-football-daily",
-      "pubDate": "2026-07-12T13:18:12.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Oda beats GB's Hewett to retain Wimbledon wheelchair title",
-      "summary": "Japan's Tokito Oda defeats Great Britain's Alfie Hewett in straight sets to retain his Wimbledon wheelchair men's singles title.",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/c5yz1e7yx12o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T13:15:22.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Years After He Quit Smoking, a Lung Cancer Scan Saved His Life",
       "summary": "Lung cancer remains the leading cause of cancer deaths in the United States and older adults are at higher risk. But only about a quarter of patients eligible for screening are up-to-date.",
       "link": "https://www.nytimes.com/2026/07/11/well/years-after-he-quit-smoking-a-lung-cancer-scan-saved-his-life.html",
-      "pubDate": "2026-07-12T13:11:27.000Z",
+      "pubDate": "2026-07-12T13:11:28.000Z",
       "source": "NYT Science",
       "region": "global",
       "topics": [
         "Science"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
-      "summary": "The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss",
-      "pubDate": "2026-07-12T13:08:55.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power",
-      "summary": "Leader known as Qatar's father emir was able to redefine his nation's position on the political map of the Middle East.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/how-sheikh-hamad-bin-khalifa-al-thani-built-qatars-soft-power?traffic_source=rss",
-      "pubDate": "2026-07-12T13:08:39.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Sheikh Hamad bin Khalifa Al Thani: key mediations",
-      "summary": "Sheikh Hamad bin Khalifa Al Thani: key mediations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-key-mediations?traffic_source=rss",
-      "pubDate": "2026-07-12T13:04:16.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -747,39 +1223,7 @@
       "otherSources": []
     },
     {
-      "title": "Big stars and old rivals - what to expect in semi-finals",
-      "summary": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T12:29:10.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Here’s a look at the heavy strikes in recent days.",
-      "summary": "The attack",
-      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes",
-      "pubDate": "2026-07-12T12:28:35.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "FIFA World Cup 2026: Biggest takeaways from the quarterfinals",
-      "summary": "The quarterfinals are now behind us, with plenty of key moments and incidents as the tournament enters the final four.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals?traffic_source=rss",
-      "pubDate": "2026-07-12T12:20:52.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "'Not happy with the performance' - so why do England keep winning?",
+      "title": "Tuchel unhappy with England display - so why do they keep winning?",
       "summary": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-12T12:19:03.000Z",
@@ -801,37 +1245,7 @@
       "otherSources": []
     },
     {
-      "title": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-      "summary": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatar-mourns-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss",
-      "pubDate": "2026-07-12T12:10:42.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "British police make new arrest in Ann Widdecombe murder investigation",
-      "summary": "Police arrest 28-year-old suspect in South Yorkshire in connection with the murder of former MP Ann Widdecombe.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss",
-      "pubDate": "2026-07-12T12:08:44.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Typhoon Bavi weakens to tropical storm as it slams into eastern China",
-      "summary": "Storm the size of France expected to bring days of heavy rains and strong winds to eastern and northern provinces.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china?traffic_source=rss",
-      "pubDate": "2026-07-12T12:07:10.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "New anti-racism standard will force Australian universities to use definitions of antisemitism and Islamophobia",
+      "title": "Australian universities will be required to adopt definitions of antisemitism and Islamophobia",
       "summary": "Higher education chiefs, academics and students to give evidence this week at royal commission \nAustralian universities will be required to adopt definitions on antisemitism, Islamophobia and racism towards Aboriginal and Torres Strait Islander people from nex",
       "link": "https://www.theguardian.com/australia-news/2026/jul/12/new-anti-racism-standard-will-force-australian-universities-to-use-definitions-of-antisemitism-and-islamophobia-ntwnfb",
       "pubDate": "2026-07-12T12:00:18.000Z",
@@ -910,18 +1324,6 @@
       "otherSources": []
     },
     {
-      "title": "IRGC releases video of retaliatory missile strikes",
-      "summary": "IRGC releases video of retaliatory missile strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
-      "pubDate": "2026-07-12T11:07:26.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
       "summary": "If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors \n\nJust as Nigel Farage kicks off a summer of “arguing with a bin”, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics ret",
       "link": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
@@ -978,21 +1380,21 @@
       "otherSources": []
     },
     {
-      "title": "Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life",
-      "summary": "Sheikh Hamad's 18-year rule catapulted Qatar to prosperity and reshaped its domestic, regional and global footprint.",
-      "link": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss",
-      "pubDate": "2026-07-12T11:00:08.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "A promising tale from Senegal of fish, rice .... and dangerous worms",
       "summary": "Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food ... and eat the snails that carry parasitic worms.",
       "link": "https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
       "pubDate": "2026-07-12T10:49:40.000Z",
       "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "California’s largest lake is turning to dust",
+      "summary": "The Salton Sea is drying up, worsening air pollution for people living near its shores. Authorities are working to stabilize the lakebed and lock down the dust. But for some families, it's too late.",
+      "link": "https://www.dw.com/en/california-s-largest-lake-is-turning-to-dust/a-77864212?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-12T10:31:00.000Z",
+      "source": "DW",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -1033,7 +1435,7 @@
     },
     {
       "title": "Germany news: Neuschwanstein killer fights extradition to US",
-      "summary": "A man who murdered a woman at Neuschwanstein Castle says he fears execution in the US. Germany has been hit by another heat wave, though no records are likely to be broken this time, forecasters say. DW has more.",
+      "summary": "A man who murdered a woman at Neuschwanstein Castle says he fears execution in the US. Germany has been hit by another heat wave, though no records are likely to be broken this time, forecasters say.",
       "link": "https://www.dw.com/en/germany-news-neuschwanstein-killer-fights-extradition-to-us/live-77913703?maca=en-rss-en-all-1573-rdf",
       "pubDate": "2026-07-12T09:57:00.000Z",
       "source": "DW",
@@ -1055,18 +1457,6 @@
       "otherSources": [
         "The Guardian Business"
       ]
-    },
-    {
-      "title": "Football Daily",
-      "summary": "England are through. Lloyd reacts from Miami as Argentina await.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ns8gfc?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T09:32:00.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
     },
     {
       "title": "Reeves tells Burnham to expect ‘shocks and challenges’ from outset in No 10",
@@ -1157,15 +1547,14 @@
       "otherSources": []
     },
     {
-      "title": "Fitness influencers linked to wellness brand helping run illegal steroid market on Telegram",
-      "summary": "Ambassadors for Gencore Global directed followers to Telegram channels promoting steroids, prescription medicines and experimental peptides\n\n‘I felt dizzy’: body builder recalls how drug abuse caught up with him\n\nUK becoming ‘wild west’ for experimental peptid",
-      "link": "https://www.theguardian.com/society/ng-interactive/2026/jul/12/fitness-influencers-linked-to-wellness-brand-helping-run-steroid-market-on-telegram",
-      "pubDate": "2026-07-12T09:00:13.000Z",
-      "source": "The Guardian Business",
+      "title": "Campaign text messages could soon get more effective — and annoying",
+      "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect.",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+      "pubDate": "2026-07-12T09:00:00.000Z",
+      "source": "NPR",
       "region": "global",
       "topics": [
-        "Economy/Business",
-        "Medicine"
+        "Politics"
       ],
       "otherSources": []
     },
@@ -1190,14 +1579,14 @@
       "otherSources": []
     },
     {
-      "title": "Some are raising ethical concerns about political text messages using AI",
-      "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
-      "pubDate": "2026-07-12T09:00:00.000Z",
-      "source": "NPR",
+      "title": "O'Sullivan set to leave Liverpool six months after joining",
+      "summary": "Liverpool club record signing Denise O'Sullivan is expected to leave this summer just six months after joining.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjdg7kdm9p4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T08:26:04.000Z",
+      "source": "BBC Football",
       "region": "global",
       "topics": [
-        "Politics"
+        "Football"
       ],
       "otherSources": []
     },
@@ -1234,19 +1623,6 @@
       "otherSources": []
     },
     {
-      "title": "Senegal sack manager Thiaw in wake of World Cup exit",
-      "summary": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T07:25:09.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football",
-        "Mathematics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Oil Prices Set for More Volatility After Latest Iranian Attack in Strait of Hormuz",
       "summary": "Crude oil prices jumped above prewar levels this week, demonstrating Iran’s capacity to move energy prices by projecting power in the Strait of Hormuz.",
       "link": "https://www.nytimes.com/2026/07/11/world/middleeast/strait-hormuz-shipping-oil-prices.html",
@@ -1262,16 +1638,6 @@
       "link": "https://www.dw.com/en/us-reporters-subpoenaed-over-air-force-one-stories/a-77921290?maca=en-rss-en-all-1573-rdf",
       "pubDate": "2026-07-12T07:22:00.000Z",
       "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
-      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
-      "link": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-      "pubDate": "2026-07-12T07:17:40.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -1323,22 +1689,10 @@
     },
     {
       "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
-      "summary": "The defending champions have taken two of their three knockout-round matches to extra-time. England awaits\n\nArgentina topple Swiss with two goals in extra time\n\nSwitzerland hit out at VAR after ‘mistaken identity’ check\n\nThroughout the whole of the World Cup –",
+      "summary": "The defending champions have taken two of their three knockout-round matches to extra-time. England awaits\n\nArgentina topple Swiss with two goals in extra time\n\nSwitzerland hit out at VAR after ‘mistaken identity’ check\n\nThroughout the World Cup tournament – f",
       "link": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final",
       "pubDate": "2026-07-12T06:30:10.000Z",
       "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Who am I? Guess World Cup star No 35",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx21gn50e08o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T06:15:52.000Z",
-      "source": "BBC Football",
       "region": "global",
       "topics": [
         "Football"
@@ -1359,16 +1713,6 @@
       "otherSources": []
     },
     {
-      "title": "Missing woman’s former partner charged with murder after remains found in Queensland bushland",
-      "summary": "Toowoomba woman Jana Armstrong, mother of a four-month-old baby, was last seen on Tuesday\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nQueensland police have charged a former partner of a",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/12/missing-woman-jana-armstrong-queensland-man-charged-murder-ntwnfb",
-      "pubDate": "2026-07-12T05:49:28.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Wimbledon quiz: Name every men's singles champion in the Open era",
       "summary": "It's 58 years since the Open era began in tennis - but can you name every Wimbledon men's singles champion in that time?",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0pkry1vk8o?at_medium=RSS&at_campaign=rss",
@@ -1377,32 +1721,6 @@
       "region": "global",
       "topics": [
         "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Switzerland hit out at VAR after ‘mistaken identity’ check ends in Breel Embolo red card",
-      "summary": "Attacker shown second yellow card for simulation\n\nArgentina topple Swiss with two goals in extra time\n\nFifa match officials’ novel use of the term “mistaken identity” reared its head again in sensational circumstances during Saturday’s World Cup quarter-final ",
-      "link": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-var-mistaken-identity-red-card-breel-emobolo",
-      "pubDate": "2026-07-12T05:20:50.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football",
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Champion Sinner wary of Zverev before Wimbledon final",
-      "summary": "Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev.",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T05:19:17.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis",
-        "History"
       ],
       "otherSources": []
     },
@@ -1467,18 +1785,6 @@
       "otherSources": []
     },
     {
-      "title": "Argentina set up England semi-final with extra-time victory over Switzerland",
-      "summary": "Argentina set up a World Cup semi-final with England after scoring twice in extra-time to beat 10-man Switzerland 3-1 in Kansas City.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c07y37p7gmko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T04:35:35.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Bellingham reaching heights of World Cup legends with Messi next",
       "summary": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
@@ -1491,10 +1797,10 @@
       "otherSources": []
     },
     {
-      "title": "Embolo sent off as result of mistaken identity rule",
-      "summary": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T04:22:57.000Z",
+      "title": "Top four ranked teams make semi-finals for first time",
+      "summary": "For the first time since there have been Fifa rankings the top four ranked teams have made the semi-final of the World Cup.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T04:26:44.000Z",
       "source": "BBC Football",
       "region": "global",
       "topics": [
@@ -1515,16 +1821,6 @@
       "otherSources": []
     },
     {
-      "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-      "summary": "Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland.",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
-      "pubDate": "2026-07-12T04:10:30.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "As India Erases Its Colonial Past, Delhi’s Elite Feel Targeted",
       "summary": "India’s government wants to shut down Delhi’s Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive.",
       "link": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
@@ -1532,18 +1828,6 @@
       "source": "NYT World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Alvarez's stunning strike gives Argentina lead against 10-man Switzerland",
-      "summary": "Argentina retake the lead in their quarter-final against Switzerland through a stunning strike from Julian Alvarez during extra-time in Kansas City.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cp8rg8yy6nvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T04:00:45.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
       "otherSources": []
     },
     {
@@ -1557,31 +1841,23 @@
       "otherSources": []
     },
     {
+      "title": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals",
+      "summary": "Did anyone think they would do it the easy way? If Argentina are to win this World Cup they will only get there via rollercoaster. A seemingly straightforward night’s work against Switzerland became their tournament in microcosm, threatening to squander it all",
+      "link": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
+      "pubDate": "2026-07-12T03:58:37.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "At least two killed in Toronto street festival shooting",
       "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
       "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-12T03:56:02.000Z",
       "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Messi and Argentina survive another close call to reach the World Cup semifinals",
-      "summary": "Argentina was taken to the brink in its first two knockout games. In Saturday's quarterfinal against Switzerland, the Albiceleste survived again to advance to the semis, where they will face England.",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5888612/2026-world-cup-fifa-argentina-switzerland-quarterfinal",
-      "pubDate": "2026-07-12T03:45:57.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
-      "summary": "The shooting disrupted a weekend Latino celebration where hundreds had gathered on Saturday evening.",
-      "link": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
-      "pubDate": "2026-07-12T03:32:33.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -1623,30 +1899,10 @@
       "otherSources": []
     },
     {
-      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
-      "summary": "A historic rainfall event has left communities across several Missouri counties underwater and prompted water rescues, including an evacuation of a summer camp.",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
-      "pubDate": "2026-07-12T01:38:29.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
-      "summary": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.",
-      "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
-      "pubDate": "2026-07-12T01:32:36.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Did spider cam impact England's opener?",
-      "summary": "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider cam had an impact in Jude Bellingham's first goal for England against Norway.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T01:08:52.000Z",
+      "title": "Pick your England XI for World Cup semi-final",
+      "summary": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T01:38:05.000Z",
       "source": "BBC Football",
       "region": "global",
       "topics": [
@@ -1662,18 +1918,6 @@
       "source": "DW",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Bellingham scores extra-time winner as England reach semi-finals",
-      "summary": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T00:50:48.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
       "otherSources": []
     },
     {
@@ -1721,18 +1965,6 @@
       "otherSources": []
     },
     {
-      "title": "'He has dragged them through all tournament' - England player ratings",
-      "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T23:51:39.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "BBC to show England's World Cup semi-final",
       "summary": "England's World Cup semi-final against Argentina will be broadcast live on BBC One and BBC iPlayer.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
@@ -1745,25 +1977,17 @@
       "otherSources": []
     },
     {
-      "title": "Was VAR right to overturn England penalty?",
-      "summary": "England have a penalty overturned following a VAR review after Djed Spence was judged to have initiated the contact with Norway's Oscar Bobb during the first half of extra time in Miami.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c3dyj7j48v9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T23:46:41.000Z",
-      "source": "BBC Football",
+      "title": "Bellingham’s extra-time winner sinks Norway and sends England into World Cup semi-finals",
+      "summary": "Thomas Tuchel’s message was that it was time for England to thrive at the business end of the World Cup; the most exciting part. His players had to release the handbrake and go for it. They must not have any regrets against a Norway team that most of England e",
+      "link": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
+      "pubDate": "2026-07-11T23:47:01.000Z",
+      "source": "The Guardian Football",
       "region": "global",
       "topics": [
-        "Football"
+        "Football",
+        "Economy/Business",
+        "New Book Releases"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "How men with female surnames are standing up to ridicule in Kenya",
-      "summary": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
-      "link": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T23:27:45.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -1777,25 +2001,13 @@
       "otherSources": []
     },
     {
-      "title": "Iran closes Strait of Hormuz, US launches fresh strikes",
-      "summary": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" In response, the US launched a third set of strikes on Iran this week. Follow DW for more.",
-      "link": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
+      "title": "Iran war: US claims Strait of Hormuz is 'open' amid strikes",
+      "summary": "US President Trump and the US military's Central Command insisted on Sunday that the Strait of Hormuz is open despite the Iranian navy declaring it closed. Both sides continue to exchange strikes. Follow DW for more.",
+      "link": "https://www.dw.com/en/iran-war-us-claims-strait-of-hormuz-is-open-amid-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
       "pubDate": "2026-07-11T22:48:00.000Z",
       "source": "DW",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
-      "summary": "All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals\n Continue reading...",
-      "link": "https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures",
-      "pubDate": "2026-07-11T22:19:33.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
       "otherSources": []
     },
     {
@@ -1819,18 +2031,6 @@
       "otherSources": []
     },
     {
-      "title": "Noskova holds her nerve to beat Muchova for first Wimbledon title",
-      "summary": "Linda Noskova overcomes missing out on five Championship points in the second set, to defeat Karolina Muchova 6-2 5-7 6-3 to win her first Wimbledon title at 21 years old.",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/c5yznz1q402o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T21:32:00.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Noskova, an astonishing Wimbledon fightback - and a kiss to the sky",
       "summary": "Linda Noskova produces \"one of the all-time greatest efforts on Centre Court\" to win Wimbledon - and thanks her late mother, Ivana, for inspiring her.",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o?at_medium=RSS&at_campaign=rss",
@@ -1843,68 +2043,10 @@
       "otherSources": []
     },
     {
-      "title": "'It's a beauty!' - best shots from day 13 at Wimbledon",
-      "summary": "Enjoy the best shots from day 13 at Wimbledon featuring Great Britain's wheelchair doubles champions Gordon Reid and Alfie Hewett, as well as the new women's singles champion Linda Noskova.",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/c932z261k9yo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T19:59:05.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
       "summary": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final.",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-11T19:37:02.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "summary": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.",
-      "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-      "pubDate": "2026-07-11T19:25:29.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Tearful Noskova dedicates Wimbledon title to late mother",
-      "summary": "Linda Noskova says \"all the blood, sweat and tears was worth it\" after the 21-year old defeated her Czech compatriot Karolina Muchova in the 2026 women's singles final at Wimbledon.",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/c992z278025o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T19:22:12.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "How to follow Wimbledon men's final on the BBC",
-      "summary": "How to follow Wimbledon on BBC TV, iPlayer, radio and online.",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T19:05:05.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Wimbledon Daily: Noskova beats Muchova in women's final",
-      "summary": "Listen to reaction from Wimbledon as Linda Noskova becomes champion at SW19 for the first time.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ny8t8q?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T19:05:00.000Z",
       "source": "BBC Tennis",
       "region": "global",
       "topics": [
@@ -1943,16 +2085,6 @@
       "otherSources": []
     },
     {
-      "title": "Typhoon Bavi hits China after battering Taiwan, Japan",
-      "summary": "Bavi has forced hundreds of thousands to evacuate in China, knocked out power in Japan and Taiwan, and triggered deadly landslides in the Philippines.",
-      "link": "https://www.dw.com/en/typhoon-bavi-hits-china-after-battering-taiwan-japan/a-77914270?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T17:02:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Football without faith is nothing so Infantino is playing with fire at World Cup | Jonathan Wilson",
       "summary": "Swirl around Fifa’s machinations and about big team and big name bias creates doubt – and that’s a dangerous game\nAbout 25 years ago, I was in the office of a sports newspaper in Bucharest on a Saturday afternoon following the Premier League games with some lo",
       "link": "https://www.theguardian.com/football/2026/jul/11/football-without-faith-infantino-world-cup",
@@ -1970,16 +2102,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-11T16:11:33.000Z",
       "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "15 Killed as Speedboat Capsizes in Vietnam",
-      "summary": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.",
-      "link": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-      "pubDate": "2026-07-11T16:08:27.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -2020,18 +2142,6 @@
       "otherSources": []
     },
     {
-      "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
-      "summary": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
-      "link": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
-      "pubDate": "2026-07-11T14:46:11.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "History"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "summary": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
@@ -2055,18 +2165,6 @@
       "otherSources": []
     },
     {
-      "title": "Indian tourists killed when boat capsizes in Vietnam",
-      "summary": "The Indian Embassy released the names of all 32 Indians who were aboard the boat that capsized near Phu Quoc island in Vietnam. At least 15 of them died.",
-      "link": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T13:49:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "summary": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
       "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
@@ -2074,18 +2172,6 @@
       "source": "BBC News",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Germany: Left-wing group says it is behind railway sabotage",
-      "summary": "The \"Angry Birds Commando\" group said they placed incendiary devices on a railroad between the two busy cities of Cologne and Düsseldorf. The group blamed industrial technology for the destruction of the environment.",
-      "link": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T13:32:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "Technology"
-      ],
       "otherSources": []
     },
     {
@@ -2098,31 +2184,6 @@
       "topics": [
         "Science",
         "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-      "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
-      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
-      "pubDate": "2026-07-11T13:26:24.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Germany's richest man takes on Big Tech",
-      "summary": "Dieter Schwarz made his fortune from supermarkets, becoming Germany's wealthiest person. Now he wants to take on Google, Microsoft and Amazon and an entire region stands to benefit.",
-      "link": "https://www.dw.com/en/germany-s-richest-man-takes-on-big-tech/a-77893723?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T12:10:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "Economy/Business",
-        "Technology"
       ],
       "otherSources": []
     },
@@ -2174,26 +2235,6 @@
       "otherSources": []
     },
     {
-      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
-      "summary": "The strikes come with Ukraine running low on munitions needed to counter Russia's ballistic missiles. Ukrainian President Zelenskyy urged NATO members to deliver on promises made at the Ankara summit this week.",
-      "link": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T11:49:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Iran's Mojtaba Khamenei vows revenge for father's killing",
-      "summary": "Iran's supreme leader said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him.",
-      "link": "https://www.dw.com/en/iran-s-mojtaba-khamenei-vows-revenge-for-father-s-killing/live-77913349?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T11:40:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
       "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
       "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
@@ -2229,16 +2270,6 @@
         "Literature",
         "New Book Releases"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "India news: US to seek Lawrence Bishnoi's extradition",
-      "summary": "US authorities have confirmed that they want to extradite Lawrence Bishnoi, who was charged with the killing of Sikh separatist leader Hardeep ​Singh Nijjar in Canada. Follow DW for more.",
-      "link": "https://www.dw.com/en/india-news-us-to-seek-lawrence-bishnoi-s-extradition/live-77915146?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-11T09:48:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -2316,31 +2347,28 @@
       "otherSources": []
     },
     {
-      "title": "The ad machine: how David Beckham conquered America",
-      "summary": "The former England midfielder is everywhere at this World Cup, having reached a popularity in the US other Britons have rarely achieved\nWatch US television for any length of time and the endless spume of adverts will eventually separate into three distinct typ",
-      "link": "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america",
-      "pubDate": "2026-07-11T07:00:43.000Z",
-      "source": "The Guardian Football",
+      "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
+      "summary": "Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on development\nInfluential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on international development and chart a course back to spending 0.7% ",
+      "link": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
+      "pubDate": "2026-07-11T06:00:41.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+      "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-11T05:13:35.000Z",
+      "source": "BBC Football",
       "region": "global",
       "topics": [
         "Football"
       ],
       "otherSources": []
-    },
-    {
-      "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
-      "summary": "Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on development\nInfluential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on international development and chart a course back to spending 0.7% ",
-      "link": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
-      "pubDate": "2026-07-11T06:00:41.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics",
-        "Economy/Business"
-      ],
-      "otherSources": [
-        "The Guardian Business"
-      ]
     },
     {
       "title": "‘He goes a bit funny if you use his real name’: the unstoppable rise of Count Binface",
@@ -2364,16 +2392,6 @@
       "topics": [
         "Economy/Business"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "summary": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
-      "link": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-      "pubDate": "2026-07-11T04:01:08.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -2412,26 +2430,6 @@
         "New Book Releases",
         "Literature"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-10T23:03:11.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-10T23:02:59.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -2495,6 +2493,18 @@
       "region": "global",
       "topics": [
         "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
+      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a Eu",
+      "link": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
+      "pubDate": "2026-07-10T21:13:02.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
       ],
       "otherSources": []
     },
@@ -2605,24 +2615,10 @@
       "summary": "Mega-donors are coming under scrutiny with growing calls for donations cap beyond those from overseas investors\nThe question of who funds politicians and political parties – and why they want to give money to get people elected – is an extremely heated one. In",
       "link": "https://www.theguardian.com/politics/2026/jul/10/how-do-political-donations-work-and-why-are-there-growing-calls-for-a-cap",
       "pubDate": "2026-07-10T18:24:15.000Z",
-      "source": "The Guardian Politics",
+      "source": "The Guardian Business",
       "region": "global",
       "topics": [
-        "Politics",
-        "Economy/Business"
-      ],
-      "otherSources": [
-        "The Guardian Business"
-      ]
-    },
-    {
-      "title": "Police say man arrested on suspicion of murder of Ann Widdecombe – UK politics as it happened",
-      "summary": "A 26-year-old man in custody and officers say incident is not being treated as terrorism \n\nPolice arrest man on suspicion of Ann Widdecombe’s murder\n\nImmigration policy (see 9.24am) is just one area where Andy Burnham faces an acute challenge when he becomes P",
-      "link": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
-      "pubDate": "2026-07-10T18:15:44.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
+        "Economy/Business",
         "Politics"
       ],
       "otherSources": []
@@ -3719,18 +3715,6 @@
       "otherSources": []
     },
     {
-      "title": "Newcastle face sliding doors moment over Bruno Guimarães in summer of upheaval",
-      "summary": "With Saudi spending restricted and a glut of departures and arrivals, the stakes are high for Eddie Howe and his captain, amid uncertain times on Tyneside\nIs it the end of the road for Bruno Guimarães and Newcastle or are they destined to share at least one mo",
-      "link": "https://www.theguardian.com/football/2026/jul/09/newcastle-face-sliding-doors-moment-over-bruno-guimaraes-in-summer-of-upheaval",
-      "pubDate": "2026-07-09T17:09:29.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Ben Jennings on Nigel Farage’s byelection announcement – cartoon",
       "summary": "Discover and buy more of Ben’s cartoons here\n\nOrder your own print of this cartoon from the Guardian Print Shop\n\n Continue reading...",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/09/ben-jennings-nigel-farage-byelection-cartoon",
@@ -4107,18 +4091,6 @@
       "otherSources": []
     },
     {
-      "title": "Opinion: Who benefits from classifying obesity as a disease?",
-      "summary": "“The new wave of obesity pharmacotherapy has leaned heavily on disease framing,” writes Max Moser, drawing comparisons to the antidepressant revolution.",
-      "link": "https://www.statnews.com/2026/07/09/obesity-disease-classification-glp-1-eli-lilly-novo-nordisk/?utm_campaign=rss",
-      "pubDate": "2026-07-09T08:30:00.000Z",
-      "source": "STAT News",
-      "region": "global",
-      "topics": [
-        "Medicine"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Venomous snakes escape breeding farms in southern China during flooding",
       "summary": "Local media in Hengzhou report king ratsnakes and cobras among hundreds in flood waters caused by typhoon Maysak\nHundreds of snakes, including cobras, have escaped from flooded breeding farms in southern China as severe storms continue to batter parts of the c",
       "link": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
@@ -4348,18 +4320,6 @@
       "otherSources": []
     },
     {
-      "title": "‘Software glitch’ blamed for mass outage – as it happened",
-      "summary": "This blog is now closed\n\nTelstra outage: Telco apologises for major time-keeping issue that hit mobiles, trains and triple-zero calls\n\nGet our breaking news email, free app or daily news podcast\n\nTelstra outage reported to be cause of Victoria train stoppage\nT",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-      "pubDate": "2026-07-08T08:35:29.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [
-        "Computer Science"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Machine vision begins to work like the human eye",
       "summary": "New artificial vision system adapts faster to changing light conditions\nThe post Machine vision begins to work like the human eye appeared first on Physics World.",
       "link": "https://physicsworld.com/a/machine-vision-begins-to-work-like-the-human-eye/",
@@ -4406,18 +4366,6 @@
       "topics": [
         "Physics",
         "Literature"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
-      "summary": "Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in anguish as Switzerland danced in front of their supporters, nearly alone in a sea of yellow.\nSw",
-      "link": "https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report",
-      "pubDate": "2026-07-07T23:06:57.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -4766,31 +4714,6 @@
       "region": "global",
       "topics": [
         "Chess"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup",
-      "summary": "Ghana can only have feared the worst when Luis Suárez’s number came up in the seventh minute. A day on from the 16th anniversary of one of the most infamous episodes in World Cup history, the Colombia forward who shares a name with the man whose handball broke",
-      "link": "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report",
-      "pubDate": "2026-07-04T03:44:49.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football",
-        "History"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Cape Verde threaten shock for the ages before Argentina break hearts in World Cup classic",
-      "summary": "What a game, what a series of moments, what a display of spirit and skill from Cape Verde, a tiny island nation with a far-flung diaspora team, who took Argentina right to the brink of one of the great sporting shocks in Miami.\nHow to tell the story of this ga",
-      "link": "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report",
-      "pubDate": "2026-07-04T01:06:10.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -5271,6 +5194,16 @@
       "otherSources": []
     },
     {
+      "title": "'বোবা কাহিনী': সাবঅলটার্নের ব্যাপার ও কোম্পানির বাটখারা",
+      "summary": "",
+      "link": "https://www.protichinta.com/article/o40xvy1t4u",
+      "pubDate": "2026-06-23T16:12:15.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
       "title": "How Angry, Out-of-Work Fishermen Saved the Patriots During the American Revolution",
       "summary": "The British punished rebellious New Englanders by depriving them of their livelihood. This led unemployed mariners to enlist in the patriot cause",
       "link": "https://www.smithsonianmag.com/history/how-angry-out-of-work-fishermen-saved-the-patriots-during-the-american-revolution-180988968/",
@@ -5303,6 +5236,18 @@
       "region": "global",
       "topics": [
         "Philosophy"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "The people and places that shaped a two-time Wimbledon champion",
+      "summary": "Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.",
+      "link": "https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-22T00:00:00.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
       ],
       "otherSources": []
     },
@@ -5620,9 +5565,49 @@
         "Literature"
       ],
       "otherSources": []
+    },
+    {
+      "title": "বাংলাদেশে সিভিল সমাজ: সুশীল না দুঃশীল?",
+      "summary": "",
+      "link": "https://www.protichinta.com/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B2-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%B8%E0%A7%81%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%B6%E0%A7%80%E0%A6%B2",
+      "pubDate": "2018-05-07T11:44:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
     }
   ],
   "editorial": [
+    {
+      "title": "The Honorable Gentleman for Ukraine",
+      "link": "https://www.theatlantic.com/national-security/2026/07/lindsey-graham-was-honorable-gentleman-ukraine/687896/?utm_source=feed",
+      "pubDate": "2026-07-12T21:22:59.000Z",
+      "source": "The Atlantic"
+    },
+    {
+      "title": "What Lindsey Graham Wanted",
+      "link": "https://www.theatlantic.com/politics/2026/07/what-lindsey-graham-wanted/687895/?utm_source=feed",
+      "pubDate": "2026-07-12T20:13:00.000Z",
+      "source": "The Atlantic"
+    },
+    {
+      "title": "Trump Loses His Wingman",
+      "link": "https://www.theatlantic.com/politics/2026/07/lindsey-graham-dies-trump-ally/687894/?utm_source=feed",
+      "pubDate": "2026-07-12T18:24:18.000Z",
+      "source": "The Atlantic"
+    },
+    {
+      "title": "The Guardian view on Trump and Tehran: everyone loses when the US and Iran overplay their hands | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/12/the-guardian-view-on-trump-and-tehran-everyone-loses-when-the-us-and-iran-overplay-their-hands",
+      "pubDate": "2026-07-12T17:02:12.000Z",
+      "source": "The Guardian Opinion"
+    },
+    {
+      "title": "The Quintessential Politician of This Era",
+      "link": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham/687893/?utm_source=feed",
+      "pubDate": "2026-07-12T16:57:36.000Z",
+      "source": "The Atlantic"
+    },
     {
       "title": "The Scrubbed and Simple Moon",
       "link": "https://www.theatlantic.com/magazine/2026/08/carol-frost-the-scrubbed-and-simple-moon/687629/?utm_source=feed",
@@ -5648,28 +5633,10 @@
       "source": "NYT Opinion"
     },
     {
-      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
-      "link": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/?utm_source=feed",
-      "pubDate": "2026-07-12T11:30:00.000Z",
-      "source": "The Atlantic"
-    },
-    {
       "title": "How to plan for an election that leaders are trying to subvert",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/12/trump-election-subversion",
       "pubDate": "2026-07-12T11:00:17.000Z",
       "source": "The Guardian Opinion"
-    },
-    {
-      "title": "The Return of the Democratic Manly Man",
-      "link": "https://www.theatlantic.com/politics/2026/07/ohio-poindexter-democrats-men/687880/?utm_source=feed",
-      "pubDate": "2026-07-12T11:00:00.000Z",
-      "source": "The Atlantic"
-    },
-    {
-      "title": "NATO Is Going Strong, Actually",
-      "link": "https://www.theatlantic.com/international/2026/07/nato-alliance-trump-europe/687874/?utm_source=feed",
-      "pubDate": "2026-07-12T11:00:00.000Z",
-      "source": "The Atlantic"
     },
     {
       "title": "Stephen Miller is outraged over birthright citizenship. His arguments are nonsense | Sidney Blumenthal",
@@ -5680,20 +5647,8 @@
     {
       "title": "Seneca’s Solution to the Crisis of Attention",
       "link": "https://www.nytimes.com/2026/07/12/opinion/attention-crisis-seneca.html",
-      "pubDate": "2026-07-12T10:00:05.000Z",
+      "pubDate": "2026-07-12T10:00:06.000Z",
       "source": "NYT Opinion"
-    },
-    {
-      "title": "Fitness Influencers Are Not Making Men More Fit",
-      "link": "https://www.nytimes.com/2026/07/12/opinion/fitness-influencer-manosphere-health.html",
-      "pubDate": "2026-07-12T10:00:05.000Z",
-      "source": "NYT Opinion"
-    },
-    {
-      "title": "American Loneliness",
-      "link": "https://www.theatlantic.com/ideas/2026/07/america-birthday-250-roadtrip/687877/?utm_source=feed",
-      "pubDate": "2026-07-12T10:00:00.000Z",
-      "source": "The Atlantic"
     }
   ]
 }
