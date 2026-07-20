@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T03:51:35.994Z",
+  "generatedAt": "2026-07-20T09:30:15.092Z",
   "topics": [
     {
       "en": "Economy/Business",
@@ -80,35 +80,1051 @@
   ],
   "articles": [
     {
-      "title": "India news: 'Cockroaches' take on Modi with parliament march",
-      "summary": "Police have not granted permission for a march to the parliament being organized by India's Cockroach Janta Party movement. Nevetheless, the CJP seems poised to begin the protest walk. DW has the latest.",
-      "link": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-20T03:32:00.000Z",
+      "title": "Earthquake in Peru Kills 6 and Displaces Hundreds",
+      "summary": "Peru is prone to frequent quakes, but the 5.5-magnitude temblor was the biggest to strike the central highlands area in more than 50 years.",
+      "link": "https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html",
+      "pubDate": "2026-07-20T09:24:09.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "pubDate": "2026-07-20T09:21:37.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "summary": "Secretary of State Marco Rubio said Iran had signaled it wanted to negotiate. Iran’s foreign ministry spokesman said Tehran had received new proposals from mediators.",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
+      "pubDate": "2026-07-20T09:21:35.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Top feel-good moments to remember now that the 2026 World Cup is over",
+      "summary": "From Lamine Yamal’s younger brother stealing the spotlight to Vozinha being reunited with his mother.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/top-feel-good-moments-to-remember-now-that-the-2026-world-cup-is-over?traffic_source=rss",
+      "pubDate": "2026-07-20T09:19:08.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Andy Burnham to become new prime minister and lay out ‘10-year plan’ for the UK in No 10 speech – UK politics live",
+      "summary": "Keir Starmer will give his final speech from Downing Street before Burnham arrives and is appointed as new PM\nKeir Starmer has posted a video on Instagram about his record as PM. He says:\nThe test of any Prime Minister is: do you leave your country in a better",
+      "link": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
+      "pubDate": "2026-07-20T09:18:33.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
+      "summary": "⚽ Latest World Cup news as tournament comes to close\n⚽ Player guide | Golden Boot | Follow on TikTok | Mail us\nBack to the action on the field, or rather slightly adjacent to it. A lacklustre “closing ceremony” in which Tom Cruise was drowned out by the crowd ",
+      "link": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
+      "pubDate": "2026-07-20T09:16:40.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "LIVE: Andy Burnham to become UK PM, deliver first speech at 10 Downing",
+      "summary": "The new leader takes over from Keir Starmer just two years after outgoing PM led Labour to a landslide election victory.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
+      "pubDate": "2026-07-20T09:12:03.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Players will need sex test to play on WTA Tour",
+      "summary": "The Women's Tennis Association is to ask all players to undergo genetic sex testing in order to compete on the WTA Tour.",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cn4nvwl9550o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T09:09:38.000Z",
+      "source": "BBC Tennis",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "This Week in Literary History: O. Henry is Released from Prison",
+      "summary": "This first appeared in Lit Hub’s Literary History newsletter—sign up here. Famously, O. Henry (the pen name of William Sydney Porter), author of “The Gift of the Magi,” and one of the most celebrated short story writers of his generation, and whose",
+      "link": "https://lithub.com/this-week-in-literary-history-o-henry-is-released-from-prison/",
+      "pubDate": "2026-07-20T09:08:57.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases",
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "A Dialogue With the Facts: On Writing Literary Biography in a Post-Truth Age",
+      "summary": "Where does the “literariness” in literary biography belong? With the book’s subject—or its author? Traditionally, it’s attached to both, and to a third element too. Literary biography also cares about the writing its subjects produce, and has done so ever",
+      "link": "https://lithub.com/a-dialogue-with-the-facts-on-writing-literary-biography-in-a-post-truth-age/",
+      "pubDate": "2026-07-20T09:08:09.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "The Old Streets of Athens: On Living and Dying Away From One’s Homeland",
+      "summary": "“Where’s the water of disappeared rivers?” –Etel Adnan, Sea and Fog * “the morning couldn’t find space to bring its light across to the other side on the riverbank stones one by one open their eyes” –Phoebe Giannisi, “Stones,” translated",
+      "link": "https://lithub.com/the-old-streets-of-athens-on-living-and-dying-away-from-ones-homeland/",
+      "pubDate": "2026-07-20T09:07:25.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "How Leprosy Was Used as a Weapon Against Hawaii’s Indigenous Population",
+      "summary": "Father Damien was a dirty man. Everyone agreed on that. Dirt would accumulate under his fingernails; he rarely washed his hands. His clothes—his habitual cassock and wide-brimmed hat—were worn for days on end; he saw no reason to clean his",
+      "link": "https://lithub.com/how-leprosy-was-used-as-a-weapon-against-hawaiis-indigenous-population/",
+      "pubDate": "2026-07-20T09:07:18.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
+      "summary": "The demonstrations were prompted in part after questions for the country’s biggest medical school entrance exam were leaked, forcing millions to retake the test.",
+      "link": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html",
+      "pubDate": "2026-07-20T09:05:46.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Oil prices rise as US-Iran strikes escalate; Ryanair predicts lower fares this summer - business live",
+      "summary": "Rolling coverage of the latest economic and financial news\nInvestors will be watching the bond market carefully today as Andy Burnham is set to become the prime minister and prepares to pick his cabinet.\nRuss Mould, an investment director at the broker AJ Bell",
+      "link": "https://www.theguardian.com/business/live/2026/jul/20/oil-price-rises-us-iran-strikes-ryanair-lower-fares-summer-economy-latest-news-updates",
+      "pubDate": "2026-07-20T09:04:54.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Chef Nephi Craig on the Power and Importance of Preserving Native Cuisines",
+      "summary": "The sun hung low in the sky as I turned on to the path leading from Whiskey Flats to the neighborhood we’d always called Nobody’s Home. It was barely eight o’clock, a frigid morning in February, and the air smelled",
+      "link": "https://lithub.com/chef-nephi-craig-on-the-power-and-importance-of-preserving-native-cuisines/",
+      "pubDate": "2026-07-20T09:04:22.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Here’s the latest.",
+      "summary": "",
+      "link": "https://www.nytimes.com/live/2026/07/20/world/uk-prime-minister-burnham-starmer/heres-the-latest",
+      "pubDate": "2026-07-20T09:04:19.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": [
+        "NYT World"
+      ]
+    },
+    {
+      "title": "Jobs, benefits and taxes: What Andy Burnham means for your finances",
+      "summary": "The person in charge of the country will change but the financial challenges remain the same.",
+      "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T09:03:48.000Z",
+      "source": "BBC Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Book Review: ‘Cool Machine,’ by Colson Whitehead",
+      "summary": "The final installment of his Harlem crime trilogy is full of heists, cultural shifts and nostalgia for 1980s New York.",
+      "link": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
+      "pubDate": "2026-07-20T09:02:01.000Z",
+      "source": "NYT Books",
+      "region": "global",
+      "topics": [
+        "New Book Releases",
+        "Literature"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "The Best Genetic Risk Tools Don’t Work Equally for Everyone",
+      "summary": "Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.",
+      "link": "https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html",
+      "pubDate": "2026-07-20T09:01:31.000Z",
+      "source": "NYT Science",
+      "region": "global",
+      "topics": [
+        "Science",
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "To Sell the ‘Odyssey,’ Publishers, Like Its Hero, Get Wily",
+      "summary": "The market for Homer’s epic poem is as crowded as a certain Ithacan palace, and publishers have had to get crafty to attract readers to their editions.",
+      "link": "https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html",
+      "pubDate": "2026-07-20T09:00:48.000Z",
+      "source": "NYT Books",
+      "region": "global",
+      "topics": [
+        "New Book Releases",
+        "Literature",
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman",
+      "summary": "In “The Lost Founder,” the journalist Jesse Wegman looks back at a largely forgotten and singular voice that helped make the United States what it is today.",
+      "link": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman.html",
+      "pubDate": "2026-07-20T09:00:16.000Z",
+      "source": "NYT Books",
+      "region": "global",
+      "topics": [
+        "New Book Releases",
+        "Literature"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "'I just wanted to give up': Disabled patients face Medicaid denials from IT errors",
+      "summary": "Complex computer systems that decide whether people get Medicaid benefits have a history of errors. Now changes to comply with Trump's tax and domestic policy law are inundating those systems.",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
+      "pubDate": "2026-07-20T09:00:00.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "So distressed you can't think straight? Lower the intensity with these 4 skills",
+      "summary": "A clinical psychologist shares effective strategies to quickly de-escalate stress and anxiety. That includes dunking your head into a bowl of ice water to trigger your mammalian dive reflex.",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
+      "pubDate": "2026-07-20T09:00:00.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Israel criticises Labor’s draft Palestine policy in rare foreign intervention ahead of party conference",
+      "summary": "Statement by Israeli embassy in Canberra challenges proposed positions on settler violence and annexation of Palestinian territory\n\nGet our breaking news email, free app or daily news podcast\n\nIsrael has made an intervention into the Labor party’s internal pro",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/20/israel-intervention-labor-national-conference-draft-policy-platform-palestine-ntwnfb",
+      "pubDate": "2026-07-20T08:59:50.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
+      "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+      "pubDate": "2026-07-20T08:55:02.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "There’s a New Coalition in the Democratic Party—and the Price of Membership is Criticizing Israel",
+      "summary": "A little over a week ago, Brad Lander—fresh off his recent ousting of incumbent Dan Goldman as the Democratic Party candidate for New York’s 10th congressional district—endorsed Dr. Abdul El-Sayed for the upcoming August 4 primary to become the Democratic",
+      "link": "https://lithub.com/theres-a-new-coalition-in-the-democratic-party-and-the-price-of-membership-is-criticizing-israel/",
+      "pubDate": "2026-07-20T08:45:38.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief",
+      "pubDate": "2026-07-20T08:43:08.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+      "summary": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss",
+      "pubDate": "2026-07-20T08:41:06.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "pubDate": "2026-07-20T08:39:01.000Z",
+      "source": "MIT Technology Review",
+      "region": "global",
+      "topics": [
+        "Technology",
+        "Computer Science",
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T08:38:02.000Z",
+      "source": "BBC Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business",
+        "CNG/Fuel"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI",
+      "summary": "Company aims to develop AI software that cuts research times and use of rare metals in chipmakers’ supply chains\n\nBusiness live – latest updates\n\nAmazon’s founder, Jeff Bezos, and the UK government have invested in a £2bn British artificial intelligence startu",
+      "link": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
+      "pubDate": "2026-07-20T08:37:52.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business",
+        "Computer Science",
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "“Wild Light”",
+      "summary": "I wake up on a Tuesday cloaked in light. The light isn’t simply radiating off me. It is spitting and sparking. It feels like a second skin. My husband begins to stir next to me. I can tell he is",
+      "link": "https://lithub.com/wild-light/",
+      "pubDate": "2026-07-20T08:35:46.000Z",
+      "source": "LitHub",
+      "region": "global",
+      "topics": [
+        "Literature",
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Opinion: It’s time to treat pandemics as threats to national security",
+      "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone.",
+      "link": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss",
+      "pubDate": "2026-07-20T08:30:00.000Z",
+      "source": "STAT News",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "STAT+: State audit of Medicaid records points to methods used by PBMs to obscure drug costs",
+      "summary": "An audit of state Medicaid records revealed how PBMs are using complicated tactics for handling prescription drug claims that ultimately overcharge taxpayers.",
+      "link": "https://www.statnews.com/pharmalot/2026/07/20/iowa-medicaid-pbm-audit-circumvention-spread-pricing-ban/?utm_campaign=rss",
+      "pubDate": "2026-07-20T08:30:00.000Z",
+      "source": "STAT News",
+      "region": "global",
+      "topics": [
+        "Medicine",
+        "ICMAB/Accounting"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "STAT+: Telemedicine company touted by Novo Nordisk stressed profits over patient safety, ex-workers say",
+      "summary": "LifeMD, a popular telehealth company, has been accused by former employees of pressing clinicians to mete out prescriptions more rapidly without sufficient screening and follow-up.",
+      "link": "https://www.statnews.com/2026/07/20/lifemd-weight-loss-drugs-novo-nordisk-telemedicine/?utm_campaign=rss",
+      "pubDate": "2026-07-20T08:30:00.000Z",
+      "source": "STAT News",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Opinion: My husband’s suicide shows there’s something very wrong with the U.S. insurance industry",
+      "summary": "“My love for Randy and my professional experience were not enough to save him,” a physician writes about her husband’s suicide.",
+      "link": "https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/?utm_campaign=rss",
+      "pubDate": "2026-07-20T08:30:00.000Z",
+      "source": "STAT News",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Stay or go - at 28, Rashford faces big Man Utd call",
+      "summary": "The World Cup is over, and Marcus Rashford returns home not knowing if his future at club level lies with Manchester United.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy8m7n5827xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T08:26:36.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Key takeaways from the World Cup 2026 final as Spain beat Argentina",
+      "summary": "Midfield dominance, stifling Lionel Messi and gifted wingers - Spain outclassed Argentina to lift the World Cup.",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/key-takeaways-from-the-world-cup-2026-final-as-spain-beat-argentina?traffic_source=rss",
+      "pubDate": "2026-07-20T08:15:31.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+      "summary": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+      "pubDate": "2026-07-20T08:09:12.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Photos: Spain beat Argentina to win second World Cup title",
+      "summary": "Spain edge Messi’s Argentina 1-0 in extra time to claim their second World Cup title.",
+      "link": "https://www.aljazeera.com/gallery/2026/7/20/photos-spain-beat-argentina-to-win-second-world-cup-title?traffic_source=rss",
+      "pubDate": "2026-07-20T08:08:51.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Mbappe wins race for the 2026 World Cup golden boot",
+      "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T08:03:37.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Yellow Pine by Claire Vaye Watkins review – messy portrait of protest subculture",
+      "summary": "Watkins should have been the ideal writer for this sympathetic take on new age spirituality and desert eco-activism – but the results are confusing\nRose, the protagonist of Claire Vaye Watkins’s latest novel, has retreated from the world to live in Nothingness",
+      "link": "https://www.theguardian.com/books/2026/jul/20/yellow-pine-by-claire-vaye-watkins-review-messy-portrait-of-protest-subculture",
+      "pubDate": "2026-07-20T08:00:50.000Z",
+      "source": "The Guardian Books",
+      "region": "global",
+      "topics": [
+        "New Book Releases",
+        "Literature",
+        "Fine Arts/Culture"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Solar tower power plants get a data boost",
+      "summary": "Accessible new database could accelerate research on solar thermal power generation and allow wider deployment\nThe post Solar tower power plants get a data boost appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/solar-tower-power-plants-get-a-data-boost/",
+      "pubDate": "2026-07-20T08:00:27.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Derryn Hinch remembered as ‘journalistic James Bond’ – as it happened",
+      "summary": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nThe use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer pro",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
+      "pubDate": "2026-07-20T07:53:35.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+      "summary": "Iran's IRGC claims an attack on Jordan while the US embassy issues a warning to Americans in Bahrain.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss",
+      "pubDate": "2026-07-20T07:47:42.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ফাইনাল হেরে স্পেনের দুই ফুটবলারকে মারলেন পারদেস, কী হয়েছিল সেখানে",
+      "summary": "ফাইনালে স্পেনের কাছে হারার পর মেজাজ হারিয়ে স্পেনের দুই ফুটবলার এরিক গার্সিয়া ও গাভিকে মেরেছেন পারদেস।",
+      "link": "https://www.prothomalo.com/sports/football/qxuxzat9c1",
+      "pubDate": "2026-07-20T07:41:52.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "হাফটাইম জমজমাট",
+      "summary": "স্পেন-আর্জেন্টিনা বিশ্বকাপ ফাইনালের উত্তেজনার মধ্যেই বিরতিতে জমে ওঠে বর্ণিল হাফটাইম শো।",
+      "link": "https://www.prothomalo.com/photo/international/mcytp43uur",
+      "pubDate": "2026-07-20T07:40:43.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Guyana: Dozens feared dead after ferry capsizes",
+      "summary": "Rescuers have been able to save 67 passengers so far. It is unknown exactly how many people were on board as authorities said the passengers' list is inaccurate.",
+      "link": "https://www.dw.com/en/guyana-dozens-feared-dead-after-ferry-capsizes/a-78031852?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-20T07:39:00.000Z",
       "source": "DW",
       "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "বিটিএসের কনসার্টে শ্রোতার ঢল, ছিলেন ফ্রান্সের প্রেসিডেন্টও",
-      "summary": "",
-      "link": "https://www.prothomalo.com/entertainment/song/1axebjdj2o",
-      "pubDate": "2026-07-20T03:30:00.000Z",
+      "title": "যশোরে ট্রলির সঙ্গে সংঘর্ষে মোটরসাইকেলের দুই আরোহী নিহত",
+      "summary": "যশোরের শার্শায় ট্রলির সঙ্গে মুখোমুখি সংঘর্ষে মোটরসাইকেলের দুই আরোহী নিহত হয়েছেন।",
+      "link": "https://www.prothomalo.com/bangladesh/district/h9wkbz3occ",
+      "pubDate": "2026-07-20T07:38:52.000Z",
       "source": "প্রথম আলো",
       "region": "bd",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "পুরো ট্রাফিক ব্যবস্থাকেই আধুনিক করতে হবে",
-      "summary": "স্বয়ংক্রিয় ট্রাফিক সিগন্যাল ও এআই প্রযুক্তি ব্যবহারের ফলে অনেক সিগন্যালে চালকদের মধ্যে আইন মানার প্রবণতা বেড়েছে।",
-      "link": "https://www.prothomalo.com/opinion/editorial/plmxqm2mez",
-      "pubDate": "2026-07-20T03:22:10.000Z",
+      "title": "বিশ্বকাপে নিখুঁত এক ঝড়ে আনন্দের রং লাল",
+      "summary": "নারী ও পুরুষ সব পর্যায়ের ফুটবল মিলিয়ে সর্বশেষ ৫ বছরে ১৬টি ট্রফি জিতেছে স্পেন। বিশ্বকাপ জেতার পর তরুণ খেলোয়াড়দের দিকে তাকিয়ে বলা যায় নিকটবর্তী ভবিষ্যতও স্পেনের।",
+      "link": "https://www.prothomalo.com/sports/football/j9ygf1q2i0",
+      "pubDate": "2026-07-20T07:37:55.000Z",
       "source": "প্রথম আলো",
       "region": "bd",
       "topics": [
-        "Technology"
+        "Football"
       ],
+      "otherSources": []
+    },
+    {
+      "title": "শেষ মুহূর্তে ভেঙে গেল আর্জেন্টিনার স্বপ্ন, বিশ্বকাপ জিতল স্পেন",
+      "summary": "",
+      "link": "https://www.prothomalo.com/video/sports/lvfico9ri7",
+      "pubDate": "2026-07-20T07:35:51.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
+      "summary": "The People's Action Party, which prides itself on ​a clean reputation, has been rocked by a series of scandals recently.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
+      "pubDate": "2026-07-20T07:32:47.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "বিশ্বকাপ জিতলে বিয়ে! আর্জেন্টিনার হারের পর যা বললেন পরীমনি",
+      "summary": "প্রিয় দল আর্জেন্টিনার ১–০ গোলে হারের সঙ্গে আপাতত শেষ হয়ে গেল আলোচিত চিত্রনায়িকা পরীমনির ‘বিয়ের পরিকল্পনাও’।",
+      "link": "https://www.prothomalo.com/entertainment/dhallywood/mn782xv2z3",
+      "pubDate": "2026-07-20T07:31:25.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ছাত্রকে ধর্ষণের অভিযোগে মাদ্রাসার অধ্যক্ষ গ্রেপ্তার",
+      "summary": "রোববার ভুক্তভোগী ওই ছাত্র মাদ্রাসা থেকে পালিয়ে বাড়িতে গিয়ে পরিবারের সদস্যদের ধর্ষণের ঘটনাটি জানায়। এ ঘটনায় ছাত্রের মা থানায় মামলা করেছেন।",
+      "link": "https://www.prothomalo.com/bangladesh/district/rgcvhicrkf",
+      "pubDate": "2026-07-20T07:30:37.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "এমবাপ্পের বিশ্ব রেকর্ড ও স্পেনের জয়জয়কার, ২০২৬ বিশ্বকাপের সব পুরস্কার জিতল কারা?",
+      "summary": "",
+      "link": "https://www.prothomalo.com/video/sports/5c3tdtq7ob",
+      "pubDate": "2026-07-20T07:27:28.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Taxpayers could pay millions to abuse survivors if Christian Brothers goes bankrupt, court documents reveal",
+      "summary": "Catholic order with a record of child abuse could be subject to hundreds of redress claims worth up to $65m\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralian taxpayers could be forc",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/20/christian-brothers-australia-abuse-survivors-ntwnfb",
+      "pubDate": "2026-07-20T07:19:53.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ইউনেসকো ঢাকা অফিসে চাকরির সুযোগ",
+      "summary": "জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা (ইউনেসকো) বাংলাদেশে ‘ক্রয় ব্যবস্থাপনা সহকারী’ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+      "link": "https://www.prothomalo.com/chakri/employment/o8ve97ure4",
+      "pubDate": "2026-07-20T07:08:50.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [
+        "Science",
+        "Fine Arts/Culture"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Infantino tries to usher Trump away as Spain lift World Cup",
+      "summary": "Infantino tries to usher Trump away as Spain lift World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/infantino-tries-to-usher-trump-away-as-spain-lift-world-cup?traffic_source=rss",
+      "pubDate": "2026-07-20T07:03:12.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Top 30: from half a million World Cup photos, why I love these the most",
+      "summary": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral, that delicious diving header from Jude Bellingham and a humbling scene in Gaza\nWhat makes a great World Cup photograph? Now there’s a question with myriad a",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery",
+      "pubDate": "2026-07-20T07:00:49.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "সময় ব্যবস্থাপনায় মুমিনের ৩ কৌশল",
+      "summary": "সময় ব্যবস্থাপনা মানে দৈনন্দিন কর্মঘণ্টাকে সুপরিকল্পিতভাবে সাজিয়ে কম সময়ে বেশি কাজ করার একটা দক্ষতা। আজ এমন কিছু অভ্যাসের কথা বলা হলো।",
+      "link": "https://www.prothomalo.com/religion/islam/dtsrba93l0",
+      "pubDate": "2026-07-20T07:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "লেনোভোর নতুন মডেলের আইডিয়াপ্যাড ল্যাপটপ বাজারে",
+      "summary": "ল্যাপটপটিতে ২.৪ গিগাহার্টজ গতির এএমডি রাইজেন ৩ ৭৩২০ইউ মডেলের প্রসেসর থাকায় সহজেই একসঙ্গে একাধিক কাজ করা যায়।",
+      "link": "https://www.prothomalo.com/technology/gadget/1ybchkjxgi",
+      "pubDate": "2026-07-20T07:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "জলপথে স্কুলের পথে",
+      "summary": "বর্ষা এলেই তলিয়ে যায় সিলেটের হাওরাঞ্চলের সড়ক, তখন নৌকাই হয়ে ওঠে চলাচলের একমাত্র ভরসা। শিশুশিক্ষার্থীদের স্কুলে যাওয়া–আসাও চলে নৌকায়। প্রতিকূলতার মধ্যেও শিক্ষার পথে তাদের এই যাত্রার গল্প সিলেট সদর উপজেলার বাকগুল হাওর ও চরচরিকান্দি এলাকার।",
+      "link": "https://www.prothomalo.com/photo/bangladesh/t87su335eq",
+      "pubDate": "2026-07-20T07:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "দিল্লিতে অজিত দোভালের সঙ্গে বৈঠক প্রতিরক্ষা উপদেষ্টার, কূটনৈতিক গুরুত্ব কতটা",
+      "summary": "বৈঠকটির বিষয়ে বাংলাদেশ বা ভারতের কোনো পক্ষই আনুষ্ঠানিকভাবে কিছু জানায়নি। প্রকাশ করা হয়নি বিষয়বস্তু।",
+      "link": "https://www.prothomalo.com/bangladesh/d514gjal4g",
+      "pubDate": "2026-07-20T06:59:56.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "এইচএসসি পরীক্ষা ২০২৬। জীববিজ্ঞান ১ম পত্র (অধ্যায় ৭): জবা ফুলের বৈশিষ্ট্য হলো উপপত্রযুক্ত",
+      "summary": "জীববিজ্ঞান ১ম পত্র: বহুনির্বাচনি প্রশ্ন",
+      "link": "https://www.prothomalo.com/education/examination/1r30m8ecvd",
+      "pubDate": "2026-07-20T06:59:16.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
+      "summary": "Lee Hanson claims her mother’s comments on Tommy Robinson podcast were ‘misinterpreted’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nBarnaby Joyce says Pauline Hanson does not support the",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
+      "pubDate": "2026-07-20T06:59:15.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "বিপর্যস্ত শিক্ষা, ক্ষুব্ধ শিক্ষার্থী",
+      "summary": "বছরের শুরুতে বিদ্যালয়ে ভর্তির জন্য বর্তমানে চালু লটারি পদ্ধতির পরিবর্তে ভর্তি পরীক্ষা চালুর ব্যাপারে বর্তমান সরকার ও শিক্ষামন্ত্রীর আগ্রহ ইতিমধ্যে বিতর্ক সৃষ্টি করেছে।",
+      "link": "https://www.prothomalo.com/opinion/column/q5gypua8j6",
+      "pubDate": "2026-07-20T06:57:16.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "প্রধানমন্ত্রীর রাজনৈতিক সহকারী হলেন রাশেদ খাঁন",
+      "summary": "স্ট্যাটাসে রাশেদ খাঁন এই নিয়োগের জন্য প্রধানমন্ত্রীকে ধন্যবাদ ও কৃতজ্ঞতা জানান। দায়িত্ব সঠিকভাবে যাতে পালন করতে পারেন সে জন্য সবার সহযোগিতা চান।",
+      "link": "https://www.prothomalo.com/bangladesh/3jfh2eiqqe",
+      "pubDate": "2026-07-20T06:53:24.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "প্রাথমিক বৃত্তি পরীক্ষা ২০২৬। ইংরেজি—প্রশ্ন: ৩০টি গুরুত্বপূর্ণ শব্দ ও বাক্য",
+      "summary": "ইংরেজি: Unit 1-At the Library",
+      "link": "https://www.prothomalo.com/education/examination/sn4lhaoifn",
+      "pubDate": "2026-07-20T06:52:20.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "মার্কিন ভাইস প্রেসিডেন্ট জেডি ভ্যান্সের স্ত্রী উষা চতুর্থ সন্তানের জন্ম দিলেন",
+      "summary": "মার্কিন ভাইস প্রেসিডেন্ট জেডি ভ্যান্সের স্ত্রী (মার্কিন সেকেন্ড লেডি) উষা ভ্যান্স চতুর্থ সন্তানের জন্ম দিয়েছেন। গতকাল রোববার বিষয়টি নিশ্চিত করেছেন স্বয়ং ভাইস প্রেসিডেন্ট।",
+      "link": "https://www.prothomalo.com/world/usa/gorisil0cr",
+      "pubDate": "2026-07-20T06:52:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ঢাকা সিটি কলেজ: ১৯৮ শিক্ষকের ১০৫ জনের নিয়োগ নিয়েই প্রশ্ন",
+      "summary": "সিটি কলেজে ২৮ লাখ টাকার বেশি ভ্যাট ও প্রায় ৩ লাখ টাকার আয়কর ফাঁকি। বিধিবহির্ভূতভাবে পরিচালনা কমিটি নিয়েছেন প্রায় পৌনে দুই কোটি টাকা সম্মানী।",
+      "link": "https://www.prothomalo.com/education/5efkekv4cj",
+      "pubDate": "2026-07-20T06:50:56.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "British YouTuber Yung Filly appears in Australian court over rape allegations",
+      "summary": "Rapper pleads not guilty to six counts of sexually penetrating a 20-year-old woman without consent after a gig in Perth\nA British YouTuber and musician bit and slapped a young female fan while he was raping her after a gig in Western Australia, a court has bee",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/20/yung-filly-australia-court-youtuber-rape-allegations-ntwnfb",
+      "pubDate": "2026-07-20T06:46:08.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Last night, I was Spanish, and so were millions around the world",
+      "summary": "For many of us, Gaza was on our mind when we watched and celebrated Spain’s triumph at the World Cup.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
+      "pubDate": "2026-07-20T06:21:31.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Iran shipped billions in oil during the cease-fire.",
+      "summary": "",
+      "link": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
+      "pubDate": "2026-07-20T06:21:22.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "A Sudden Flicker of Light by David Thomson review – a brilliantly eccentric history of the movies",
+      "summary": "From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinema\nFilm critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on the subject of the mov",
+      "link": "https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies",
+      "pubDate": "2026-07-20T06:00:49.000Z",
+      "source": "The Guardian Books",
+      "region": "global",
+      "topics": [
+        "New Book Releases",
+        "Literature",
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Arsenal line up Stones free transfer - Monday's gossip",
+      "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T05:59:22.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Who am I? Guess World Cup star No 43",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn0png1j1lno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T05:44:11.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+      "summary": "Hundreds of demonstrators in Texas city demand justice in fatal shooting of 52-year-old Mexican man.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+      "pubDate": "2026-07-20T05:01:07.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia? | Nesrine Malik",
+      "summary": "A report on the Spectator’s coverage of Muslims makes for grim reading. Conservatism is now focused on this minority to the exclusion of everything else\nI start this column already resigned to the tune out, to the glaze over, the click away. This is not to say",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine",
+      "pubDate": "2026-07-20T05:00:48.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Andy Burnham says he will go ‘faster’ than Starmer. Why is that so hard?",
+      "summary": "Is the machinery of state jammed, or is the reason for the slow pace of change more personal than institutional?\nEighteen months into the 24 it turned out he would last in No 10, Keir Starmer was a man in a hurry. The biggest frustration with the job, he told ",
+      "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-says-he-will-go-faster-than-keir-starmer",
+      "pubDate": "2026-07-20T05:00:48.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+      "summary": "The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land\nThe jerry-built bordello at the foot of Vila Cururu, an illegal gold-mining settlement at the heart of Brazil’s most desecr",
+      "link": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+      "pubDate": "2026-07-20T05:00:47.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Retired UK civil servants failed by pension outsourcing, government says",
+      "summary": "Chaos of Capita-run scheme has left some people waiting up to a year for payments and in financial hardship \nRetired civil servants have been failed by the decision to outsource their pension scheme, the government has admitted, and the maladministration meant",
+      "link": "https://www.theguardian.com/business/2026/jul/20/retired-uk-civil-servants-failed-pension-outsourcing-government-capita",
+      "pubDate": "2026-07-20T05:00:47.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics",
+        "Economy/Business"
+      ],
+      "otherSources": [
+        "The Guardian Business"
+      ]
+    },
+    {
+      "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+      "summary": "US President Donald Trump said the latest strikes on Iran were carried out 'in honour' of killed US military personnel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
+      "pubDate": "2026-07-20T04:52:56.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
+      "summary": "Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has found\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nM",
+      "link": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
+      "pubDate": "2026-07-20T04:43:37.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "US releases footage of ninth consecutive night of strikes on Iran",
+      "summary": "The US military carried out its ninth consecutive night of strikes on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
+      "pubDate": "2026-07-20T04:38:16.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Tearful Scaloni uncertain of Argentina future after World Cup loss",
+      "summary": "Manager says it would be difficult to assemble another squad capable of reaching two consecutive World Cup finals.",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/tearful-scaloni-uncertain-of-argentina-future-after-world-cup-loss?traffic_source=rss",
+      "pubDate": "2026-07-20T04:31:13.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Women’s tennis players must take one-time gene test for eligibility",
+      "summary": "Players will need to take a test ​for the SRY gene, which helps to determine biological sex, the WTA says.",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/womens-tennis-players-must-take-one-time-gene-test-for-eligibility?traffic_source=rss",
+      "pubDate": "2026-07-20T04:21:57.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "summary": "Andy Burnham, who is set to enter Downing Street on Monday, faces a long and daunting list of issues. Here are some of the most urgent.",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html",
+      "pubDate": "2026-07-20T04:01:05.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
+      "summary": "Spanish fans spent the night partying in Madrid after their team defeated Argentina 1-0 in the final of the World Cup.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
+      "pubDate": "2026-07-20T03:59:18.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts\nA massive search-and-rescue operation is under way after a ferry sank ⁠off the coast of Guyana in South ",
+      "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "pubDate": "2026-07-20T03:54:52.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Food delivery rider wins China's top literary prize",
+      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T03:53:07.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [
+        "Literature"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
+      "summary": "Argentinians filled the streets of Buenos Aires to honour their team despite its World Cup final defeat.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
+      "pubDate": "2026-07-20T03:52:54.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "How a young and cohesive Spain took down Lionel Messi’s Argentina",
+      "summary": "La Roja nullified and frustrated Argentina as they secured victory in New Jersey to win their second World Cup.",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/how-a-young-and-cohesive-spain-took-down-lionel-messis-argentina?traffic_source=rss",
+      "pubDate": "2026-07-20T03:43:42.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "India news: 'Cockroaches' take on Modi with parliament march",
+      "summary": "Police have not granted permission for a march to the parliament organized by India's Cockroach Janta Party movement. Nevertheless, the CJP and its supporters have begun the protest walk. DW has the latest.",
+      "link": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-20T03:32:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
       "otherSources": []
     },
     {
@@ -125,137 +1141,11 @@
       "otherSources": []
     },
     {
-      "title": "Andy Burnham to become UK’s PM on Monday: What happens next?",
+      "title": "What’s next as Andy Burnham takes over as UK’s next prime minister?",
       "summary": "Andy Burnham will become UK prime minister. Here's how the transition of power will unfold.",
       "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
       "pubDate": "2026-07-20T03:20:48.000Z",
       "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Australia news live: mourners arrive for Derryn Hinch state funeral; Mark Dreyfus tells antisemitism inquiry of ‘deeply wounding’ attack",
-      "summary": "Roayl commission on antisemitism and social cohesion starts fifth block of hearings in Melbourne this week. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe use of AI in automated decision-making by government departme",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
-      "pubDate": "2026-07-20T03:19:59.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "স্বাভাবিক প্রসবে একটি অনুকরণীয় মডেল",
-      "summary": "আরও গুরুত্বপূর্ণ বিষয় হলো, এই সাফল্য এসেছে সীমাহীন সংকটের মধ্যেও। কেন্দ্রটিতে নিয়মিত জনবল নেই বললেই চলে।",
-      "link": "https://www.prothomalo.com/opinion/editorial/g7i8en8c43",
-      "pubDate": "2026-07-20T03:19:59.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
-      "summary": "পর্দা নেমেছে বিশ্বকাপ ফুটবল ২০২৬–এর। আর্জেন্টিনাকে ১–০ গোলে হারিয়ে ১৬ বছর পর বিশ্বকাপ ফুটবলের শিরোপা জিতেছে স্পেন।",
-      "link": "https://www.prothomalo.com/bangladesh/f13j2drcmj",
-      "pubDate": "2026-07-20T03:17:10.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
-      "summary": "Lee Hanson claims her mother’s comments on Tommy Robinson podcast were ‘misinterpreted’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nBarnaby Joyce says Pauline Hanson does not support the",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
-      "pubDate": "2026-07-20T03:12:01.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "স্পেনের বিশ্বজয়, মেসির বিষাদ",
-      "summary": "নিউইয়র্ক-নিউ জার্সি স্টেডিয়ামে আর্জেন্টিনাকে হারিয়ে ১৬ বছর পর আবার বিশ্বকাপ জিতেছে স্পেন।",
-      "link": "https://www.prothomalo.com/photo/sports/d44egk2jop",
-      "pubDate": "2026-07-20T03:05:44.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "গুচ্ছগ্রামে নেই যোগাযোগের পথ, ভাঙা সাঁকোয় অবরুদ্ধ ২৪০ পরিবার",
-      "summary": "২০২০ সালে প্রায় চার কোটি টাকা ব্যয়ে ব্রহ্মপুত্র নদের চরে গড়ে তোলা হয়েছিল গুচ্ছগ্রাম। এতে ঠাঁই হয় ২৪০টি ভূমিহীন পরিবারের",
-      "link": "https://www.prothomalo.com/video/bangladesh/lcb30sckem",
-      "pubDate": "2026-07-20T03:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "নারীজাতির আদর্শ প্রতিভূ সারদা দেবী",
-      "summary": "আপাতদৃষ্টিতে সাধারণ একজন গ্রাম্য নারী প্রথাগত শিক্ষা ছাড়াও যেভাবে গভীর দর্শনের কথা বলে গেছেন তা সত্যিই বিস্ময়কর। জীবনে কোন পথে, কিভাবে চলতে হবে তাও শিখিয়ে গেছেন।",
-      "link": "https://www.prothomalo.com/religion/hindu/sbs5lqpo22",
-      "pubDate": "2026-07-20T03:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [
-        "Philosophy"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "প্রত্যেক মানুষের জীবন ও মর্যাদার মূল্য আছে",
-      "summary": "‘বাউন্ডেলের আত্মকাহিনী’ কাজী নজরুল ইসলামের প্রথম প্রকাশিত ছোটগল্প। এটি ১৯১৯ সালে সওগাত পত্রিকায় প্রকাশিত হয় এবং এর মাধ্যমেই তাঁর সাহিত্যজীবনের সূচনা ঘটে। গল্পটিতে একজন বাউন্ডেলে বা ভবঘুরে মানুষের জীবন, তার স্বাধীনচেতা মনোভাব, দুঃখ-কষ্ট ও জীবনের নানা অভিজ্ঞতা",
-      "link": "https://www.bondhushava.com/activities/bp6gojot7b",
-      "pubDate": "2026-07-20T03:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "শীর্ষে এমজিআই, বড় উত্থান ডেল্টার, আরও পেছাল সিটি গ্রুপ",
-      "summary": "",
-      "link": "https://www.prothomalo.com/business/economics/eud14eot9j",
-      "pubDate": "2026-07-20T03:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "অতিরিক্ত পানি পানই কি ব্রুস লির মৃত্যুর কারণ, রহস্যের জট খোলেনি আজও",
-      "summary": "একটি ব্যথানাশক ওষুধ খেয়ে ঘুমাতে গিয়েছিলেন ব্রুস লি। হয়তো ভেবেছিলেন, খানিকটা বিশ্রাম নিলে ক্লান্তি কেটে যাবে, শরীর ঠিক হবে। তাঁর সে ঘুম আর ভাঙেনি।",
-      "link": "https://www.prothomalo.com/world/lrwwuazabb",
-      "pubDate": "2026-07-20T03:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
-      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
-      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "pubDate": "2026-07-20T02:58:22.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Israel watches tensely as the U.S.-Iran fighting escalates.",
-      "summary": "",
-      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates",
-      "pubDate": "2026-07-20T02:42:47.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -267,16 +1157,6 @@
       "pubDate": "2026-07-20T02:39:17.000Z",
       "source": "Al Jazeera",
       "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "স্পেন ৬১৫ কোটি, আর্জেন্টিনা ৪০৬ কোটি—বিশ্বকাপ থেকে বাকিরা পাবে কত টাকা",
-      "summary": "বিশ্বকাপ শুরুর প্রায় দুই মাস আগেই প্রাইজমানি বাড়ানোর ঘোষণা দিয়েছিল ফিফা। ৪৮ দলের বিশ্বকাপে চ্যাম্পিয়ন থেকে শুরু করে বিভিন্ন পুরস্কার পাওয়া দলগুলো কী পরিমাণ অর্থ পেল?",
-      "link": "https://www.prothomalo.com/sports/ded1m6le6z",
-      "pubDate": "2026-07-20T02:37:04.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
       "topics": [],
       "otherSources": []
     },
@@ -293,151 +1173,11 @@
       "otherSources": []
     },
     {
-      "title": "দস্যুদের কবল থেকে পালিয়ে তিন দিন সুন্দরবনে ঘুরে ঘুরে বাড়ি ফিরল কিশোর",
-      "summary": "মেহেদির বাবা বলেন, ‘তিন দিন ডাকাতদের হাতে জিম্মি ছিল, তারপর আরও তিন দিন একা বনের মধ্যে ঘুরে বেড়াইছে। কিছুই খাতি পারেনি। অনেক মারধর করিছে ওরে।’",
-      "link": "https://www.prothomalo.com/bangladesh/district/3cqoujsbab",
-      "pubDate": "2026-07-20T02:30:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "কখনোই কোনো সিন্ডিকেটের অংশ ছিলাম না",
-      "summary": "",
-      "link": "https://www.prothomalo.com/entertainment/dhallywood/jpi7sreodf",
-      "pubDate": "2026-07-20T02:30:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "পাঠকের ছবি (২০ জুলাই ২০২৬)",
-      "summary": "নাগরিক সংবাদে ছবি ও লেখা পাঠাতে পারবেন পাঠকেরা। ই-মেইল: ns@prothomalo.com",
-      "link": "https://nagorik.prothomalo.com/photo/qsfwn58m7l",
-      "pubDate": "2026-07-20T02:28:25.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "যুক্তরাষ্ট্রে শিক্ষার্থী ভিসার মেয়াদের নতুন নিয়ম, এসটিইএম ও পিএইচডি শিক্ষার্থীরা কি করবেন",
-      "summary": "যুক্তরাষ্ট্রে আন্তর্জাতিক শিক্ষার্থীদের ভিসার মেয়াদ সর্বোচ্চ চার বছর নির্ধারণের প্রস্তাব করা হয়েছে। বর্তমান ‘ডিউরেশন অব স্ট্যাটাস’ ব্যবস্থা তুলে দিয়ে এই নতুন নিয়ম চালু হলে পিএইচডি ও এসটিইএম শিক্ষার্থীরা সবচেয়ে বেশি ক্ষতিগ্রস্ত হবেন।",
-      "link": "https://www.prothomalo.com/education/higher-education/3xvmtv3gbq",
-      "pubDate": "2026-07-20T02:27:50.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "পল্লী বিদ্যুতের মিটার রিডার পদের কাজ কী, ১৪৬০ পদে আবেদনের বাকি ২ দিন",
-      "summary": "ডাম ফাউন্ডেশন ফর ইকোনমিক ডেভেলপমেন্টে (ডিএফইডি) ৭ ক্যাটাগরির পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ।",
-      "link": "https://www.prothomalo.com/chakri/employment/eld2dc85ig",
-      "pubDate": "2026-07-20T02:27:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Palestinians celebrate Spain’s World Cup victory",
       "summary": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
       "pubDate": "2026-07-20T02:23:45.000Z",
       "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "US service member killed during detonation of Iranian drone in Iraq",
-      "summary": "A US soldier has been killed in northern Iraq during a controlled detonation of an Iranian downed drone.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss",
-      "pubDate": "2026-07-20T02:11:53.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards",
-      "summary": "While Ferran Torres orchestrated Spain's winning the ultimate prize, his teammates walk away with awards of their own.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss",
-      "pubDate": "2026-07-20T02:09:53.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Spain fans hail new generation, as Argentina says goodbye to an icon",
-      "summary": "Revellers take to streets of New York following Spain's defeat of Argentina in Messi's likely final World Cup match.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/spain-fans-hail-new-generation-as-argentina-says-goodbye-to-an-icon?traffic_source=rss",
-      "pubDate": "2026-07-20T02:03:48.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "কালো গাউনে যেন জীবন্ত ভাস্কর্য, গৌরব গুপ্তার কতুরে নজর কাড়লেন সোবিতা ধুলিপালা",
-      "summary": "মুম্বাইয়ে ডিজাইনারের নতুন কতুর শো ‘লাইট সং’-এ কালো ভাস্কর্যধর্মী গাউনে হাজির হয়ে আবারও নিজের অনন্য ফ্যাশন রুচির প্রমাণ দিলেন অভিনেত্রী সোবিতা ধুলিপালা",
-      "link": "https://www.haal.fashion/celeb/style/pwqswiu1bw",
-      "pubDate": "2026-07-20T02:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "হাতির শুঁড়ের রোম দিয়ে যদি রোবোটিক সেন্সর তৈরি করা যায়?",
-      "summary": "হাতির শুঁড়ের রোম দিয়ে কি রোবোটিক সেন্সর তৈরি করা যায়? এসব সূক্ষ্ম রোমের বৈশিষ্ট্য একেবারেই অনন্য",
-      "link": "https://www.prothomalo.com/video/international/fsdd4hl4n3",
-      "pubDate": "2026-07-20T02:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সংলাপ ও বিতর্কেরও কি ইনসাফ আছে",
-      "summary": "",
-      "link": "https://www.prothomalo.com/onnoalo/treatise/cgwzy0f42q",
-      "pubDate": "2026-07-20T02:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সপ্তাহে একবার যে ওষুধ গ্রহণে ওজন কমে, বিশেষজ্ঞের পরামর্শ জানুন",
-      "summary": "",
-      "link": "https://www.prothomalo.com/lifestyle/health/7jrgp78hth",
-      "pubDate": "2026-07-20T02:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-      "summary": "Iranian media report blasts in cities in the far north and far south, including Tabriz and Chabahar.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
-      "pubDate": "2026-07-20T01:48:59.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Iran shipped billions in oil during the cease-fire.",
-      "summary": "",
-      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
-      "pubDate": "2026-07-20T01:31:54.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -501,7 +1241,7 @@
       "otherSources": []
     },
     {
-      "title": "Scaloni leaves news conference in tears talking about his future",
+      "title": "Argentina boss Scaloni leaves news conference in tears talking about his future",
       "summary": "Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-20T00:29:09.000Z",
@@ -549,16 +1289,6 @@
       "otherSources": []
     },
     {
-      "title": "Iran war live: US military completes ninth night of strikes on Iran",
-      "summary": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
-      "pubDate": "2026-07-20T00:00:00.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Trump show offers fitting fever-dream end to a World Cup of excess and damage",
       "summary": "Football appeared a sideshow for much of the last afternoon of a tournament nurtured to indulge the cult of the individual\nIt ended almost as Gianni Infantino and Donald Trump had planned. Earlier on a seemingly endless World Cup final day, the trophy had, in ",
       "link": "https://www.theguardian.com/football/2026/jul/20/donald-trump-world-cup-excess-damage-football",
@@ -581,19 +1311,9 @@
       "otherSources": []
     },
     {
-      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-      "summary": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
-      "pubDate": "2026-07-19T23:49:30.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Spain win World Cup for second time after beating Argentina 1-0",
-      "summary": "After a 16 year wait, Spain have claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain are now men’s and women’s world champions.",
-      "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
+      "title": "Spain wins second World Cup after beating Argentina in final",
+      "summary": "After a 16-year wait, Spain has claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain is now men's and women's world champions.",
+      "link": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285?maca=en-rss-en-all-1573-rdf",
       "pubDate": "2026-07-19T23:49:00.000Z",
       "source": "DW",
       "region": "global",
@@ -610,28 +1330,6 @@
       "topics": [
         "Football"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Football Daily: Spain win the World Cup",
-      "summary": "Spain won 1-0 against Argentina after extra time in New Jersey.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nzr634?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T23:39:00.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "US Vice President JD Vance and his wife announce birth of fourth child",
-      "summary": "JD and Usha Vance welcome a baby boy, the first child born to a sitting vice president in more than 150 years.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/us-vice-president-jd-vance-and-his-wife-announce-birth-of-fourth-child?traffic_source=rss",
-      "pubDate": "2026-07-19T23:35:06.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -668,9 +1366,7 @@
       "topics": [
         "Football"
       ],
-      "otherSources": [
-        "BBC Football"
-      ]
+      "otherSources": []
     },
     {
       "title": "Are you a parent missing out on £27 a week? Here's how to check",
@@ -682,16 +1378,6 @@
       "topics": [
         "Economy/Business"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "A bird’s-eye view as Donald Trump arrives for the World Cup final",
-      "summary": "Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss",
-      "pubDate": "2026-07-19T23:11:39.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -716,16 +1402,6 @@
       "topics": [
         "Football"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-      "summary": "Fans in Madrid erupted in celebration after Spain beat Argentina 1-0 in the World Cup final.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-      "pubDate": "2026-07-19T23:05:40.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -755,7 +1431,7 @@
       "otherSources": []
     },
     {
-      "title": "Mbappe first to win Golden Boot twice as Rodri named World Cup's best player",
+      "title": "Mbappe first to win Golden Boot twice as Rodri named best player",
       "summary": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri lands the Golden Ball as the best player.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-19T23:00:56.000Z",
@@ -764,28 +1440,6 @@
       "topics": [
         "Football"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "The 2026 World Cup final: Spain 1-0 Argentina – in pictures",
-      "summary": "After six weeks of football, Spain defeated Argentina to win their second title in the 104th and final game of the 2026 World Cup\n Continue reading...",
-      "link": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
-      "pubDate": "2026-07-19T22:55:06.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "When is the next FIFA World Cup? 2030 hosts, dates and format",
-      "summary": "The 2030 tournament will span six countries and three continents as FIFA celebrates the World Cup's centenary.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/when-is-the-next-fifa-world-cup-2030-hosts-dates-and-format?traffic_source=rss",
-      "pubDate": "2026-07-19T22:51:01.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -826,7 +1480,7 @@
     },
     {
       "title": "‘It was crap’: Wayne Rooney’s candour helps BBC in World Cup final TV battle",
-      "summary": "BBC scored a late goal in head-to-head with ITV over the World Cup by being in the stadium for the final\n“I thought it was crap,” Wayne Rooney surmised on BBC after enduring the half-time show. Amid a tense final, the interval was always going to be prominent,",
+      "summary": "BBC scored a late goal in head-to-head with ITV over the World Cup by being in the stadium for the final\n“I thought it was crap,” Wayne Rooney surmised on BBC One after enduring the half-time show. Amid a tense final, the interval was always going to be promin",
       "link": "https://www.theguardian.com/football/2026/jul/19/world-cup-2026-final-tv-review-bbc-itv-wayne-rooney",
       "pubDate": "2026-07-19T22:32:52.000Z",
       "source": "The Guardian Football",
@@ -834,16 +1488,6 @@
       "topics": [
         "Football"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup",
-      "summary": "Ferran Torres scores the only goal of the game as Spain win their second World Cup.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
-      "pubDate": "2026-07-19T22:32:30.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -859,16 +1503,6 @@
       "otherSources": []
     },
     {
-      "title": "When, where, and how Spain won the World Cup final against Argentina",
-      "summary": "Spain are world champions for the second time after Ferran Torres scored the winner against Argentina in extra time.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
-      "pubDate": "2026-07-19T22:24:07.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "A Conversation with Zohran Mamdani",
       "summary": "The mayor of New York City talks about Andy Burnham, Netanyahu and the controversial U.S. red card.",
       "link": "https://www.nytimes.com/2026/07/19/world/zohran-mamdani-interview-world-cup-final.html",
@@ -879,30 +1513,16 @@
       "otherSources": []
     },
     {
-      "title": "Spain win World Cup after Ferran Torres breaks 10-man Argentina’s resistance",
-      "summary": "It was the triumph of an idea, an identity. Of an unshakable and patient faith. And when it was over, Spain’s new generation having emulated the one from the 2010 World Cup, all of those legendary names, there was simply delirium for them.\nSpain were the only ",
-      "link": "https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report",
-      "pubDate": "2026-07-19T22:17:53.000Z",
-      "source": "The Guardian Football",
+      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-19T22:16:39.000Z",
+      "source": "BBC Football",
       "region": "global",
       "topics": [
         "Football"
       ],
       "otherSources": []
-    },
-    {
-      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
-      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T22:16:39.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": [
-        "BBC Football"
-      ]
     },
     {
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
@@ -954,26 +1574,6 @@
       "otherSources": []
     },
     {
-      "title": "Earthquake in Peru Kills 6 and Displaces Hundreds",
-      "summary": "Peru is prone to frequent quakes, but the 5.5-magnitude temblor was the biggest to strike the central highlands area in more than 50 years.",
-      "link": "https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html",
-      "pubDate": "2026-07-19T21:09:41.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Israeli ministers join march to Gaza to demand return of settlements",
-      "summary": "Hundreds gather near the border as far-right figures push to rebuild settlements removed in 2005",
-      "link": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-      "pubDate": "2026-07-19T20:55:11.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Stars shine at the World Cup final half-time show",
       "summary": "Madonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York New Jersey Stadium.",
       "link": "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo?at_medium=RSS&at_campaign=rss",
@@ -983,60 +1583,6 @@
       "topics": [
         "Football"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Arsenal line up Stones free transfer - Monday's gossip",
-      "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T20:48:37.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
-      "summary": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
-      "pubDate": "2026-07-19T20:22:38.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
-      "summary": "All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
-      "pubDate": "2026-07-19T20:19:26.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Statistics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
-      "summary": "Andy Burnham will become Britain's next prime minister on Monday, with huge challenges and opportunities.",
-      "link": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
-      "pubDate": "2026-07-19T20:12:26.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Twin earthquakes strike Peru killing at least five",
-      "summary": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
-      "pubDate": "2026-07-19T20:11:51.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -1050,13 +1596,15 @@
       "otherSources": []
     },
     {
-      "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
-      "summary": "Emergency response has rescued 67 people, including 15 children, from one of the country’s worst maritime disasters\nA ferry carrying 116 passengers and crew sank ⁠off the coast of Guyana in South America ⁠late Saturday, with 67 ⁠people, ​including 15 children,",
-      "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "pubDate": "2026-07-19T19:39:58.000Z",
-      "source": "The Guardian World",
+      "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
+      "summary": "Energy secretary grapples with mounting criticism over length of US war as Democrat calls conflict ‘war of choice’\nA Trump administration official on Sunday grappled with mounting criticism over the length of the US war with Iran after months of promised diplo",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
+      "pubDate": "2026-07-19T18:48:12.000Z",
+      "source": "The Guardian Business",
       "region": "global",
-      "topics": [],
+      "topics": [
+        "Economy/Business"
+      ],
       "otherSources": []
     },
     {
@@ -1224,16 +1772,6 @@
       ]
     },
     {
-      "title": "The U.S. Is Sending More Warplanes to the Middle East, Officials Say",
-      "summary": "F-16 and F-35 jets were en route to the region from Europe, according to U.S. officials who were not authorized to speak publicly.",
-      "link": "https://www.nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html",
-      "pubDate": "2026-07-19T16:50:55.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Thames Water creditors seek talks with Burnham as nationalisation looms",
       "summary": "Consortium preparing for potential legal battle amid reports new PM could put the company into temporary public ownership\nThe group of investors pursuing a rescue bid for Thames Water have said they are willing to discuss greater public control but are also pr",
       "link": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
@@ -1288,23 +1826,14 @@
       "otherSources": []
     },
     {
-      "title": "Australia’s life dissatisfaction levels double as ‘wellbeing poverty’ reaches new highs",
-      "summary": "ABS data shows one in 10 people are not satisfied with life – but community cohesion and trust lift happiness scores\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nNearly 2.2 million Austra",
-      "link": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
+      "title": "AI job worries grow. But some human skills can’t be replaced by machines | Gaynor Parkin and Dave Winsborough",
+      "summary": "The fear of becoming obsolete is a rising source of anxiety as artificial intelligence emerges in the workplace. Staying strongly connected with others will help\n\nThe modern mind is a column where experts discuss mental health issues they are seeing in their w",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/20/ai-job-worries-human-skills-machines-cant-replace",
       "pubDate": "2026-07-19T15:00:31.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Parents were told asbestos in play sand was low risk unless ‘pulverised’. But regulators hadn’t tested it themselves",
-      "summary": "Exclusive: Some ACCC recall notices updated to say products ‘may cause risk to health’, contrary to previous claims\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nSchools, retailers and gov",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment",
-      "pubDate": "2026-07-19T15:00:30.000Z",
-      "source": "The Guardian World",
+      "source": "The Guardian Business",
       "region": "global",
       "topics": [
+        "Economy/Business",
         "Medicine"
       ],
       "otherSources": []
@@ -1378,6 +1907,18 @@
       "otherSources": []
     },
     {
+      "title": "Why a modest US interest rate rise won’t change much for most businesses",
+      "summary": "Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiring\nWith the appointment of a new Federal Reserve chair, the latest concern is that interest rates will go up in the next few months. That d",
+      "link": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
+      "pubDate": "2026-07-19T14:00:28.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Fact check: Spotting AI-generated 'historical' images",
       "summary": "DW Fact check selected three \"historical\" videos that aren't real — they're AI. Could you recognize the fake? Here's how to spot it — and why it matters.",
       "link": "https://www.dw.com/en/fact-check-spotting-ai-generated-historical-images/a-77969109?maca=en-rss-en-all-1573-rdf",
@@ -1386,18 +1927,6 @@
       "region": "global",
       "topics": [
         "History"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Football Daily | Give it up for Vozinha, Spence and the 2026 World Cup’s cult heroes",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!\nEvery World Cup produces cult heroes, icons who make it possible for us to sit back and start misty-eyed recollections by saying: “Do you remember Roger Milla/Saeed Al-Owairan/Keisuke Honda/Paul the Octopus?”",
-      "link": "https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes",
-      "pubDate": "2026-07-19T13:19:30.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -1471,13 +2000,16 @@
       "otherSources": []
     },
     {
-      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
-      "summary": "New national plan is accompanied by Labor push for digital duty of care legislation\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe use of AI in automated decision-making by government d",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "title": "Sphinxes, movie stars and 3m books: inside Los Angeles’s beloved art deco library",
+      "summary": "The showcase library’s centenary was celebrated by thousands who filled the still-relevant public institution\nThe central library in downtown Los Angeles has seen its fair share of colorful moments.\nThe architectural gem, which turned 100 this week, has been t",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/los-angeles-central-libarary-centenary",
       "pubDate": "2026-07-19T12:00:27.000Z",
-      "source": "The Guardian World",
+      "source": "The Guardian Books",
       "region": "global",
-      "topics": [],
+      "topics": [
+        "New Book Releases",
+        "Literature"
+      ],
       "otherSources": []
     },
     {
@@ -1540,6 +2072,19 @@
       "region": "global",
       "topics": [
         "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
+      "summary": "From Nevada to Manchester, developers are trialling innovative solutions to clean energy’s biggest challenge\nIn the deserts of the United Arab Emirates a sprawling clean energy project, stretching across an area roughly the size of 12,600 football fields, will",
+      "link": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
+      "pubDate": "2026-07-19T11:00:25.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business",
+        "Football"
       ],
       "otherSources": []
     },
@@ -1609,34 +2154,11 @@
       "otherSources": []
     },
     {
-      "title": "Has Saka shown Tuchel he's too good to leave out?",
-      "summary": "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T09:52:44.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football",
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Deadly overnight Russian attack on Ukraine targets the capital",
       "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
       "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
       "pubDate": "2026-07-19T09:14:38.000Z",
       "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Argentines, Already ‘Losing Their Minds,’ Brace for World Cup Final",
-      "summary": "A championship victory would be pure elation, but Argentina is already basking in a state of grace after a win against England and a monthlong fever dream.",
-      "link": "https://www.nytimes.com/2026/07/19/world/americas/argentines-already-losing-their-minds-brace-for-world-cup-final.html",
-      "pubDate": "2026-07-19T09:01:42.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -1669,16 +2191,14 @@
       "summary": "Fifa deal with prediction market company under fire\n\nBalogun reprieve showed ‘rules bend under pressure’\n\nFifa has been accused of providing an “open door to fraud” and allowing political influence to cast doubt on the integrity of the World Cup in a stinging ",
       "link": "https://www.theguardian.com/football/2026/jul/19/fifa-fraud-open-door-betting-council-of-europe-world-cup",
       "pubDate": "2026-07-19T09:00:22.000Z",
-      "source": "The Guardian Business",
+      "source": "The Guardian Football",
       "region": "global",
       "topics": [
+        "Football",
         "Economy/Business",
-        "Politics",
-        "Football"
+        "Politics"
       ],
-      "otherSources": [
-        "The Guardian Football"
-      ]
+      "otherSources": []
     },
     {
       "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
@@ -1729,25 +2249,10 @@
       "summary": "Andy Burnham’s recent promise to create a ‘No 10 North’ echoes BBC’s successful Out of London plan\nWhen the BBC first announced its intention to move a significant chunk of its operation to Salford in Greater Manchester – the “Out of London” plan, as the then ",
       "link": "https://www.theguardian.com/politics/2026/jul/19/here-be-dragons-does-moving-power-to-the-north-work",
       "pubDate": "2026-07-19T07:00:20.000Z",
-      "source": "The Guardian Politics",
+      "source": "The Guardian Business",
       "region": "global",
       "topics": [
-        "Politics",
         "Economy/Business"
-      ],
-      "otherSources": [
-        "The Guardian Business"
-      ]
-    },
-    {
-      "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-      "summary": "In 1994, the last men's World Cup the U.S. hosted sparked soccer fever, from youth leagues to TV broadcasts to the formation of MLS. Now, can MLS harness this World Cup for a new generation of fans?",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
-      "pubDate": "2026-07-19T07:00:00.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -1770,19 +2275,6 @@
       "region": "global",
       "topics": [
         "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Bank of England to stop accepting bonds linked to coal for key loans",
-      "summary": "Campaigners hope move will force commercial banks to rethink holding assets linked to the fossil fuel\nClimate campaigners have declared a victory after the Bank of England said it would no longer accept bonds linked to one of the most polluting industries on t",
-      "link": "https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets",
-      "pubDate": "2026-07-19T05:00:17.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business",
-        "CNG/Fuel"
       ],
       "otherSources": []
     },
@@ -1821,16 +2313,6 @@
       "otherSources": []
     },
     {
-      "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
-      "summary": "Spain's run to the title was a defensive masterclass, with wins over four of the world's top ten teams. They are the first World Cup champion to win the title while only conceding a single goal.",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
-      "pubDate": "2026-07-19T04:00:00.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Russia's largest ballistic assault of war rocks Kyiv",
       "summary": "Fires broke out across the Ukrainian capital after Russia's latest missile attack, which used the highest number of ballistic missiles of the war so far. Several people have been injured in Kyiv.",
       "link": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-rdf",
@@ -1850,18 +2332,6 @@
       "topics": [
         "New Book Releases",
         "Literature"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Best England team for a long time - that's a fact, says Rice",
-      "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after they secure a third-placed finish at the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T02:29:00.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -1892,16 +2362,6 @@
       "otherSources": []
     },
     {
-      "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
-      "summary": "Influencer Andrew Tate and his brother Tristan have been arrested in Miami after British authorities issued 38 new charges against them, and said they are \"seeking extradition\" for the two men.",
-      "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-      "pubDate": "2026-07-19T00:57:08.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Andrew Tate, brother arrested in Miami, UK seeks extradition",
       "summary": "Andrew and Tristan Tate were taken into custody by the US Marshals Service in Miami on a sealed warrant. The UK has requested their extradition on charges that include trafficking and rape.",
       "link": "https://www.dw.com/en/andrew-tate-brother-arrested-in-miami-uk-seeks-extradition/a-78022447?maca=en-rss-en-all-1573-rdf",
@@ -1921,6 +2381,18 @@
       "topics": [
         "Economy/Business",
         "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "How did England players rate during the World Cup?",
+      "summary": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-18T23:31:46.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
       ],
       "otherSources": []
     },
@@ -2069,16 +2541,6 @@
       "otherSources": []
     },
     {
-      "title": "Segregation in Israel: Separate streets for men and women?",
-      "summary": "An Israeli city with a large ultra-Orthodox Jewish population wants to segregate men and women on certain streets. Israeli politicians have voted to allow university courses to do the same.",
-      "link": "https://www.dw.com/en/segregation-in-israel-separate-streets-for-men-and-women/a-78020879?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-18T18:45:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Arjun Beats Niemann To Put Pressure On Firouzja",
       "summary": "GM Arjun Erigaisi became the first player other than GM Alireza Firouzja to win a game in the 2026 Quantbox Chennai Grand Masters after carefully defusing an inventive queen sacrifice by GM Hans Niemann. Firouzja leads by half a point after making...",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
@@ -2111,18 +2573,6 @@
       "otherSources": []
     },
     {
-      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-      "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-      "pubDate": "2026-07-18T16:48:22.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Burnham risks Labour backlash if he reverses ban on new oil and gas drilling",
       "summary": "Party manifesto pledged to honour existing North Sea exploration licences but not issue new ones\nAndy Burnham risks his first confrontation with Labour MPs if he announces new oil and gas drilling licences when he becomes prime minister, insiders have warned.\n",
       "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
@@ -2132,16 +2582,6 @@
       "topics": [
         "Politics"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-      "pubDate": "2026-07-18T15:45:28.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -2170,52 +2610,6 @@
       "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
       "pubDate": "2026-07-18T14:13:36.000Z",
       "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
-      "summary": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
-      "pubDate": "2026-07-18T13:56:40.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
-      "summary": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growth\nAndy Burnham’s plan to scrap the government’s technology department has triggered an angry backlash from MPs, Whitehall officials and tech exper",
-      "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
-      "pubDate": "2026-07-18T13:42:43.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics",
-        "Economy/Business",
-        "Technology"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing\nWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, agai",
-      "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "pubDate": "2026-07-18T13:14:57.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
-      "summary": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
-      "link": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
-      "pubDate": "2026-07-18T13:09:16.000Z",
-      "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -2269,18 +2663,6 @@
       "otherSources": []
     },
     {
-      "title": "Andy Burnham considers radical shake-up to cut energy bills",
-      "summary": "Labour leader examining proposals to overhaul gas standing charges and make heat pumps cheaper to run than boilers\nAndy Burnham is considering radical plans that could cut household energy bills by £130 a year and make running a heat pump cheaper than a gas bo",
-      "link": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
-      "pubDate": "2026-07-18T10:45:01.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Lit Hub Weekly: July 13 – 17, 2026",
       "summary": "On the rise (and fall) of the Japanese cell phone novel in the early 2000s (and the its attendant moral panic). | Lit Hub Technology Josh Cook, bookseller and founder of the Porter Square Review of Books, explores why booksellers",
       "link": "https://lithub.com/lit-hub-weekly-july-13-17-2026/",
@@ -2299,18 +2681,6 @@
       "summary": "Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy\nThe scale of the graft is decidedly off the charts, but the revelation that Donald Trump raked in a personal fortune of $2.2bn during his first y",
       "link": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
       "pubDate": "2026-07-18T10:00:02.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Poultry sector growth plan risks UK national security, campaigners warn",
-      "summary": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocks\nThe government’s planned poultry sector growth plan is a risk to national security, campaigners have warned.\nEarlier this month, the environment se",
-      "link": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
-      "pubDate": "2026-07-18T10:00:01.000Z",
       "source": "The Guardian Business",
       "region": "global",
       "topics": [
@@ -2398,18 +2768,6 @@
       "topics": [
         "Economy/Business",
         "Politics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Wessex Water chief pockets above-inflation pay rise despite bonus ban over sewage spills",
-      "summary": "CEO’s pay packet surges to £791,000 as union says public ‘sick of obscene pay’ and bosses ‘feathering own nests’\nWessex Water awarded its chief executive an above-inflation pay increase even as the company was banned from paying bonuses because of sewage spill",
-      "link": "https://www.theguardian.com/business/2026/jul/18/wessex-water-chief-pay-rise-bonus-ban",
-      "pubDate": "2026-07-18T07:00:51.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -2717,19 +3075,6 @@
       "otherSources": []
     },
     {
-      "title": "Carbon capture is a fig leaf for fossil fuel expansion | Letters",
-      "summary": "The predicted £264bn cost by 2050 could be even higher, plus renewables avoid a far higher total of emissions than can be captured, writes Andrew Boswell, while Simon Oldridge calls out vested interests\nProf Myles Allen and colleagues, in their letter (12 July",
-      "link": "https://www.theguardian.com/environment/2026/jul/17/carbon-capture-fossil-fuel-firms-cost-renewables-emissions",
-      "pubDate": "2026-07-17T16:35:54.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business",
-        "CNG/Fuel"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "The Guardian view on Andy Burnham: political poetry must become governing prose | Editorial",
       "summary": "Larkin, Harrison and Shakespeare shaped Labour’s leader. Now comes the harder task: turning language into lasting change\nAndy Burnham is finally Labour leader. After trying – and failing – twice to be elected by party members, he took the top job on Friday wit",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/17/the-guardian-view-on-andy-burnham-political-poetry-must-become-governing-prose",
@@ -2939,19 +3284,6 @@
       "otherSources": []
     },
     {
-      "title": "Why are UK fuel prices rising again?",
-      "summary": "UK fuel prices are going up again after the collapse of peace talks to end the US-Israel war with Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-17T14:09:45.000Z",
-      "source": "BBC Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business",
-        "CNG/Fuel"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Beijing’s message to the world’s tourists: come here and judge China for yourselves | Zichen Wang",
       "summary": "By relaxing visa rules, Beijing has two things on its mind – boosting its economy and improving its self-image\nWalk through central Beijing today and one thing quickly becomes apparent: foreigners are back. They are taking photos outside the Forbidden City and",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/17/tourists-world-china-beijing-economy",
@@ -3011,19 +3343,6 @@
       "otherSources": []
     },
     {
-      "title": "‘No stuffy vibes … just good books’: Matt Haig to open bookshop in Brighton",
-      "summary": "‘My belief, as someone who grew up in a town without a bookshop, is that all communities should have one,’ says author of The Midnight Library\nMatt Haig, the bestselling author of titles including The Midnight Library and Reasons to Stay Alive, is opening a bo",
-      "link": "https://www.theguardian.com/books/2026/jul/17/matt-haig-bookshop-brighton",
-      "pubDate": "2026-07-17T12:29:59.000Z",
-      "source": "The Guardian Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya \nSeven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government in",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
@@ -3055,18 +3374,6 @@
       "region": "global",
       "topics": [
         "Physics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them?",
-      "summary": "Meta touts safety features – but for women, the dangers of these recording devices are obvious\nImagine if every time you left the house, you couldn’t be sure that the stranger you met at a bar – or even the person walking by you in the street – wasn’t secretly",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses",
-      "pubDate": "2026-07-17T12:00:07.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -3225,18 +3532,6 @@
       "otherSources": []
     },
     {
-      "title": "Who is the frontrunner to be the UK's next chancellor?",
-      "summary": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
-      "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-17T09:42:25.000Z",
-      "source": "BBC Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
       "summary": "Arrest in Pennsylvania of Wu Shaoping, who is awaiting asylum decision, raises fears of deportation and persecution\nA Chinese human rights lawyer has been arrested by US Immigration and Customs Enforcement (ICE), raising concerns he could be deported to China ",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
@@ -3244,99 +3539,6 @@
       "source": "The Guardian World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Nostos, or Homecoming: Why I Keep Returning to the Odyssey",
-      "summary": "The first time I read the Odyssey, I was sixteen years old. The fantastical creatures, the alien cultures, and the wily hero’s desperate search for home were all thrilling to me. I felt an uncanny familiarity: with the characters, yes,",
-      "link": "https://lithub.com/nostos-or-homecoming-why-i-keep-returning-to-the-odyssey/",
-      "pubDate": "2026-07-17T09:09:57.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases",
-        "Fine Arts/Culture"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Who, Exactly, Were All Those Girls in Renoir’s Paintings?",
-      "summary": "The Museu de Arte de São Paulo Assis Chateaubriand (MASP) is suspended in the air above the traffic and the trees of the Avenida Paulista. By some architectural wizardry of concrete and glass the pictures inside stand to attention, as",
-      "link": "https://lithub.com/who-exactly-were-all-those-girls-in-renoirs-paintings/",
-      "pubDate": "2026-07-17T09:09:49.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases",
-        "Fine Arts/Culture"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "What Writing About Bobby Kennedy Taught Me About Male Power",
-      "summary": "A few summers ago, while the Supreme Court was deciding whether or not abortion would remain legal, I was writing a novel about Bobby Kennedy. During the day, I was a woman in the twenty-first century whose body was endlessly,",
-      "link": "https://lithub.com/what-writing-about-bobby-kennedy-taught-me-about-male-power/",
-      "pubDate": "2026-07-17T09:09:29.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "A Chorus of Poets: On the Possible Existence of Multiple Homers",
-      "summary": "Dawn touches the sky with her rosy fingers, and I realize that I forgot to put the bin out. I turn on the radio, and the news is full of stories about powerful men with fragile egos catapulting the world",
-      "link": "https://lithub.com/a-chorus-of-poets-on-the-possible-existence-of-multiple-homers/",
-      "pubDate": "2026-07-17T09:09:09.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Nine Feminist Mythological Reimaginings to Read After You Watch The Odyssey",
-      "summary": "Mythologies across the world abound with stories that center heroes. Be it Gilgamesh, the Iliad, the Mahabharata or the Shahnameh, great epics highlight the exploits and adventures of men, the women in their lives often relegated to the sidelines, their",
-      "link": "https://lithub.com/nine-feminist-mythological-reimaginings-to-read-after-you-watch-the-odyssey/",
-      "pubDate": "2026-07-17T09:08:26.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "What Should You Read Next? Here Are the Best Reviewed Books of the Week",
-      "summary": "Sigrid Nunez’s It Will Come Back to You, Lauren Collins’s They Stole a City, and Julie Buntin’s Famous Men all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction",
-      "link": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-7-17-2026/",
-      "pubDate": "2026-07-17T09:08:09.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Emily Doyle on the Subtle Tyranny of Realism",
-      "summary": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. My grandmother suffers from dementia. I could say that her sense of reality is unstable, but that would be misleading. It is more that her sense of reality is unbound",
-      "link": "https://lithub.com/emily-doyle-on-the-subtle-tyranny-of-realism/",
-      "pubDate": "2026-07-17T09:07:59.000Z",
-      "source": "LitHub",
-      "region": "global",
-      "topics": [
-        "Literature",
-        "New Book Releases"
-      ],
       "otherSources": []
     },
     {
@@ -3470,28 +3672,6 @@
       "region": "global",
       "topics": [
         "Physics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
-      "summary": "Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of Commerce\nChina’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government in",
-      "link": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
-      "pubDate": "2026-07-17T06:57:08.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "‘How’s this joker got my details?’: BrewDog founder faces complaints over emails to ‘equity punks’",
-      "summary": "Exclusive: Watchdog asked to look into how James Watt got data of ex-crowdfunders he invited to join buy-back bid\nJames Watt, the BrewDog founder who sold the debt-laden “punk” brewer earlier this year, is the subject of complaints to the UK’s data privacy wat",
-      "link": "https://www.theguardian.com/business/2026/jul/17/brewdog-founder-james-watt-faces-data-privacy-complaints-over-emails-to-equity-punks",
-      "pubDate": "2026-07-17T06:00:02.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -3722,19 +3902,6 @@
       "otherSources": []
     },
     {
-      "title": "Books Our Editors Loved This Week",
-      "summary": "Reading recommendations from critics and editors at The New York Times.",
-      "link": "https://www.nytimes.com/2026/07/16/books/review/new-recommended-books.html",
-      "pubDate": "2026-07-16T20:04:58.000Z",
-      "source": "NYT Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Burning Houses to Save Houses",
       "summary": "We visited researchers seeking ways to make homes safer. They set a lot of fires.",
       "link": "https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html",
@@ -3771,31 +3938,6 @@
       "otherSources": []
     },
     {
-      "title": "STAT+: Despite earnings celebration, UnitedHealth signals more financial pain for employers",
-      "summary": "Insurance giant UnitedHealth signals the cost of providing workers with health insurance will climb even higher.",
-      "link": "https://www.statnews.com/2026/07/16/unitedhealth-employer-insurance-costs-medical-spending/?utm_campaign=rss",
-      "pubDate": "2026-07-16T17:34:01.000Z",
-      "source": "STAT News",
-      "region": "global",
-      "topics": [
-        "Medicine"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "The Only Thing Riskier Than Telling an Abortion Joke",
-      "summary": "For the comedian Alison Leiby, talking about her choice to be child-free is more polarizing to audiences than anything else.",
-      "link": "https://www.nytimes.com/2026/07/16/style/alison-leiby-im-a-lot-book-comedy.html",
-      "pubDate": "2026-07-16T17:29:41.000Z",
-      "source": "NYT Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "The F.D.A. Approves a New Pill to Slash Cholesterol Levels",
       "summary": "The new pills can lower cholesterol levels far below what can be achieved with statins, clinical trials have shown.",
       "link": "https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html",
@@ -3804,18 +3946,6 @@
       "region": "global",
       "topics": [
         "Science"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Pete Hegseth’s announcement of annual testosterone screenings for service members divides medical experts",
-      "summary": "Medical experts are divided on Defense Secretary Pete Hegseth’s announcement that U.S. service members will undergo annual testosterone screenings.",
-      "link": "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/?utm_campaign=rss",
-      "pubDate": "2026-07-16T17:20:31.000Z",
-      "source": "STAT News",
-      "region": "global",
-      "topics": [
-        "Medicine"
       ],
       "otherSources": []
     },
@@ -3857,18 +3987,6 @@
       "otherSources": []
     },
     {
-      "title": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak",
-      "summary": "The government of Uganda has gone quiet on an outbreak of the deadly Marburg virus that it reported late last month, the WHO acknowledged.",
-      "link": "https://www.statnews.com/2026/07/16/world-health-organization-wants-marburg-virus-update-from-uganda/?utm_campaign=rss",
-      "pubDate": "2026-07-16T16:22:07.000Z",
-      "source": "STAT News",
-      "region": "global",
-      "topics": [
-        "Medicine"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
       "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’\nLabour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Of",
       "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
@@ -3876,19 +3994,6 @@
       "source": "The Guardian World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "STAT+: Brain implant restores the sensation of touch in a person with quadriplegia",
-      "summary": "A brain-computer interface helped restore movement and sensation in a 48-year old man with quadriplegia, researchers say.",
-      "link": "https://www.statnews.com/2026/07/16/brain-computer-interface-implant-restores-sensation-double-neural-bypass/?utm_campaign=rss",
-      "pubDate": "2026-07-16T15:00:00.000Z",
-      "source": "STAT News",
-      "region": "global",
-      "topics": [
-        "Medicine",
-        "Science"
-      ],
       "otherSources": []
     },
     {
@@ -3913,19 +4018,6 @@
       "topics": [
         "Science",
         "Medicine"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Romance Novels Filled With Dazzling Fireworks",
-      "summary": "Our columnist on three of the year’s most anticipated books.",
-      "link": "https://www.nytimes.com/2026/07/16/books/review/new-romance-books.html",
-      "pubDate": "2026-07-16T13:40:46.000Z",
-      "source": "NYT Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature"
       ],
       "otherSources": []
     },
@@ -3988,18 +4080,6 @@
       "source": "The Guardian World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "If you have been listening to Suella Braverman and think Britain has gone bonkers, let me explain | Nels Abbey",
-      "summary": "The idea that former colonies should pay reparations makes perfect sense through the lens of the new right. But have they got the telescope the right way round?\nDearest World,\nBritain, that small yet once highly influential nation that once proudly ruled over ",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/16/suella-braverman-reparations-colonialism-reform-race",
-      "pubDate": "2026-07-16T11:00:37.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
       "otherSources": []
     },
     {
@@ -4088,18 +4168,6 @@
         "Literature",
         "Politics",
         "History"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Door-to-Door Search for Grapevines Sold at Costco Begins in California’s Santa Clara County",
-      "summary": "Officials in Santa Clara County began knocking on doors on Monday to collect potentially infested plants sold at some Costco stores.",
-      "link": "https://www.nytimes.com/2026/07/15/us/california-costco-plants-recall.html",
-      "pubDate": "2026-07-15T22:30:28.000Z",
-      "source": "NYT Science",
-      "region": "global",
-      "topics": [
-        "Science"
       ],
       "otherSources": []
     },
@@ -4556,19 +4624,6 @@
       "otherSources": []
     },
     {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publish",
-      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "pubDate": "2026-07-13T18:00:00.000Z",
-      "source": "MIT Technology Review",
-      "region": "global",
-      "topics": [
-        "Technology",
-        "Computer Science"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Whether lefty or righty, practice makes the difference",
       "summary": "Researchers looking for the origins of left-right dominance in the brain found no innately better motor skills on either side.",
       "link": "https://www.sciencenews.org/article/left-right-dominance-practice-writing",
@@ -4681,19 +4736,6 @@
       "summary": "Essays by the great and the good address the legacy of Brexit, but ignore the nationalist elephant in the room\nThis massive collection of essays by 43 different authors, including seven lords, four baronesses, one dame and three knights of the realm, may be th",
       "link": "https://www.theguardian.com/books/2026/jul/13/the-brexit-effect-2016-2026-edited-by-anthony-seldon-review-life-without-eu",
       "pubDate": "2026-07-13T08:00:41.000Z",
-      "source": "The Guardian Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "The Anniversary by Andrea Bajani review – meet the terrible parents",
-      "summary": "Therapy brings childhood trauma to light in this ambitious tale of family rupture – a smash hit in Italy that fails to live up to its hype\nA son leaves home for university and goes on to pay fortnightly visits to his parents for 20 years, dreading every encoun",
-      "link": "https://www.theguardian.com/books/2026/jul/13/the-anniversary-by-andrea-bajani-review-meet-the-wearily-predictable-parents",
-      "pubDate": "2026-07-13T06:00:40.000Z",
       "source": "The Guardian Books",
       "region": "global",
       "topics": [
@@ -4823,18 +4865,6 @@
       "otherSources": []
     },
     {
-      "title": "Oda beats GB's Hewett in Wimbledon wheelchair singles final",
-      "summary": "Great Britain's Alfie Hewett is beaten 6-1 6-1 by top seed Tokito Oda in the final of the men's wheelchair singles at Wimbledon.",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cp9ldz91yn7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T11:53:51.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "More Than The Score: A golden age of Italian tennis",
       "summary": "How Jannik Sinner and Italy rose to the very top of tennis",
       "link": "https://www.bbc.co.uk/sounds/play/p0ny3fzt?at_medium=RSS&at_campaign=rss",
@@ -4883,6 +4913,18 @@
       "otherSources": []
     },
     {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "summary": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide\n\nMen’s transfer window interactive guide\n\n Continue reading...",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "pubDate": "2026-07-11T09:16:01.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
       "summary": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide\n\nWomen’s transfer window interactive guide\n\n Continue reading...",
       "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
@@ -4895,7 +4937,7 @@
       "otherSources": []
     },
     {
-      "title": "When the World Cup finishes, the football continues on BBC Sport",
+      "title": "How to follow the new football season on BBC Sport",
       "summary": "When the World Cup ends we'll still have loads of great content every day as we build up to the new football season.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-11T06:03:35.000Z",
@@ -4969,18 +5011,6 @@
       "otherSources": []
     },
     {
-      "title": "Quiz of the week: what techniques can be combined to predict the frequency of extreme weather events?",
-      "summary": "Have you been keeping up to date with physics news? Try our short quiz to find out\nThe post Quiz of the week: what techniques can be combined to predict the frequency of extreme weather events? appeared first on Physics World.",
-      "link": "https://physicsworld.com/a/quiz-of-the-week-what-techniques-can-be-combined-to-predict-the-frequency-of-extreme-weather-events/",
-      "pubDate": "2026-07-10T14:54:41.000Z",
-      "source": "Physics World",
-      "region": "global",
-      "topics": [
-        "Physics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
       "summary": "Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea.            \nThe post We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture. first appeared",
       "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
@@ -5002,20 +5032,6 @@
       "topics": [
         "Science",
         "New Book Releases"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "The best recent science fiction, fantasy and horror – review roundup",
-      "summary": "Sublimation by Isabel J Kim; Last Day of a Prior Life by Andrés Barba; Dead But Dreaming of Electric Sheep by Paul Tremblay; The Carrier by Ruth Newton; Time to Burn by Ellery Lloyd\nSublimation by Isabel J Kim (Picador, £18.99)\nThis debut novel from an award-w",
-      "link": "https://www.theguardian.com/books/2026/jul/10/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
-      "pubDate": "2026-07-10T11:00:19.000Z",
-      "source": "The Guardian Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature",
-        "Science"
       ],
       "otherSources": []
     },
@@ -5376,6 +5392,16 @@
       "otherSources": []
     },
     {
+      "title": "মোমেন্ট অব দ্য ডে",
+      "summary": "",
+      "link": "https://www.prothomalo.com/sports/football/7mayjdsu3e",
+      "pubDate": "2026-06-12T06:00:50.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
       "title": "What's Behind Steven Spielberg's Lifelong Obsession With Flying Saucers and Extraterrestrial Visitors?",
       "summary": "Half a century after \"Close Encounters of the Third Kind,\" the director returns to the subject of UFOs with \"Disclosure Day.\" His science fiction films are informed by his fascination with alien encounters in American suburbia",
       "link": "https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/",
@@ -5644,16 +5670,58 @@
   ],
   "editorial": [
     {
+      "title": "Enough Democratic Drama. North Carolina Has a Better, Boring Way.",
+      "link": "https://www.nytimes.com/2026/07/20/opinion/roy-cooper-senate-election.html",
+      "pubDate": "2026-07-20T09:02:14.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "Capping the Price of Health Care Is a Mistake",
+      "link": "https://www.nytimes.com/2026/07/20/opinion/health-care-prices-insurance-caps.html",
+      "pubDate": "2026-07-20T09:01:34.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "America Has 2 Political Parties but 8 Political Tribes",
+      "link": "https://www.nytimes.com/2026/07/20/opinion/voters-political-parties-coalitions.html",
+      "pubDate": "2026-07-20T09:01:30.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "A.I. Drones Are Coming. We Are Not Ready.",
+      "link": "https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html",
+      "pubDate": "2026-07-20T09:00:33.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "Taxing New York’s Second Homes Is a Step Toward Fairness",
+      "link": "https://www.nytimes.com/2026/07/20/opinion/second-home-tax-nyc-fairness.html",
+      "pubDate": "2026-07-20T09:00:09.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "AI Will Supercharge Surveillance Capitalism",
+      "link": "https://www.project-syndicate.org/commentary/ai-companies-to-launch-ads-based-on-users-inner-thoughts-by-courtney-c-radsch-2026-07",
+      "pubDate": "2026-07-20T08:17:37.000Z",
+      "source": "Project Syndicate"
+    },
+    {
+      "title": "Banning AI Models Doesn’t Add Up to a Policy",
+      "link": "https://foreignpolicy.com/2026/07/20/anthropic-ban-ai-united-states/",
+      "pubDate": "2026-07-20T04:37:02.000Z",
+      "source": "Foreign Policy"
+    },
+    {
+      "title": "The Liberal Origins of the War Against the Deep State",
+      "link": "https://foreignpolicy.com/2026/07/20/deep-state-liberal-origins-frank-church/",
+      "pubDate": "2026-07-20T04:01:07.000Z",
+      "source": "Foreign Policy"
+    },
+    {
       "title": "Inside Trump’s Rush Job to Build His Arch",
       "link": "https://www.theatlantic.com/culture/2026/07/trump-arch-preservation/687871/?utm_source=feed",
       "pubDate": "2026-07-19T19:44:00.000Z",
       "source": "The Atlantic"
-    },
-    {
-      "title": "A Billion Eyes. One Shared Experience.",
-      "link": "https://www.nytimes.com/2026/07/19/opinion/watching-the-world-cup.html",
-      "pubDate": "2026-07-19T18:35:19.000Z",
-      "source": "NYT Opinion"
     },
     {
       "title": "The Guardian view on perceptions of superpowers: the world isn’t Chinamaxxing, it’s America-avoidant | Editorial",
@@ -5668,52 +5736,10 @@
       "source": "The Atlantic"
     },
     {
-      "title": "Social Media Hacked Our Attention. A.I. Scares Me More.",
-      "link": "https://www.nytimes.com/2026/07/19/opinion/ai-attention-social-media-attachment.html",
-      "pubDate": "2026-07-19T14:53:42.000Z",
-      "source": "NYT Opinion"
-    },
-    {
-      "title": "Don’t Let This Useless Debate Distract You, Democrats",
-      "link": "https://www.nytimes.com/2026/07/19/opinion/democrats-capitalism-socialism.html",
-      "pubDate": "2026-07-19T14:47:24.000Z",
-      "source": "NYT Opinion"
-    },
-    {
       "title": "When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga",
       "pubDate": "2026-07-19T13:00:28.000Z",
       "source": "The Guardian Opinion"
-    },
-    {
-      "title": "American Jews in Difficult Times",
-      "link": "https://www.nytimes.com/2026/07/19/opinion/american-jews.html",
-      "pubDate": "2026-07-19T13:00:06.000Z",
-      "source": "NYT Opinion"
-    },
-    {
-      "title": "China’s Questionable Tech Strategy",
-      "link": "https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/?utm_source=feed",
-      "pubDate": "2026-07-19T12:00:00.000Z",
-      "source": "The Atlantic"
-    },
-    {
-      "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference",
-      "pubDate": "2026-07-19T11:00:27.000Z",
-      "source": "The Guardian Opinion"
-    },
-    {
-      "title": "A TV Show That’s Equal Parts Joy and Torture",
-      "link": "https://www.theatlantic.com/newsletters/2026/07/house-of-the-dragon-batik-memoir-novel/687983/?utm_source=feed",
-      "pubDate": "2026-07-19T11:00:00.000Z",
-      "source": "The Atlantic"
-    },
-    {
-      "title": "The Anti-Populist",
-      "link": "https://www.theatlantic.com/ideas/2026/07/trump-populism-right-wing-critique/687974/?utm_source=feed",
-      "pubDate": "2026-07-19T11:00:00.000Z",
-      "source": "The Atlantic"
     }
   ]
 }
