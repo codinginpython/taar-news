@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T13:53:06.275Z",
+  "generatedAt": "2026-07-26T03:42:05.929Z",
   "topics": [
     {
       "en": "Economy/Business",
@@ -80,30 +80,520 @@
   ],
   "articles": [
     {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-25T13:51:07.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
-      "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
-      "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
-      "pubDate": "2026-07-25T13:45:04.000Z",
+      "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+      "summary": "The police said the suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+      "pubDate": "2026-07-26T03:30:29.000Z",
       "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
-      "summary": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high as the Houthis and Saudi-led forces in Yemen said they had traded strikes.",
+      "title": "Can Zimbabwe’s mineral ambitions benefit smaller producers?",
+      "summary": "Zimbabwe wants to process more minerals at home, but smaller miners fear being left behind.",
+      "link": "https://www.aljazeera.com/news/2026/7/26/can-zimbabwes-mineral-ambitions-benefit-smaller-producers?traffic_source=rss",
+      "pubDate": "2026-07-26T03:21:28.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "শিশুদের খাবার নিয়ে অনিয়ম বন্ধ করুন",
+      "summary": "শিক্ষার্থীদের পুষ্টি নিশ্চিত করা, উপস্থিতি বাড়ানো এবং ঝরে পড়া বন্ধের লক্ষ্য নিয়ে দেশের ১৫০টি উপজেলায় প্রাথমিকে ‘মিড-ডে মিল’ বা স্কুল ফিডিং কর্মসূচি চালু করা হয়েছে।",
+      "link": "https://www.prothomalo.com/opinion/editorial/mbatjau9w1",
+      "pubDate": "2026-07-26T03:20:46.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "বার্লিনে উৎসবের ভিড়ে গাড়িচাপা, নিহত একজন, আহত ১৬",
+      "summary": "হতাহতদের নাম-পরিচয় এখনো জানায়নি পুলিশ। শুধু জানানো হয়েছে, সন্দেহভাজন ব্যক্তিকে শনাক্ত করা গেছে। তবে আটক করা সম্ভব হয়নি।",
+      "link": "https://www.prothomalo.com/world/europe/frrp8s4zlu",
+      "pubDate": "2026-07-26T03:17:59.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "আন্ডারওয়ার্ল্ডের সঙ্গে সম্পর্ক, খেটেছেন জেল, হঠাৎ উধাও সেই নায়িকা",
+      "summary": "অভিনয়ের চেয়ে তাঁর ব্যক্তিগত জীবনই একসময় হয়ে ওঠে সবচেয়ে বড় খবর। ভারতের কুখ্যাত আন্ডারওয়ার্ল্ড ডন আবু সালেমের সঙ্গে সম্পর্কের জেরে তাঁর ক্যারিয়ার কার্যত ধ্বংস হয়ে যায়।",
+      "link": "https://www.prothomalo.com/entertainment/bollywood/zwfzbccsxe",
+      "pubDate": "2026-07-26T03:15:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "একজন মন্ত্রীর পদত্যাগে মোদির সংকট কি কাটবে",
+      "summary": "বিরোধীদের দাবি উপেক্ষা করা, সিদ্ধান্তে অনড় থাকা এবং মন্ত্রিসভার কোনো সদস্যকে আন্দোলনের মুখে সরিয়ে না দেওয়া তাঁর পরিচিত রাজনৈতিক ধরন।",
+      "link": "https://www.prothomalo.com/world/india/5kw7ntstoj",
+      "pubDate": "2026-07-26T03:10:58.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "French wildfires trigger mass evacuations around Bordeaux",
+      "summary": "Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
+      "pubDate": "2026-07-26T03:03:17.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "খুলনা বন্ধুসভার পাঠচক্রে রবীন্দ্রনাথের ‘ছুটি’",
+      "summary": "রবীন্দ্রনাথ ঠাকুরের ‘ছুটি’ বাংলা সাহিত্যের অন্যতম হৃদয়স্পর্শী ছোটগল্প। ফটিক শিশুমনের অনুভূতি, স্বাধীনতার আকাঙ্ক্ষা, শহরের ব্যস্ত ও নিয়মবদ্ধ জীবনে সে নিজেকে মানিয়ে নিতে পারে না। ধীরে ধীরে সে অসুস্থ হয়ে পড়ে। মৃত্যুশয্যায় তার একটাই আকাঙ্ক্ষা ছিল—ছুটি।",
+      "link": "https://www.bondhushava.com/activities/knrektz8bh",
+      "pubDate": "2026-07-26T03:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [
+        "Literature"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "কেন রদ্রিকে কিনতে চাইছে রিয়াল মাদ্রিদ",
+      "summary": "মাদ্রিদভিত্তিক একাধিক সংবাদমাধ্যম জানাচ্ছে, রিয়াল ও রদ্রির মধ্যে বেতন–ভাতা ও অন্যান্য বিষয়সংক্রান্ত সমঝোতা হয়েছে।",
+      "link": "https://www.prothomalo.com/sports/football/9xkert8gqq",
+      "pubDate": "2026-07-26T03:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "টেকনাফের ‘সাবরাং ট্যুরিজম পার্ক’ আলোর মুখ দেখছে না যে কারণে",
+      "summary": "২০১৬ সালে টেকনাফ সদর ও সাবরাং ইউনিয়ন মৌজার ৯৬৭ একর জমি বরাদ্দ দেওয়া হলেও গত ১০ বছরেও আলোর মুখ দেখেনি এই ট্যুরিজম পার্ক।",
+      "link": "https://www.prothomalo.com/bangladesh/district/o8ekjlqihw",
+      "pubDate": "2026-07-26T03:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "মোরাকাবা: ইসলামে ধ্যান করার আধ্যাত্মিক উপায়",
+      "summary": "আইনের চোখকে ফাঁকি দেওয়ার বহু পথ মানুষ খুঁজে নেয়। কিন্তু যে জানে আল্লাহ দেখছেন, সে কখনো ঘুষ নেয় না, ওজনে কম দেয় না কিংবা কারও অধিকার হরণ করে না।",
+      "link": "https://www.prothomalo.com/religion/islam/l71o1h08zk",
+      "pubDate": "2026-07-26T03:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "অদৃশ্য কণার উপাখ্যান",
+      "summary": "",
+      "link": "https://www.prothomalo.com/onnoalo/poem/ig3hxgj1zf",
+      "pubDate": "2026-07-26T03:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "চাকরির প্রলোভনে রাশিয়া, যুদ্ধে যোগ দিয়ে শেষ ঠিকানা ইউক্রেনের কারাগার",
+      "summary": "দিন বদলের আশায় রাশিয়ায় গিয়েছিলেন বাংলাদেশী দুই যুবক। দালালের চক্করে পড়ে রাশিয়া–ইউক্রেন যুদ্ধে জড়িয়ে পড়েন",
+      "link": "https://www.prothomalo.com/video/bangladesh/r3v9xkyl5c",
+      "pubDate": "2026-07-26T03:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
+      "summary": "ভারতের কেন্দ্রীয় সরকারের সঙ্গে আলোচনার পর তাদের ওপর ‘আস্থা রেখে’ আন্দোলন প্রত্যাহার করার ঘোষণা দিয়েছে ককরোচ জনতা পার্টি (সিজেপি)।",
+      "link": "https://www.prothomalo.com/bangladesh/hw9dumn3ei",
+      "pubDate": "2026-07-26T02:58:28.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Iran War Live Updates: U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
+      "summary": "The Trump administration pulled back from major escalation, in part because of concerns over the supply of munitions, said people familiar with the matter.",
       "link": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "pubDate": "2026-07-25T13:44:39.000Z",
+      "pubDate": "2026-07-26T02:50:29.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "সহকারী জজ নিয়োগ, পদ ২৫০, বেতন স্কেল ৩০,৯৩৫-৬৪,৪৩০ টাকা",
+      "summary": "",
+      "link": "https://www.prothomalo.com/chakri/employment/vcsj4333bo",
+      "pubDate": "2026-07-26T02:32:42.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "হার্ভার্ডের একাডেমি স্কলারস প্রোগ্রাম, বছরে ৮০ হাজার ডলার স্টাইপেন্ড",
+      "summary": "",
+      "link": "https://www.prothomalo.com/education/scholarship/go7h7x6bkx",
+      "pubDate": "2026-07-26T02:31:01.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "অনলাইনে আয়কর রিটার্ন জমা দিতে চাই, কীভাবে শুরু করব",
+      "summary": "",
+      "link": "https://www.prothomalo.com/business/personal-finance/8g0s72jz9n",
+      "pubDate": "2026-07-26T02:30:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "বর্ষায় নতুন রূপে চলনবিল, নৌকাভ্রমণে কাটছে অবকাশ",
+      "summary": "কেউ মুঠোফোনে ছবি তুলছেন, কেউ ভিডিও করছেন। আবার অনেকেই শুধু দাঁড়িয়ে বিলের জলরাশি আর দূরের সবুজের মিতালি উপভোগ করছেন।",
+      "link": "https://www.prothomalo.com/bangladesh/district/iisvmkpv6p",
+      "pubDate": "2026-07-26T02:30:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations",
+      "summary": "Campaigners say existing federal ban on phone or video calls for assisted dying consultations adversely affects people living in regional Australia\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news pod",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese",
+      "pubDate": "2026-07-26T02:22:08.000Z",
+      "source": "The Guardian World",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
+      "summary": "Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
+      "pubDate": "2026-07-26T02:19:58.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "তুরস্ক থেকে  ট্রাম্প কেন তড়িঘড়ি উড়োজাহাজ বদলে দেশে ফিরলেন",
+      "summary": "এ তথ্য প্রকাশ্যে আসায় হোয়াইট হাউস কেন এত দ্রুত ট্রাম্পের উড়োজাহাজ বদলে ফেলার সিদ্ধান্ত নিয়েছিল, তা এখন স্পষ্ট হলো। এটি আগে কোনো গণমাধ্যমে প্রকাশ হয়নি।",
+      "link": "https://www.prothomalo.com/world/usa/gl9sh75k7g",
+      "pubDate": "2026-07-26T02:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "বনিবনা",
+      "summary": "",
+      "link": "https://www.prothomalo.com/onnoalo/poem/pwwx44bsvx",
+      "pubDate": "2026-07-26T02:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ভাঙা সড়কে প্রতিদিনের ভোগান্তি",
+      "summary": "একদিকে সিলেট রেলস্টেশন, অন্যদিকে নগরের সবচেয়ে বড় বাস টার্মিনাল কদমতলী। প্রতিদিন হাজারো যানবাহন ও মানুষের চলাচল এই সড়ক দিয়ে। অথচ দীর্ঘদিন ধরে সড়কটির বড় অংশজুড়ে সৃষ্টি হয়েছে অসংখ্য ছোট-বড় গর্ত। কার্পেটিং উঠে গিয়ে কোথাও ইট, কোথাও পাথর বেরিয়ে এসেছে।",
+      "link": "https://www.prothomalo.com/photo/bangladesh/l1myyq1fss",
+      "pubDate": "2026-07-26T02:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "ছোটবেলার অনুশাসনই তাঁকে সাহস জুগিয়েছে",
+      "summary": "ছোটবেলায় শেখা শৃঙ্খলা, কঠোর পরিশ্রম আর অধ্যবসায়ই আজ বলিউডে নিজের জায়গা তৈরি করতে সবচেয়ে বেশি সাহায্য করেছে বলে মনে করেন অভিনেত্রী সঞ্জনা সাংঘী।",
+      "link": "https://www.prothomalo.com/entertainment/bollywood/tqe3kvv0pv",
+      "pubDate": "2026-07-26T02:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "দেশের আবহাওয়ার পূর্বাভাস ও তথ্য দেয় আবহাওয়াবিদ অ্যাপ",
+      "summary": "আবহাওয়াবিদ অ্যাপের অন্যতম গুরুত্বপূর্ণ বৈশিষ্ট্য হলো অবস্থানভিত্তিক জরুরি আবহাওয়া সতর্কতা পাঠানোর সক্ষমতা। এর নির্মাতা মোস্তফা কামাল বলেন, এর মাধ্যমে কোনো নির্দিষ্ট বিভাগ, জেলা বা উপজেলার মানুষের কাছে জীবনরক্ষাকারী গুরুত্বপূর্ণ আবহাওয়া পূর্বাভাস ও সতর্কবার্",
+      "link": "https://www.prothomalo.com/technology/o0cpyhffkw",
+      "pubDate": "2026-07-26T02:00:00.000Z",
+      "source": "প্রথম আলো",
+      "region": "bd",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+      "summary": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
+      "link": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+      "pubDate": "2026-07-26T01:52:56.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
+      "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
+      "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
+      "pubDate": "2026-07-26T01:19:51.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "summary": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+      "pubDate": "2026-07-26T01:10:56.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "France and Spain fires force more than 200,000 to flee homes",
+      "summary": "At least one person has died in a fire in Spain, according to officials.",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+      "pubDate": "2026-07-26T01:05:45.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "More than 300,000 flee wildfires in France and Spain",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-26T00:54:06.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+      "summary": "Liverpool defeat Sunderland 4-2 in friendly in Nashville\n\nWhen Gomez went down, central defence formed by two teenagers \n\nThe Andoni Iraola era at Liverpool opened with a victory over Sunderland in Nashville – and a deepening of concerns over the defensive opt",
+      "link": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence",
+      "pubDate": "2026-07-26T00:49:24.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+      "summary": "Yemen's Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "pubDate": "2026-07-26T00:49:12.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "The notorious Cameroonian prison with its own record label",
+      "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
+      "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-26T00:24:30.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "20-Point Comeback Seals Stunning Tiebreak Victory For Le",
+      "summary": "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde...",
+      "link": "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-july-25-2026",
+      "pubDate": "2026-07-26T00:21:00.000Z",
+      "source": "Chess.com News",
+      "region": "global",
+      "topics": [
+        "Chess"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
+      "summary": "A citywide manhunt is underway after a van drove into a crowd during Pride celebrations, known locally as Christopher Street Day (CSD). Police have identified a suspect tied to Berlin's \"Islamist scene.\"",
+      "link": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-26T00:19:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+      "summary": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
+      "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+      "pubDate": "2026-07-26T00:11:49.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+      "summary": "Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with Lula.",
+      "link": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
+      "pubDate": "2026-07-26T00:08:16.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Would you pay $58.5m to live in this iconic New York building?",
+      "summary": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
+      "link": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-26T00:05:03.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Always remember how Macquarie built its millionaires on outrageous tolls and charges | John Quiggin",
+      "summary": "As Shemara Wikramanayake retires with shares worth hundreds of millions, the public is left counting the cost of high prices for utilities, roads and airports\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or dai",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/26/always-remember-how-macquarie-built-its-millionaires-on-outrageous-tolls-and-charges",
+      "pubDate": "2026-07-26T00:00:56.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-26T00:00:49.000Z",
+      "source": "BBC Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "summary": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "pubDate": "2026-07-26T00:00:25.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "What Love Island tells us about the changing face of dating",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T23:31:49.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [
+        "Fine Arts/Culture"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
+      "summary": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+      "pubDate": "2026-07-25T23:30:45.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T23:30:07.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+      "summary": "Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+      "pubDate": "2026-07-25T23:16:45.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "‘OnlyMarms’: Marmots Are on OnlyFans to Raise Money for Research",
+      "summary": "A team of scientists uploaded videos of the squirrel-like rodents in the wild on the adult-content site OnlyFans to raise money amid government budget cuts.",
+      "link": "https://www.nytimes.com/2026/07/25/science/ucla-marmot-onlyfans-research-onlymarms.html",
+      "pubDate": "2026-07-25T23:15:38.000Z",
+      "source": "NYT Science",
+      "region": "global",
+      "topics": [
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Fire tears through Indonesian village in West Java",
+      "summary": "A fire has torn through a traditional village in the Sukabumi Regency of Indonesia's West Java province.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss",
+      "pubDate": "2026-07-25T23:11:44.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+      "summary": "Brazilian authorities refused to grant visas to two senior U.S. officials out of concern they planned to sow doubt about the security of the country’s voting systems.",
+      "link": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
+      "pubDate": "2026-07-25T23:10:30.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Hundreds of Thousands Flee Fires in France and Spain as Help Pours In",
+      "summary": "Nearly 300,000 have been told to evacuate or take shelter as major fires edged closer to Madrid and Bordeaux.",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html",
+      "pubDate": "2026-07-25T22:55:02.000Z",
       "source": "NYT World",
       "region": "global",
       "topics": [],
@@ -111,93 +601,514 @@
     },
     {
       "title": "Wildfire Smoke Chokes Skies in Spain and France",
-      "summary": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+      "summary": "Hundreds of thousands of people, residents as well as vacationers, were forced to evacuate or told to remain indoors.",
       "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-      "pubDate": "2026-07-25T13:44:37.000Z",
+      "pubDate": "2026-07-25T22:32:16.000Z",
       "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "Protesters celebrate resignation of India's education minister",
-      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-      "link": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-25T13:44:01.000Z",
+      "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+      "summary": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+      "pubDate": "2026-07-25T22:31:19.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+      "summary": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T22:15:14.000Z",
+      "source": "BBC News",
+      "region": "global",
+      "topics": [
+        "Tennis"
+      ],
+      "otherSources": [
+        "BBC Tennis"
+      ]
+    },
+    {
+      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
+      "summary": "At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+      "pubDate": "2026-07-25T22:07:36.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Guy Tudor, Whose Art Brought Obscure Birds to Life, Dies at 91",
+      "summary": "A self-taught ornithologist, he won a MacArthur fellowship for his precise, resplendent illustrations that appeared in definitive field guides to tropical songbirds.",
+      "link": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
+      "pubDate": "2026-07-25T22:07:02.000Z",
+      "source": "NYT Science",
+      "region": "global",
+      "topics": [
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
+      "summary": "The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+      "pubDate": "2026-07-25T21:59:39.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "What to Know About the Wildfires Raging in Western Europe",
+      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+      "pubDate": "2026-07-25T21:47:57.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
+      "summary": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T21:21:03.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+      "summary": "Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+      "pubDate": "2026-07-25T21:08:24.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+      "summary": "India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "pubDate": "2026-07-25T20:57:45.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "pubDate": "2026-07-25T20:52:30.000Z",
+      "source": "Ars Technica",
+      "region": "global",
+      "topics": [
+        "Technology",
+        "Computer Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Head of police in northern Gaza killed in Israeli strike",
+      "summary": "Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of 'spreading chaos' in the Gaza Strip.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "pubDate": "2026-07-25T20:00:43.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "WAFCON 2026: What you need to know",
+      "summary": "Several months after it was supposed to start and with more teams than first planned, WAFCON 2026 is finally set to begin. The hosts want a maiden title while a tournament outsider have one of its best players.",
+      "link": "https://www.dw.com/en/wafcon-2026-what-you-need-to-know/a-77956787?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T19:37:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Biden ghostwriter tapes to be released",
+      "summary": "Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+      "pubDate": "2026-07-25T19:36:18.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [
+        "New Book Releases"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "At least 35 killed after two buses collide in eastern Syria",
+      "summary": "At least 35 killed after two buses collide in eastern Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "pubDate": "2026-07-25T19:22:30.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Police investigate payments to Reform UK first revealed by The Guardian",
+      "summary": "Scotland Yard is looking at two £250,000 donations to the party by Britain Means Business before the 2024 election\nPayments to Reform UK first revealed by the Guardian are now being investigated by the Metropolitan police.\nThe inquiry is scrutinising payments ",
+      "link": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
+      "pubDate": "2026-07-25T19:11:21.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics",
+        "Economy/Business"
+      ],
+      "otherSources": [
+        "The Guardian Business"
+      ]
+    },
+    {
+      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
+      "summary": "Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle\n“I played with him on my PlayStation, and now I’ve scored against him,” Livano Comenencia said after converting Curaçao’s first World Cup goal p",
+      "link": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football",
+      "pubDate": "2026-07-25T19:00:50.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Flavio Bolsonaro gets party nod to run against Brazil's Lula",
+      "summary": "Flavio Bolsonaro won support from Argentine President Javier Milei and Israeli Prime Minister Benjamin Netanyahu, though tariffs imposed by Donald Trump's administration could complicate his path to the presidency.",
+      "link": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T18:35:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Conditions for European Wildfires Created by Summer of Extremes",
+      "summary": "The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+      "pubDate": "2026-07-25T18:29:11.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
+      "summary": "Outbreak is spreading at the fastest rate ever recorded as confirmed cases in DRC surpass 3,000.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
+      "pubDate": "2026-07-25T18:28:09.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+      "summary": "Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
+      "pubDate": "2026-07-25T18:14:54.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [
+        "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
+      "summary": "Bodo/Glimt striker Kasper Hogh is due to have a medical with Celtic in the next 24 hours, the Scottish champions' manager, Martin O'Neill, reveals.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T18:07:42.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football",
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Why Epstein’s survivors are still fighting",
+      "summary": "Why Epstein's survivors are still fighting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss",
+      "pubDate": "2026-07-25T18:06:09.000Z",
+      "source": "Al Jazeera",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Charles Gaines, Whose ‘Pumping Iron’ Sparked Schwarzenegger’s Career, Dies at 84",
+      "summary": "An author and sportsman, he helped create the game of paintball and wrote the book and movie that made Arnold Schwarzenegger a household name.",
+      "link": "https://www.nytimes.com/2026/07/25/books/charles-gaines-dead.html",
+      "pubDate": "2026-07-25T18:06:03.000Z",
+      "source": "NYT Books",
+      "region": "global",
+      "topics": [
+        "New Book Releases",
+        "Literature"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "pubDate": "2026-07-25T17:47:22.000Z",
+      "source": "Ars Technica",
+      "region": "global",
+      "topics": [
+        "Technology",
+        "Computer Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T17:44:46.000Z",
       "source": "BBC News",
       "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "What’s Left of the U.S.-Iran Cease-Fire Agreement",
-      "summary": "Not much.",
-      "link": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
-      "pubDate": "2026-07-25T13:41:30.000Z",
-      "source": "NYT World",
+      "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+      "summary": "Brazil forward has one year left on contract at Bernabéu\n\nVinícius future at Real uncertain after Mourinho arrival\n\nArsenal are exploring a shock deal to sign Vinícius Júnior from Real Madrid. Arsenal have inquired about the Brazil international, who has one y",
+      "link": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
+      "pubDate": "2026-07-25T17:32:00.000Z",
+      "source": "The Guardian Football",
       "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "ডিবিএইচ ফাইন্যান্সের যশোর শাখার উদ্বোধন",
-      "summary": "নাসিমুল বাতেন বলেন, নতুন এই শাখা যশোর ও আশপাশের এলাকায় আবাসন খাতের উন্নয়নে ইতিবাচক ভূমিকা রাখার পাশাপাশি প্রতিষ্ঠানের ব্যবসায়িক প্রবৃদ্ধিতেও গুরুত্বপূর্ণ অবদান রাখবে।",
-      "link": "https://www.prothomalo.com/bangladesh/jwlm0pe28g",
-      "pubDate": "2026-07-25T13:37:16.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
       "topics": [
-        "Economy/Business"
+        "Football"
       ],
       "otherSources": []
     },
     {
-      "title": "চাকরি নিয়ে কথা-কাটাকাটি, মা-বাবাকে কুপিয়ে হত্যার অভিযোগ একমাত্র ছেলের বিরুদ্ধে",
-      "summary": "স্থানীয় সূত্র জানায়, রিমন দীর্ঘদিন ধরে বেকার। কোনো কাজকর্মও তিনি করতেন না। এ নিয়ে রিমনের সঙ্গে দেড়টার দিকে তাঁর মা ও বাবার তর্কাতর্কি হয়।",
-      "link": "https://www.prothomalo.com/bangladesh/district/16uw353kyw",
-      "pubDate": "2026-07-25T13:31:07.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
+      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+      "summary": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
+      "link": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T17:32:00.000Z",
+      "source": "DW",
+      "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "সিনেমা, রোবট আর ভ্রমণের আড্ডা",
-      "summary": "পরের পর্বে আড্ডায় উপস্থিত হন ‘উৎসব’ ও ‘বনতলা এক্সপ্রেস’ চলচ্চিত্রের পরিচালক তানিম নূর। তিনি জানান, ভবিষ্যতে কিশোরদের নিয়ে চলচ্চিত্র নির্মাণের ইচ্ছা রয়েছে তাঁর।",
-      "link": "https://www.kishoralo.com/other/w3o6rv35gr",
-      "pubDate": "2026-07-25T13:30:56.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Here’s the latest.",
-      "summary": "",
-      "link": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest",
-      "pubDate": "2026-07-25T13:26:57.000Z",
+      "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+      "summary": "Colombia’s president-elect, a lawyer, represented accused drug traffickers, among others. While living in Miami, he himself was investigated by U.S. authorities, though never charged.",
+      "link": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
+      "pubDate": "2026-07-25T17:20:59.000Z",
       "source": "NYT World",
       "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "তিন দিনের সফরে ঢাকা এসেছেন আরএকে সিরামিকসের গ্রুপ সিইও আবদাল্লাহ মাসাদ",
-      "summary": "এই সফরে তাঁর সঙ্গে রয়েছেন আরএকে সিরামিকস (বাংলাদেশ) লিমিটেডের পরিচালক মনোজ আহিরে।",
-      "link": "https://www.prothomalo.com/business/5xyaod9y36",
-      "pubDate": "2026-07-25T13:26:57.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
+      "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+      "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T17:15:09.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "India’s Education Minister Steps Down in Victory for Cockroach Party Protesters",
+      "summary": "The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.",
+      "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+      "pubDate": "2026-07-25T17:07:41.000Z",
+      "source": "NYT World",
+      "region": "global",
       "topics": [],
       "otherSources": []
     },
     {
-      "title": "রাষ্ট্রপতি মনোনয়নের সিদ্ধান্ত দলের স্থায়ী কমিটির বৈঠকে: মির্জা ফখরুল",
-      "summary": "মেয়াদ শেষ হওয়ার প্রায় পৌনে দুই বছর আগেই গতকাল শুক্রবার রাষ্ট্রপতির পদ থেকে ইস্তফা দেন মো. সাহাবুদ্দিন।",
-      "link": "https://www.prothomalo.com/bangladesh/district/54xev4dfxj",
-      "pubDate": "2026-07-25T13:26:36.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
+      "title": "Europe wildfires rage on, forcing more than 250,000 from homes",
+      "summary": "From the outskirts of Bordeaux to communities near Madrid, fast-moving wildfires in France and Spain are driving mass evacuations, destroying homes, and claiming lives.",
+      "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T17:05:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Lenacapavir will slow HIV infections if there's enough of it and it reaches at-risk groups",
+      "summary": "Lenacapavir is one injection, twice a year. It's a big improvement for people in high-risk groups, currently taking a pill a day against HIV infection. But its long-term impact depends on it reaching those very people.",
+      "link": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T17:04:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "‘There have always been wildfires here, but never like this.’",
+      "summary": "",
+      "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
+      "pubDate": "2026-07-25T16:07:53.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
+      "summary": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licence\nProduction at Britain’s biggest undeveloped oil and gasfield could be delayed for months after equipment from a rig was accidentally dropped in th",
+      "link": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+      "pubDate": "2026-07-25T16:00:46.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics",
+        "Economy/Business"
+      ],
+      "otherSources": [
+        "The Guardian Business"
+      ]
+    },
+    {
+      "title": "Tour de France final stage shortened due to wildfires",
+      "summary": "Security personnel assigned to the race have been redeployed to help contain major blazes near Bordeaux, reducing Sunday's final stage.",
+      "link": "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T15:26:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Professional classes stand in way of tax on the super-rich | Phillip Inman",
+      "summary": "If the prime minister wants to make the system fairer he will need to upset the professional classes with a land value tax\nThe professional classes act like a Praetorian Guard for the super-rich.\nHaving acquired some of the trappings of being rich, they defend",
+      "link": "https://www.theguardian.com/politics/2026/jul/25/andy-burnham-tax-super-rich-gen-x-baby-boomers-professional-class",
+      "pubDate": "2026-07-25T15:00:45.000Z",
+      "source": "The Guardian Politics",
+      "region": "global",
+      "topics": [
+        "Politics",
+        "Economy/Business"
+      ],
+      "otherSources": [
+        "The Guardian Business"
+      ]
+    },
+    {
+      "title": "Howe unsure over Guimaraes amid Arsenal interest",
+      "summary": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T14:54:03.000Z",
+      "source": "BBC Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Dozens dead after buses collide in eastern Syria",
+      "summary": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation.",
+      "link": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-all-1573-rdf",
+      "pubDate": "2026-07-25T14:50:00.000Z",
+      "source": "DW",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+      "summary": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
+      "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
+      "pubDate": "2026-07-25T14:48:22.000Z",
+      "source": "NPR",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "What’s Left of the Cease-Fire Agreement Between the U.S. and Iran?",
+      "summary": "Nearly all of the agreement’s 14 points have been violated.",
+      "link": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
+      "pubDate": "2026-07-25T14:46:11.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+      "summary": "Taiwan is stepping up plans to secure fuel and other vital imports as Chinese government ships practice moves that could one day be used in a blockade.",
+      "link": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
+      "pubDate": "2026-07-25T14:32:49.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "CNG/Fuel"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Bus Collision in Syria Kills 35, Health Ministry Says",
+      "summary": "The accident occurred when a civilian bus collided with another carrying members of the Syrian security forces on a highway in the center of the country.",
+      "link": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
+      "pubDate": "2026-07-25T14:25:19.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Who Are the People Protesting in India?",
+      "summary": "Some of the young demonstrators who forced out the country’s education minister described their deep-seated anger, frustration and desires that drove them into the streets.",
+      "link": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
+      "pubDate": "2026-07-25T13:53:43.000Z",
+      "source": "NYT World",
+      "region": "global",
+      "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "Defoe’s shock Woking exit came after ‘growing concerns’, says club",
+      "summary": "Director of football claims manager failed to turn up for training\n\nFormer Spurs striker’s stint ended after four months\n\nJermain Defoe’s departure from Woking came after “growing concerns” at the club with Jody Brown, the National League side’s director of fo",
+      "link": "https://www.theguardian.com/football/2026/jul/25/jermain-defoe-woking-exit",
+      "pubDate": "2026-07-25T13:53:37.000Z",
+      "source": "The Guardian Football",
+      "region": "global",
+      "topics": [
+        "Football"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-25T13:51:07.000Z",
+      "source": "BBC News",
+      "region": "global",
       "topics": [],
       "otherSources": []
     },
@@ -212,60 +1123,6 @@
       "otherSources": []
     },
     {
-      "title": "Bus Collision in Syria Kills 35, Health Ministry Says",
-      "summary": "The accident occurred when a civilian bus collided with another carrying members of the Syrian security forces on a highway in the center of the country.",
-      "link": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
-      "pubDate": "2026-07-25T13:23:27.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "Medicine"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Latest updates.",
-      "summary": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
-      "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations",
-      "pubDate": "2026-07-25T13:22:45.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সন্ধ্যায় সারা দিনের খবর",
-      "summary": "আলোচিত বিভিন্ন বিষয় নিয়ে দিনভর প্রথম আলো অনলাইনে প্রকাশিত হয়েছে নানা খবর। চোখ বুলিয়ে নিন সারা দিন প্রথম আলো অনলাইনে প্রকাশিত আলোচিত পাঁচ খবরে।",
-      "link": "https://www.prothomalo.com/bangladesh/rc8nynahjy",
-      "pubDate": "2026-07-25T13:21:51.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "F1 needs better balance between business and sport, says Norris",
-      "summary": "Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
-      "pubDate": "2026-07-25T13:03:52.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "শিক্ষামন্ত্রীর পদত্যাগের পর ভারতীয় তরুণদের নিয়ে যা বললেন কার্তিক",
-      "summary": "ককরোচ জনতা পার্টি (সিজেপি) এবং বিরোধী দলগুলোর ব্যাপক বিক্ষোভের মুখে আজ শনিবার প্রধানমন্ত্রী নরেন্দ্র মোদির কাছে পদত্যাগপত্র জমা দেন ধর্মেন্দ্র প্রধান।",
-      "link": "https://www.prothomalo.com/sports/cricket/9f2mx6vxdu",
-      "pubDate": "2026-07-25T13:03:51.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
       "summary": "Artificial intelligence  may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nIn March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the",
       "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
@@ -275,180 +1132,6 @@
       "topics": [
         "Economy/Business"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "ভরা বর্ষায় দুর্গম পাহাড়ে ১২ দিনের অভিযানে গিয়েছিলেন ছয় বন্ধু, অভিজ্ঞতা কেমন",
-      "summary": "",
-      "link": "https://www.prothomalo.com/lifestyle/travel/6k3t7vrtwp",
-      "pubDate": "2026-07-25T13:00:18.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সময়ের পালাবদল",
-      "summary": "রিকশাচালক বলেন, দিনে ৩০০ থেকে ৪০০ টাকা আয় করেন। এর বেশি কখনো করেন না। ৪০০ টাকা হলেই বাড়ি ফিরে যান, এটা দিয়েই তাঁর সংসার চালে। এতে তাঁর শরীরও ভালো থাকে; আর যেহেতু প্যাডেল রিকশায় কষ্ট বেশি, তাই তিনি কাছাকাছি দূরত্বের যাত্রী নেন",
-      "link": "https://www.kishoralo.com/other/21e1mzdnbh",
-      "pubDate": "2026-07-25T12:58:08.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "What to Know About the Wildfires Raging in Western Europe",
-      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
-      "link": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-      "pubDate": "2026-07-25T12:53:41.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "What’s behind the ICC investigation into Karim Khan?",
-      "summary": "Lawyers for the ICC’s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
-      "pubDate": "2026-07-25T12:53:41.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "As Trump Escalates Trade War, Ontario Premier Doug Ford Wants to Retaliate",
-      "summary": "While Mark Carney weighs his next steps, some provincial leaders point to oil, electricity and potash as powerful leverage against U.S. economic pressure.",
-      "link": "https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html",
-      "pubDate": "2026-07-25T12:52:43.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "অভ্যুত্থানের গল্পগুলো আলাদা হয়ে গেছে রূপান্তর পর্বে",
-      "summary": "দক্ষিণ এশিয়ায় তরুণদের নেতৃত্বে অভ্যুত্থানে পটপরিবর্তন পর্যন্ত মিল পাচ্ছেন বিশ্লেষকেরা। কিন্তু তারপর একেক দেশ একেক অভিজ্ঞতার মধ্য দিয়ে যাচ্ছে।",
-      "link": "https://www.prothomalo.com/bangladesh/rr5h2anea7",
-      "pubDate": "2026-07-25T12:49:15.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-      "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
-      "pubDate": "2026-07-25T12:49:06.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "কক্সবাজারে ইয়াবাসহ সাবেক সংসদ সদস্য বদির আত্মীয় গ্রেপ্তার",
-      "summary": "গ্রেপ্তার ব্যক্তির নাম মো. হাফেজ উল্লাহ (৬৩)। তিনি সম্পর্কে আবদুর রহমান বদির ফুফাতো বোনের স্বামী। এর আগেই তাঁকে ইয়াবাসহ গ্রেপ্তার করেছিল র‌্যাব।",
-      "link": "https://www.prothomalo.com/bangladesh/district/24bv752uij",
-      "pubDate": "2026-07-25T12:44:49.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-      "summary": "A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
-      "pubDate": "2026-07-25T12:41:14.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-      "summary": "Separately, at least eight people killed in Ukrainian attacks on a Russian-controlled area.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
-      "pubDate": "2026-07-25T12:41:02.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "ভারতের শিক্ষামন্ত্রীর পদত্যাগের পর কেন প্রধান বিচারপতিকে ধন্যবাদ জানালেন ‘তেলাপোকা’ প্রধান",
-      "summary": "সমর্থকদের উদ্দেশে দিপকে বলেন, ‘প্রধান বিচারপতি সূর্য কান্তকে ধন্যবাদ। তিনি আমাদের তেলাপোকা না বললে আমি ভারতে আসতাম না, এই আন্দোলনও শুরু হতো না।’",
-      "link": "https://www.prothomalo.com/world/india/hyhcyha5oq",
-      "pubDate": "2026-07-25T12:40:44.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সাইপ্রাসে পড়াশোনা নিয়ে এক্সপো অনুষ্ঠিত হয়ে গেল রাজধানীতে",
-      "summary": "রাজধানীর ফার্মগেটে কৃষিবিদ ইনস্টিটিউশনে আজ শনিবার অনুষ্ঠিত হয়েছে ইউক্ল্যান সাইপ্রাস এডুকেশন এক্সপো ২০২৬।",
-      "link": "https://www.prothomalo.com/education/campus/ehxlzylng9",
-      "pubDate": "2026-07-25T12:37:51.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "রাজধানীর যাত্রাবাড়ীতে ২৮ লাখ টাকা মূল্যের গাঁজা উদ্ধার, একজন গ্রেপ্তার",
-      "summary": "গোপন তথ্যের ভিত্তিতে একটি টাটা মোটরসের নীল রঙের পিকআপে তল্লাশি চালিয়ে ২৮টি পলিথিনের প্যাকেটে রাখা ৭০ কেজি গাঁজা উদ্ধার করা হয়।",
-      "link": "https://www.prothomalo.com/bangladesh/crime/74v3jfaynn",
-      "pubDate": "2026-07-25T12:33:33.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "সিনিয়র স্টাফ নার্সের পরীক্ষা ৩ আগস্ট, রাজধানীর ২৬ কেন্দ্রে হবে পরীক্ষা, শিক্ষার্থীদের যা যা মানতে হবে",
-      "summary": "‘সিনিয়র স্টাফ নার্স’ পদের বাছাই পরীক্ষা ৩ আগস্ট বেলা ৩টা থেকে বিকেল ৪টা পর্যন্ত। ১০০ নম্বরের এমসিকিউ পরীক্ষায় বাংলা, ইংরেজি, সাধারণ জ্ঞান ও টেকনিক্যাল বিষয় থাকবে।",
-      "link": "https://www.prothomalo.com/chakri/chakri-news/6z89nl253y",
-      "pubDate": "2026-07-25T12:26:35.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "ফেসবুক, ইউটিউবের মতো বিদেশি কোম্পানি নিবন্ধন ছাড়া ডিজিটাল বিজ্ঞাপন প্রচার করতে পারবে না",
-      "summary": "এই নীতিমালা বাস্তবায়ন হলে মেটা (ফেসবুকের মালিকানা প্রতিষ্ঠান), গুগল, ইউটিউবসহ অন্যান্য ডিজিটাল প্ল্যাটফর্ম বাণিজ্য মন্ত্রণালয়ের নিবন্ধন ছাড়া বিজ্ঞাপন প্রচার করতে পারবে না এবং নিষিদ্ধ পণ্যের বিজ্ঞাপন নিষিদ্ধ হচ্ছে।",
-      "link": "https://www.prothomalo.com/business/economics/hh7akf593s",
-      "pubDate": "2026-07-25T12:23:49.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "টাকা নিয়ে মাদক কারবারিকে ছেড়ে দেওয়ার অভিযোগে চার পুলিশ কর্মকর্তা প্রত্যাহার, তদন্ত কমিটি",
-      "summary": "টাকা নিয়ে আটক এক মাদক কারবারিকে গাড়িসহ ছেড়ে দেওয়ার অভিযোগের পর লালমনিরহাটের হাতীবান্ধা থানার চার পুলিশ কর্মকর্তাকে প্রত্যাহার করে পুলিশ লাইনসে সংযুক্ত করা হয়েছে।",
-      "link": "https://www.prothomalo.com/bangladesh/district/7fuxvmisoq",
-      "pubDate": "2026-07-25T12:23:39.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "চট্টগ্রামে গুলিতে নিহত ‘সন্ত্রাসী’ সরোয়ারের বাসার পাশে মিলল বিদেশি পিস্তল",
-      "summary": "",
-      "link": "https://www.prothomalo.com/bangladesh/district/bqfv39l8nv",
-      "pubDate": "2026-07-25T12:22:18.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -476,26 +1159,6 @@
       "otherSources": []
     },
     {
-      "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
-      "summary": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
-      "pubDate": "2026-07-25T12:11:33.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Scrutiny of WNBA intensifies as disarray looms over All-Star festivities",
-      "summary": "Discussions about race, gender and sexuality overshadow Saturday’s WNBA All-Star Game, as league lurches into disarray.",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/scrutiny-of-wnba-intensifies-as-disarray-looms-over-all-star-festivities?traffic_source=rss",
-      "pubDate": "2026-07-25T12:11:30.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
       "summary": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
       "link": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
@@ -513,6 +1176,18 @@
       "source": "NPR",
       "region": "global",
       "topics": [],
+      "otherSources": []
+    },
+    {
+      "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
+      "summary": "Robot from company that acquired sex doll maker to be introduced in school with large Native American population\nA humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school in Salamanca, New Yo",
+      "link": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
+      "pubDate": "2026-07-25T12:00:42.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
+      ],
       "otherSources": []
     },
     {
@@ -543,17 +1218,7 @@
       "otherSources": []
     },
     {
-      "title": "শাকিব খানের প্রথম প্রেমিকা আসলে কে? পূর্ণিমাকে বললেন সেই গল্প",
-      "summary": "চ্যানেল আইয়ে ‘চাঁদ তারার গুঞ্জরন’ অনুষ্ঠানে চিত্রনায়িকা পূর্ণিমার মুখোমুখি হয়ে জীবনের সেই প্রথম প্রেমের গল্পই শোনালেন শাকিব খান।",
-      "link": "https://www.prothomalo.com/entertainment/dhallywood/wt395i5e4c",
-      "pubDate": "2026-07-25T12:00:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Sextortion: That's the threat for women who are simply trying to buy clean water",
+      "title": "Some women who can't afford water are often pressured to provide sex for it",
       "summary": "Water is often a scarce commodity in Nairobi's largest slum. The only source may be a local cartel — and with that comes the risk of sexual threats and attacks.",
       "link": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya",
       "pubDate": "2026-07-25T11:59:19.000Z",
@@ -563,13 +1228,15 @@
       "otherSources": []
     },
     {
-      "title": "Why these cancer patients face a lonely fight",
+      "title": "Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?",
       "summary": "As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.",
       "link": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
       "pubDate": "2026-07-25T11:51:44.000Z",
       "source": "NPR",
       "region": "global",
-      "topics": [],
+      "topics": [
+        "Medicine"
+      ],
       "otherSources": []
     },
     {
@@ -580,38 +1247,6 @@
       "source": "NYT World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Tuberculosis: How drones are transforming care in the Philippines",
-      "summary": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
-      "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
-      "pubDate": "2026-07-25T11:30:00.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Two buses collide in Syria, killing at least 35 people",
-      "summary": "One of the buses was carrying members of the Internal Security Forces, while the other was transporting civilians.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
-      "pubDate": "2026-07-25T11:14:14.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
-      "summary": "Modi built his political brand through social media. Now protesters are using same platforms to mock his administration.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
-      "pubDate": "2026-07-25T11:09:05.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
       "otherSources": []
     },
     {
@@ -646,16 +1281,6 @@
       "topics": [
         "Politics"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "India’s Education Minister Steps Down, Handing Win to Protesters",
-      "summary": "With Dharmendra Pradhan offering his resignation, the student protest movement achieved a major victory against the government of Prime Minister Narendra Modi.",
-      "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-      "pubDate": "2026-07-25T11:06:44.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -762,16 +1387,6 @@
       "otherSources": []
     },
     {
-      "title": "Who Are the People Protesting in India?",
-      "summary": "Some of the young demonstrators who forced out the country’s education minister describe their deep-seated anger, frustration and desires that drove them into the streets.",
-      "link": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
-      "pubDate": "2026-07-25T10:19:57.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Book Review: ‘The Renoir Girls,’ by Catherine Ostler",
       "summary": "In “The Renoir Girls,” the English historian Catherine Ostler tells the beguiling, troubling and ultimately heartbreaking story of the Cahen d’Anvers family.",
       "link": "https://www.nytimes.com/2026/07/25/books/review/catherine-ostler-the-renoir-girls.html",
@@ -785,30 +1400,8 @@
       "otherSources": []
     },
     {
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-25T10:14:41.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Chelsea in talks for Villa set-piece guru MacPhee",
-      "summary": "Chelsea are looking to sign highly regarded set-piece coach Austin MacPhee from Aston Villa but they face competition from Premier League and Saudi Pro League clubs.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-25T10:09:31.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "‘Nobody was there for us’: mother urges Andy Burnham to reopen case of daughter killed in Texas",
-      "summary": "Lucy Harrison, 23, was shot in 2025 with her father’s gun. He was never arrested and a grand jury chose not to indict him\nLucy Harrison felt that 2024 was her best year yet. The 23-year-old had graduated from university with first class honours, landed her dre",
+      "title": "Lucy Harrison’s father was holding the gun that killed her but was never arrested. Now her mother wants Andy Burnham to take up the case",
+      "summary": "Eighteen months after her daughter’s death in Texas, Jane Coates hopes new PM can persuade US authorities to reopen case\nLucy Harrison felt that 2024 was her best year yet. The 23-year-old had graduated from university with first class honours, landed her drea",
       "link": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
       "pubDate": "2026-07-25T10:00:40.000Z",
       "source": "The Guardian Politics",
@@ -816,16 +1409,6 @@
       "topics": [
         "Politics"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-      "summary": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "pubDate": "2026-07-25T09:54:44.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -838,16 +1421,6 @@
       "topics": [
         "Politics"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-      "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
-      "pubDate": "2026-07-25T09:10:01.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -878,26 +1451,6 @@
       "otherSources": []
     },
     {
-      "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
-      "summary": "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
-      "link": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
-      "pubDate": "2026-07-25T09:00:23.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "How Tā Moko, the Māori Tattoo Art, Made A Comeback in New Zealand",
-      "summary": "Young Māori in New Zealand are embracing tā moko, the ritual tattoos that were banned under British colonial rule and became an act of protest in the 1970s.",
-      "link": "https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html",
-      "pubDate": "2026-07-25T09:00:10.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Trump is hellbent on tariffs. Here are 5 implications",
       "summary": "Trump's determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies.",
       "link": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
@@ -908,13 +1461,15 @@
       "otherSources": []
     },
     {
-      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
-      "summary": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
+      "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner.",
       "link": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
       "pubDate": "2026-07-25T09:00:00.000Z",
       "source": "NPR",
       "region": "global",
-      "topics": [],
+      "topics": [
+        "Economy/Business"
+      ],
       "otherSources": []
     },
     {
@@ -930,16 +1485,6 @@
       "otherSources": []
     },
     {
-      "title": "India’s ‘Cockroach’ youth call off protests after education minister quits",
-      "summary": "Youth protesters agree to end agitation after Dharmendra Pradhan resigns over a series of exam paper leaks.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-      "pubDate": "2026-07-25T08:54:20.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
       "summary": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
@@ -948,40 +1493,6 @@
       "region": "global",
       "topics": [
         "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Europe wildfires rage on, forcing 200,000 from homes",
-      "summary": "Hot, arid weather and strong winds have continued to fuel wildfires in France, Spain and Italy, devastating huge swaths of land and forcing mass evacuations. As national emergencies are declared, the danger remains.",
-      "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-200-000-from-homes/a-78109406?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-25T08:17:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "CNG/Fuel"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "একঝলক (২৫ জুলাই ২০২৬)",
-      "summary": "",
-      "link": "https://www.prothomalo.com/photo/glimpse/ilevmkx9z4",
-      "pubDate": "2026-07-25T08:15:00.000Z",
-      "source": "প্রথম আলো",
-      "region": "bd",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
-      "summary": "Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
-      "pubDate": "2026-07-25T08:09:47.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -1000,16 +1511,6 @@
       "otherSources": []
     },
     {
-      "title": "Wildfires in Spain and France force evacuation of more than 250,000 people",
-      "summary": "France has appealed for international help, while Spain has declared a national emergency.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
-      "pubDate": "2026-07-25T07:41:43.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "On the move - football's youngest journeymen",
       "summary": "The players who had appeared for a remarkable number of clubs by their 23rd birthday.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
@@ -1022,18 +1523,6 @@
       "otherSources": []
     },
     {
-      "title": "Born too soon: Premature babies fight for survival in Gaza",
-      "summary": "Israel's genocidal war on Gaza is causing a surge in premature births and endangering mothers' health.",
-      "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
-      "pubDate": "2026-07-25T07:25:35.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [
-        "Medicine"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Eco wins: Cities, creatures, and tech are saving the day",
       "summary": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.",
       "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-all-1573-rdf",
@@ -1042,28 +1531,6 @@
       "region": "global",
       "topics": [
         "Technology"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-      "summary": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-      "pubDate": "2026-07-25T07:22:47.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
-      "summary": "Taiwan is stepping up plans to secure fuel and other vital imports as Chinese government ships practice moves that could one day be used in a blockade.",
-      "link": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
-      "pubDate": "2026-07-25T07:10:49.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [
-        "CNG/Fuel"
       ],
       "otherSources": []
     },
@@ -1081,26 +1548,6 @@
       "otherSources": []
     },
     {
-      "title": "Trump: ‘I’m running for a fourth term as President of the United States’",
-      "summary": "During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
-      "pubDate": "2026-07-25T06:40:26.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
-      "summary": "Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
-      "pubDate": "2026-07-25T06:36:22.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
@@ -1111,9 +1558,9 @@
       "otherSources": []
     },
     {
-      "title": "India: Cockroaches end protest after education minister Dharmendra Pradhan resigns",
-      "summary": "India's Cockroach movement says it is ending its protests following talks with the government. That's hours after Education Minister Dharmendra Pradhan announced his resignation. Follow DW.",
-      "link": "https://www.dw.com/en/india-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf",
+      "title": "India news: 'Cockroaches' end protest after Education Minister Dharmendra Pradhan resigns",
+      "summary": "India's Cockroach movement says it is ending its protests following talks with the government. That's hours after Education Minister Dharmendra Pradhan announced his resignation.",
+      "link": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf",
       "pubDate": "2026-07-25T06:21:00.000Z",
       "source": "DW",
       "region": "global",
@@ -1133,16 +1580,6 @@
       "otherSources": []
     },
     {
-      "title": "Venezuelans hold vigil one month after devastating earthquakes",
-      "summary": "One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
-      "pubDate": "2026-07-25T05:50:04.000Z",
-      "source": "Al Jazeera",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "How do Manchester City manage the Rodri dilemma?",
       "summary": "BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss",
@@ -1155,16 +1592,6 @@
       "otherSources": []
     },
     {
-      "title": "Trump returns to correspondents' dinner 3 months after shooting",
-      "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech.",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
-      "pubDate": "2026-07-25T05:04:00.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "The UK’s first TikTok PM? Andy Burnham channels Zohran Mamdani as he hits social media",
       "summary": "From Mo Farah to Bus Aunty, new prime minister makes good on promise to ‘do things differently’ when it comes to communication\nThey say a week is a long time in politics, but handily for followers of Andy Burnham on social media, you can get daily updates of w",
       "link": "https://www.theguardian.com/politics/2026/jul/25/tiktok-andy-burnham-zohran-mamdani-social-media",
@@ -1173,6 +1600,18 @@
       "region": "global",
       "topics": [
         "Politics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "I grew up near Andy Burnham. This is what shaped the UK’s new PM",
+      "summary": "In the Warrington suburb of Culcheth, people are hopeful about what one of their own can achieve as the first northern PM in half a century\nThe Cherry Tree pub is an unassuming local. On a busy road in the Cheshire village of Culcheth, it is a chain-run pub wh",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth",
+      "pubDate": "2026-07-25T05:00:37.000Z",
+      "source": "The Guardian Business",
+      "region": "global",
+      "topics": [
+        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -1270,7 +1709,7 @@
       "title": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
       "summary": "It was the 13th test overall of Starship. The success is a boon to NASA’s moon plans and SpaceX’s hopes to deploy a million data centers in orbit.",
       "link": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
-      "pubDate": "2026-07-25T00:55:15.000Z",
+      "pubDate": "2026-07-25T00:55:16.000Z",
       "source": "NYT Science",
       "region": "global",
       "topics": [
@@ -1336,18 +1775,6 @@
       "otherSources": []
     },
     {
-      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
-      "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-      "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T23:01:10.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
       "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
       "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
@@ -1393,16 +1820,6 @@
       "otherSources": []
     },
     {
-      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-      "summary": "A dozen states and the Writers Guild of America had challenged the merger.",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
-      "pubDate": "2026-07-24T22:26:21.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
       "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
       "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
@@ -1416,18 +1833,6 @@
       "otherSources": []
     },
     {
-      "title": "Democrats approve new primary election calendar, putting South Carolina first",
-      "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
-      "pubDate": "2026-07-24T21:50:41.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Austin FC academy players under investigation by police and FBI for allegations of youth-on-youth sexual abuse",
       "summary": "Austin FC reported allegations to local law enforcement\n\nMultiple sources confirm the ongoing inquiries\n\nMultiple players in the academy of Major League Soccer club Austin FC are under investigation by Austin police and the FBI over allegations of sexual abuse",
       "link": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
@@ -1437,16 +1842,6 @@
       "topics": [
         "Football"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "ICC member states vote to remove chief prosecutor Karim Khan",
-      "summary": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
-      "pubDate": "2026-07-24T21:37:37.000Z",
-      "source": "NPR",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -1516,28 +1911,6 @@
       "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
       "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-24T21:02:30.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Real Madrid confident of signing Rodri  - Saturday's gossip",
-      "summary": "Real Madrid are confident they will sign Rodri from Man City, Arsenal eye player-plus-cash deal for Atletico striker Julian Alvarez, while Roma are keen on Fulham winger Oscar Bobb, plus more.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdx7qq6nkddo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T20:37:28.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-      "summary": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T20:37:21.000Z",
       "source": "BBC News",
       "region": "global",
       "topics": [],
@@ -1657,18 +2030,6 @@
       "otherSources": []
     },
     {
-      "title": "Trump threatens EU with tariff probe over Google, tech fines",
-      "summary": "US President Donald Trump has said he will initiate a tariff investigation against the EU in response to fines against US tech companies. He cited the latest case that Google lost on Thursday, as well as others.",
-      "link": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T18:46:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "Technology"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
       "summary": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sector\nHundreds of thousands of care workers could be exempted from the home secretary’s plans to toughen up the immigration system under",
       "link": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
@@ -1735,16 +2096,6 @@
       "link": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
       "pubDate": "2026-07-24T17:58:00.000Z",
       "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Russia hits drone demonstration near Kyiv, killing 10",
-      "summary": "Ukraine says 10 were killed and around 100 injured in the strike, a day after Zelenskyy met with officials from US arms giant Raytheon. Meanwhile, in St. Petersburg, another Wildberries warehouse came under drone fire.",
-      "link": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T17:55:00.000Z",
-      "source": "DW",
       "region": "global",
       "topics": [],
       "otherSources": []
@@ -1927,18 +2278,6 @@
       ]
     },
     {
-      "title": "‘Netflix has to evolve’: can the upstart survive the end of the binge-watch era?",
-      "summary": "Streaming pioneer that transformed TV faces slowing growth and battle for viewers’ attention from YouTube\nWhen Netflix offered viewers the chance to binge on an entire season of House of Cards it revolutionised the TV industry and started on a path to becoming",
-      "link": "https://www.theguardian.com/media/2026/jul/24/netflix-evolve-binge-watch-era-end",
-      "pubDate": "2026-07-24T16:00:11.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "STAT+: Up and down the ladder: The latest comings and goings",
       "summary": "From new hires to departures, promotions, and hires, here are the latest comings and goings in the pharma industry.",
       "link": "https://www.statnews.com/pharmalot/2026/07/24/up-and-down-the-ladder-rigel-sanofi-pharma-jobs/?utm_campaign=rss",
@@ -1958,19 +2297,6 @@
       "source": "The Guardian World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "US floats AI 'kill switch' to stop rogue AI models",
-      "summary": "A rogue AI agent has sent a \"wake-up call\" about the perils of the fast-evolving technology, sparking calls to provide a US government kill switch. But what exactly does that mean, and what are the issues with it?",
-      "link": "https://www.dw.com/en/us-floats-ai-kill-switch-to-stop-rogue-ai-models/a-78100594?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T15:28:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "Technology",
-        "Computer Science"
-      ],
       "otherSources": []
     },
     {
@@ -2009,16 +2335,6 @@
       "otherSources": []
     },
     {
-      "title": "Europe wildfires: Thousands flee by boat as fires spread, merge",
-      "summary": "Tens of thousands of people used cars and boats to escape wildfires raging in southwestern France. In Spain's Madrid region, authorities declared a national emergency after at least two fires merged.",
-      "link": "https://www.dw.com/en/europe-wildfires-thousands-flee-by-boat-as-fires-spread-merge/a-78104513?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T15:06:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
       "summary": "Lib Dems call on PM to push for suspension of ‘bungled, malfunctioning’ system as overseas holiday travel peaks\nAndy Burnham has been urged to lobby EU leaders directly to suspend the new entry-exit system, EES, as the peak weekend for overseas holidays begins",
       "link": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
@@ -2026,12 +2342,9 @@
       "source": "The Guardian Politics",
       "region": "global",
       "topics": [
-        "Politics",
-        "Economy/Business"
+        "Politics"
       ],
-      "otherSources": [
-        "The Guardian Business"
-      ]
+      "otherSources": []
     },
     {
       "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
@@ -2066,16 +2379,6 @@
       "otherSources": []
     },
     {
-      "title": "UNESCO adds Lebanese, West Bank sites to endangered list",
-      "summary": "Israel has rejected the listing of a Lebanese castle and an occupied West Bank archaeological site. UNESCO added both sites to its World Heritage in Danger list in the context of Israeli activity.",
-      "link": "https://www.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T14:52:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live",
       "summary": "PM, on his first day at new base, says it will create ‘that sense of a more balanced country, that big things can be done from here’\nAndy Burnham has arrived by police convoy at No 10 North at Heron House in Manchester:\nAndy Burnham was probably feeling left o",
       "link": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates",
@@ -2103,16 +2406,6 @@
       "otherSources": [
         "NYT Science"
       ]
-    },
-    {
-      "title": "Highs and lows as Bayreuth Festival turns 150",
-      "summary": "The Bayreuth Festival's 150th anniversary has been clouded by controversy surrounding German-Jewish speaker Michel Friedman. Yet it offers an opportunity to celebrate, including with an AI-enhanced Ring cycle.",
-      "link": "https://www.dw.com/en/highs-and-lows-as-bayreuth-festival-turns-150/a-78101943?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T14:42:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
     },
     {
       "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
@@ -2163,18 +2456,6 @@
       "otherSources": []
     },
     {
-      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!\nLike the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are only ever three signings away from a Premier League title challenge. With",
-      "link": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter",
-      "pubDate": "2026-07-24T14:02:33.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
       "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
       "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
@@ -2210,16 +2491,6 @@
       "otherSources": []
     },
     {
-      "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "summary": "Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.",
-      "link": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
-      "pubDate": "2026-07-24T13:41:47.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "STAT+: Fatal gene-editing trial in China raises ethics and oversight questions",
       "summary": "Sanofi insulin pen in short supply, a win for peptide compounds, and more biotech news from The Readout",
       "link": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
@@ -2229,16 +2500,6 @@
       "topics": [
         "Medicine"
       ],
-      "otherSources": []
-    },
-    {
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T13:33:06.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
       "otherSources": []
     },
     {
@@ -2291,14 +2552,14 @@
       "otherSources": []
     },
     {
-      "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun",
-      "summary": "If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that?\nOn 14 February 2019, OpenAI announced a language model called GPT-2, the precursor to the models that power modern AI chatbots and agents such a",
-      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "pubDate": "2026-07-24T13:00:14.000Z",
-      "source": "The Guardian Business",
+      "title": "Word wave puzzle no.6",
+      "summary": "Can you work out the word in this puzzle?\nThe post Word wave puzzle no.6 appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/word-wave-puzzle-no-6/",
+      "pubDate": "2026-07-24T13:00:15.000Z",
+      "source": "Physics World",
       "region": "global",
       "topics": [
-        "Economy/Business"
+        "Physics"
       ],
       "otherSources": []
     },
@@ -2323,18 +2584,6 @@
       "region": "global",
       "topics": [
         "Science"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "summary": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the elections to be boycotted.",
-      "link": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-rdf",
-      "pubDate": "2026-07-24T12:46:00.000Z",
-      "source": "DW",
-      "region": "global",
-      "topics": [
-        "Politics"
       ],
       "otherSources": []
     },
@@ -2429,16 +2678,6 @@
       "otherSources": []
     },
     {
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T11:53:49.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
       "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon\nIndigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are running rampant across",
       "link": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
@@ -2446,18 +2685,6 @@
       "source": "The Guardian World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Race, school, gender: the makeup of Andy Burnham’s cabinet – in charts",
-      "summary": "Women have half the seats at the top table for the first time, but Oxbridge maintains its grip\nAndy Burnham has appointed the first cabinet of his premiership. Much has been made of how key allies of his predecessor, Keir Starmer, have been demoted or sacked, ",
-      "link": "https://www.theguardian.com/politics/2026/jul/24/demographic-makeup-of-andy-burnham-cabinet-charts",
-      "pubDate": "2026-07-24T11:21:08.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
       "otherSources": []
     },
     {
@@ -2475,14 +2702,14 @@
       "otherSources": []
     },
     {
-      "title": "Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
-      "summary": "Tommy Elphick and Shaun Cooper to work on set-pieces\n\nIraola felt ‘very lucky’ to work with them at Bournemouth\n\nAndoni Iraola has outlined the roles his backroom staff will play in trying to improve Liverpool’s set-piece record next season and admitted he was",
-      "link": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills",
-      "pubDate": "2026-07-24T11:00:13.000Z",
-      "source": "The Guardian Football",
+      "title": "GPS particle detectors track space radiation over two decades",
+      "summary": "Cross calibration combines data from 25 satellites\nThe post GPS particle detectors track space radiation over two decades appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/gps-particle-detectors-track-space-radiation-over-two-decades/",
+      "pubDate": "2026-07-24T10:58:25.000Z",
+      "source": "Physics World",
       "region": "global",
       "topics": [
-        "Football"
+        "Physics"
       ],
       "otherSources": []
     },
@@ -2533,18 +2760,6 @@
       "region": "global",
       "topics": [
         "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
-      "summary": "Carmaker expects to sell 3% fewer vehicles this year as it pushes through a programme that could eliminate 100,000 roles\n\nVolkswagen has reported a steep fall in profits and cut its revenue forecast amid a sales slump in China, as the German carmaker pushes th",
-      "link": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
-      "pubDate": "2026-07-24T10:34:14.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -2650,18 +2865,6 @@
       "otherSources": []
     },
     {
-      "title": "Kane set for talks with Bayern Munich over new deal",
-      "summary": "Harry Kane is set to begin talks over a new Bayern Munich contract, with Barcelona and various Saudi Arabian clubs reportedly interested in the England captain.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T09:38:26.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
       "summary": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
       "link": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss",
@@ -2670,18 +2873,6 @@
       "region": "global",
       "topics": [
         "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Newcastle seal £34m move for Monaco's Bamba",
-      "summary": "Newcastle United have signed Monaco midfielder Aladji Bamba for a fee which could rise to £34m.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T09:30:06.000Z",
-      "source": "BBC Football",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -2800,16 +2991,6 @@
       "otherSources": []
     },
     {
-      "title": "In Kyrgyzstan, Girls Compete at Kok-Boru, a Game Like Polo",
-      "summary": "Here’s what happened when some teenage girls dared to compete in the dangerous sport of “kok-boru.”",
-      "link": "https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html",
-      "pubDate": "2026-07-24T09:00:27.000Z",
-      "source": "NYT World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Burnham is acting like he’s mayor of everywhere – that’s not devolving power to local communities | Simon Jenkins",
       "summary": "The new PM’s localism agenda doesn’t stop the UK being one of the most centralised countries in Europe. Can you imagine Meloni in charge of social care or Macron discussing buses?\nWas this a joke? Andy Burnham claimed on coming to office to be a localist. Not ",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/24/andy-burnham-mayor-everywhere-devolving-localism-centralised-meloni-macron",
@@ -2909,16 +3090,6 @@
       "otherSources": []
     },
     {
-      "title": "Julian Leeser says his son no longer feels safe at Jewish events – as it happened",
-      "summary": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nAustralian exports sent to the US will be hit with a 12.5% tariff as the US president imposes levies on more than 80 nations.\nThe Trump administration unveiled the latest tra",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
-      "pubDate": "2026-07-24T08:23:43.000Z",
-      "source": "The Guardian World",
-      "region": "global",
-      "topics": [],
-      "otherSources": []
-    },
-    {
       "title": "Weather tracker: More than 900 wildfires rage across Canada",
       "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat\nRecent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 were burning, scorching ab",
       "link": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
@@ -2926,19 +3097,6 @@
       "source": "The Guardian World",
       "region": "global",
       "topics": [],
-      "otherSources": []
-    },
-    {
-      "title": "Regional mayors to take key roles in UK policy decisions as part of No 10 North plans",
-      "summary": "Burnham says ‘no one in government loses when power is shared’ as he revives Brown-era national economic council\n\nIt’s not just a No 10 in the north, it’s an engine for growth throughout the whole UK | Andy Burnham\n\nRegional mayors are to be given a leading ro",
-      "link": "https://www.theguardian.com/politics/2026/jul/23/regional-mayors-to-take-key-roles-in-uk-policy-decisions-as-part-of-no-10-north-plans",
-      "pubDate": "2026-07-24T07:30:33.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics",
-        "Economy/Business"
-      ],
       "otherSources": []
     },
     {
@@ -2963,42 +3121,6 @@
       "region": "global",
       "topics": [
         "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "My generation shouldn’t be scared of a care tax – we’re paying one already | Gaby Hinsliff",
-      "summary": "If Andy Burnham is minded to grasp the nettle, he will need to sell it to people like me. The right will call it a ‘death tax’ – why not a levy for ageing well?\nOne of the last things Andy Burnham did before entering Downing Street was to go and see his father",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/my-generation-scared-care-tax-andy-burnham-ageing-well",
-      "pubDate": "2026-07-24T05:00:05.000Z",
-      "source": "The Guardian Politics",
-      "region": "global",
-      "topics": [
-        "Politics"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T01:59:49.000Z",
-      "source": "BBC News",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "What to know about Trump’s new tariffs on more than 80 countries",
-      "summary": "Tariffs ranging from 10%-12.5%, taking effect on Friday, are US president’s latest effort to circumvent Congress\nJust before a temporary levy on global imports was set to expire, the Trump administration issued a fresh wave of tariffs on more than 80 countries",
-      "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-tariffs-what-to-know",
-      "pubDate": "2026-07-24T01:56:13.000Z",
-      "source": "The Guardian Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -3057,18 +3179,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-23T21:46:48.000Z",
       "source": "BBC Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "It’s not just a No 10 in the north, it’s an engine for growth throughout the whole UK | Andy Burnham",
-      "summary": "Power has been too centralised in Britain and tackling that is key to progress and prosperity. This initiative is ambitious: we’re remaking the state\n\nAndy Burnham is prime minister of the United Kingdom\n\nOn Monday, while the cameras were fixed on that famous ",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/23/number-10-north-growth-uk-andy-burnham",
-      "pubDate": "2026-07-23T21:30:55.000Z",
-      "source": "The Guardian Business",
       "region": "global",
       "topics": [
         "Economy/Business"
@@ -3178,19 +3288,6 @@
       "otherSources": []
     },
     {
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "pubDate": "2026-07-23T19:08:01.000Z",
-      "source": "Ars Technica",
-      "region": "global",
-      "topics": [
-        "Technology",
-        "Computer Science"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "From Popp to Diani: 10 women’s transfers you may have missed during the men’s World Cup",
       "summary": "Sam Kerr’s and Alexia Putellas’s moves were hard to miss but these transfers may have escaped your attention\nThere were a host of big women’s football transfers which were hard to miss across June and July, despite the dominance of the men’s World Cup. Among t",
       "link": "https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10-womens-transfers-you-may-have-missed-during-the-mens-world-cup",
@@ -3223,19 +3320,6 @@
       "region": "global",
       "topics": [
         "Science"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
-      "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
-      "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-      "pubDate": "2026-07-23T18:01:46.000Z",
-      "source": "Ars Technica",
-      "region": "global",
-      "topics": [
-        "Technology",
-        "Computer Science"
       ],
       "otherSources": []
     },
@@ -3373,18 +3457,6 @@
       "region": "global",
       "topics": [
         "Economy/Business"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Police call on English football clubs to ease security burden on taxpayers",
-      "summary": "Home Office reveals police incidents for 2025-26 season\n\nFour arrests for every 100,000 people attending games\n\nThe number of football matches in England and Wales featuring incidents reported to police reached record levels last season, even as the number of ",
-      "link": "https://www.theguardian.com/football/2026/jul/23/arrests-football-matches-police-home-office",
-      "pubDate": "2026-07-23T15:30:58.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
       ],
       "otherSources": []
     },
@@ -3578,6 +3650,20 @@
       "otherSources": []
     },
     {
+      "title": "Shaping the field of medical imaging: a fireside chat with Simon R Cherry and Xinchen Deng",
+      "summary": "Join us for an in‑depth conversation with Simon Cherry, former editor‑in‑chief of Physics in Medicine & Biology (PMB), as he shares his expert perspective on the evolving landscape of medical physics research, molecular imaging, and non-invasive imaging techno",
+      "link": "https://physicsworld.com/a/shaping-the-field-of-medical-imaging-a-fireside-chat-with-simon-r-cherry-and-xinchen-deng/",
+      "pubDate": "2026-07-23T13:47:50.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Science",
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Sometimes Being First Means Seeing the End Before Anyone Else",
       "summary": "Determination and effort propelled Jacob Tsimerman to the top of the math world. But now that he’s won a Fields Medal, he worries that the field is in jeopardy.            \nThe post Sometimes Being First Means Seeing the End Before Anyone Else first appeared o",
       "link": "https://www.quantamagazine.org/jacob-tsimerman-wins-2026-fields-medal-for-andre-oort-conjecture-proof-20260723/",
@@ -3612,6 +3698,18 @@
       "topics": [
         "New Book Releases",
         "Literature"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Quarks and qubits: how quantum computing could transform particle physics",
+      "summary": "This podcast also explores the intersection of general relativity and quantum information\nThe post Quarks and qubits: how quantum computing could transform particle physics appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/quarks-and-qubits-how-quantum-computing-could-transform-particle-physics/",
+      "pubDate": "2026-07-23T13:21:24.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
       ],
       "otherSources": []
     },
@@ -3706,6 +3804,18 @@
       "otherSources": []
     },
     {
+      "title": "Nanopositioning, customization and control:  opening new frontiers in optical computing",
+      "summary": "SmarAct and Akhetonics have developed a test platform for next-generation optical processors\nThe post Nanopositioning, customization and control:  opening new frontiers in optical computing appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/nanopositioning-customization-and-control-opening-new-frontiers-in-optical-computing/",
+      "pubDate": "2026-07-23T09:54:39.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Valeria Luiselli on Her Favorite Books and Her New Novel",
       "summary": "Pliny’s “Natural History” is meant for “skimming and skipping,” she says. Her own new (one-volume) road-trip novel is “Beginning Middle End.”",
       "link": "https://www.nytimes.com/2026/07/23/books/review/valeria-luiselli-beginning-middle-end.html",
@@ -3742,18 +3852,6 @@
       "topics": [
         "New Book Releases",
         "Literature"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Big bosses reveal the secret to getting hired",
-      "summary": "Business leaders share their best career advice and the qualities they look for when recruiting new staff.",
-      "link": "https://www.bbc.co.uk/news/videos/cvgxelx3y78o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-23T05:22:34.000Z",
-      "source": "BBC Business",
-      "region": "global",
-      "topics": [
-        "Economy/Business"
       ],
       "otherSources": []
     },
@@ -3804,31 +3902,6 @@
       "otherSources": []
     },
     {
-      "title": "A host of issues: World Cup focus turns to Morocco with costs and legacy topping agenda",
-      "summary": "With just over 1,400 days to go until 2030 kicks off, the co-hosts are facing a series of challenges familiar to their South African predecessors\nMorocco’s World Cup adventure came to a halt with their quarter-final defeat by France. But taking a break, even f",
-      "link": "https://www.theguardian.com/football/2026/jul/22/host-morocco-2030-world-cup-costs-infrastructure-legacy",
-      "pubDate": "2026-07-22T18:00:21.000Z",
-      "source": "The Guardian Football",
-      "region": "global",
-      "topics": [
-        "Football"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Women Are Too Controlling, She Wrote. Her Message Still Resonates.",
-      "summary": "The message in “The Surrendered Wife,” the best-selling book by Laura Doyle, was provocative. Many women credit it with saving their marriages.",
-      "link": "https://www.nytimes.com/2026/07/22/us/laura-doyle-surrendered-wife.html",
-      "pubDate": "2026-07-22T17:46:05.000Z",
-      "source": "NYT Books",
-      "region": "global",
-      "topics": [
-        "New Book Releases",
-        "Literature"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "He’s the Last Great Land Artist You’ve Never Heard Of",
       "summary": "Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?",
       "link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
@@ -3837,6 +3910,32 @@
       "region": "global",
       "topics": [
         "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Letter from Argentina: ‘an empty desk and an idle electron microscope signal the erosion of the country’s science’",
+      "summary": "Faramarz S Gard laments the decline of Argentine science\nThe post Letter from Argentina: ‘an empty desk and an idle electron microscope signal the erosion of the country’s science’ appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/letter-from-argentina-an-empty-desk-and-an-idle-electron-microscope-signal-the-erosion-of-the-countrys-science/",
+      "pubDate": "2026-07-22T16:16:14.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Discovery of giant ‘exosatellite’ challenges our notion of what makes a moon",
+      "summary": "In a novel three-tiered hierarchical system, the star CD-35 2722 is orbited by a brown dwarf that, in turn, is orbited by a newly discovered exosatellite candidate\nThe post Discovery of giant ‘exosatellite’ challenges our notion of what makes a moon appeared f",
+      "link": "https://physicsworld.com/a/discovery-of-giant-exosatellite-challenges-our-notion-of-what-makes-a-moon/",
+      "pubDate": "2026-07-22T15:05:06.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Literature"
       ],
       "otherSources": []
     },
@@ -3873,6 +3972,20 @@
       "region": "global",
       "topics": [
         "Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "The science of being ‘cultured’: a slide puzzle",
+      "summary": "Can you reconstruct this food-as-culture image in our interactive slide puzzle?\nThe post The science of being ‘cultured’: a slide puzzle appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/the-science-of-being-cultured-a-slide-puzzle/",
+      "pubDate": "2026-07-22T14:00:20.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Science",
+        "Fine Arts/Culture"
       ],
       "otherSources": []
     },
@@ -3958,6 +4071,19 @@
       "otherSources": []
     },
     {
+      "title": "John Bell and the most obscure journal in physics",
+      "summary": "Iulia Georgescu looks at the curious history of the journal Physics\nThe post John Bell and the most obscure journal in physics appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/john-bell-and-the-most-obscure-journal-in-physics/",
+      "pubDate": "2026-07-22T10:00:33.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "History"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
       "summary": "Prosecutors seek a one-year sentence and heavy fine after chef garnished dish with insects not approved for consumption\nProsecutors in South Korea have asked a court to sentence the owner of a Michelin-starred restaurant to one year in prison for serving a des",
       "link": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
@@ -3990,6 +4116,30 @@
       "topics": [
         "Technology",
         "Computer Science"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "The physics of protein condensates",
+      "summary": "Simulations reveal how disordered proteins cluster and form biomolecular condensates\nThe post The physics of protein condensates appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/the-physics-of-protein-condensates/",
+      "pubDate": "2026-07-22T08:37:48.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Nonlinear photoexcitation in Mott Insulators",
+      "summary": "Laser-driven feedback effects reveal new ways to engineer conductivity in strongly interacting systems\nThe post Nonlinear photoexcitation in Mott Insulators appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/nonlinear-photoexcitation-in-mott-insulators/",
+      "pubDate": "2026-07-22T08:36:12.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
       ],
       "otherSources": []
     },
@@ -4028,19 +4178,6 @@
       "otherSources": []
     },
     {
-      "title": "What the Cyclospora Outbreak Reveals",
-      "summary": "Warming is expected to fuel the spread of food-borne pathogens. We might not be prepared.",
-      "link": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
-      "pubDate": "2026-07-21T20:52:11.000Z",
-      "source": "NYT Science",
-      "region": "global",
-      "topics": [
-        "Science",
-        "CNG/Fuel"
-      ],
-      "otherSources": []
-    },
-    {
       "title": "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten",
       "summary": "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ...",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
@@ -4061,18 +4198,6 @@
       "region": "global",
       "topics": [
         "Chess"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Monkeys Understand Shapes in Almost the Same Way as Humans",
-      "summary": "Our geometric intuition, long considered something that sets us apart, seems to be shared with other primates.",
-      "link": "https://www.nytimes.com/2026/07/21/science/monkeys-cognition-shapes-geometry.html",
-      "pubDate": "2026-07-21T17:58:40.000Z",
-      "source": "NYT Science",
-      "region": "global",
-      "topics": [
-        "Science"
       ],
       "otherSources": []
     },
@@ -4113,6 +4238,20 @@
       "otherSources": []
     },
     {
+      "title": "Privacy risks from medical AI are greater than previously thought",
+      "summary": "Study reveals how sensitive health information about individual patients could be extracted from diagnostic medical AI models\nThe post Privacy risks from medical AI are greater than previously thought appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
+      "pubDate": "2026-07-21T14:30:22.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Computer Science",
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea",
       "summary": "Shigella causes about 450,000 U.S. infections each year. An experimental oral vaccine protected adults in a small human trial.",
       "link": "https://www.sciencenews.org/article/oral-vaccine-bacterial-diarrhea",
@@ -4122,6 +4261,19 @@
       "topics": [
         "Science",
         "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Environmental Research: Climate, fireside chat",
+      "summary": "Explore the current state of climate research, including changes in the field over the last five years since the launch of the journal, and direct us toward the future\nThe post Environmental Research: Climate, fireside chat appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/environmental-research-climate-fireside-chat/",
+      "pubDate": "2026-07-21T12:49:08.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Science"
       ],
       "otherSources": []
     },
@@ -4188,6 +4340,18 @@
         "Literature",
         "Politics",
         "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Scientists discover sugar in interstellar space",
+      "summary": "The first detection of sugar in the interstellar medium could shed more light on how life began on Earth\nThe post Scientists discover sugar in interstellar space appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/scientists-discover-sugar-in-interstellar-space/",
+      "pubDate": "2026-07-21T08:30:35.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
       ],
       "otherSources": []
     },
@@ -4278,6 +4442,19 @@
       "otherSources": []
     },
     {
+      "title": "Structured light could deliver a new method for diagnosing eye disease",
+      "summary": "A quantum optics technique that boosts the visibility of subtle peripheral vision patterns called Boehm's brushes could provide a new test of retinal health\nThe post Structured light could deliver a new method for diagnosing eye disease appeared first on Physi",
+      "link": "https://physicsworld.com/a/structured-light-could-deliver-a-new-method-for-diagnosing-eye-disease/",
+      "pubDate": "2026-07-20T14:00:37.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Medicine"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "In painted caves, ancient human DNA clings to the walls",
       "summary": "Scientists recovered ancient human DNA from cave walls for the first time. Refined, the method could help link prehistoric paintings to their makers.",
       "link": "https://www.sciencenews.org/article/ancient-human-dna-cave-walls",
@@ -4328,6 +4505,18 @@
       "otherSources": []
     },
     {
+      "title": "From galaxies to groceries: how Sarah Bridle made the switch from cosmology to food",
+      "summary": "Gleb Yakubov talks to Sarah Bridle a physicist who has studied food at the University of York\nThe post From galaxies to groceries: how Sarah Bridle made the switch from cosmology to food appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/from-galaxies-to-groceries-how-sarah-bridle-made-the-switch-from-cosmology-to-food/",
+      "pubDate": "2026-07-20T10:00:13.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Beyond Greece and Rome",
       "summary": "A dramatic shift in perspective is producing a much bigger, broader and more exciting view of ‘the ancient world’\n- by Carlos Noreña\nRead on Aeon",
       "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
@@ -4363,6 +4552,19 @@
         "New Book Releases",
         "Literature",
         "Fine Arts/Culture"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Solar tower power plants get a data boost",
+      "summary": "Accessible new database could accelerate research on solar thermal power generation and allow wider deployment\nThe post Solar tower power plants get a data boost appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/solar-tower-power-plants-get-a-data-boost/",
+      "pubDate": "2026-07-20T08:00:27.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics",
+        "Science"
       ],
       "otherSources": []
     },
@@ -4514,6 +4716,18 @@
       "otherSources": []
     },
     {
+      "title": "Quiz of the week: what makes strange metals so strange?",
+      "summary": "Have you been keeping up to date with physics news? Try our short quiz to find out\nThe post Quiz of the week: what makes strange metals so strange? appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/quiz-of-the-week-what-makes-strange-metals-so-strange/",
+      "pubDate": "2026-07-17T15:07:25.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Celebrate International Chess Day By Rekindling Your Longest Streak & Earning An Exclusive Flair",
       "summary": "International Chess Day is July 20, and this year, you can turn it into a fresh start. We invite you to celebrate this special occasion with us&mdash;while also restarting your longest streak and even winning a permanent and exclusive flair! \nRest...",
       "link": "https://www.chess.com/news/view/international-chess-day-2026-rewards",
@@ -4538,6 +4752,18 @@
       "otherSources": []
     },
     {
+      "title": "Astronomers express outrage after regulators approve ‘space mirror’ permit",
+      "summary": "Proposal involves the launch of a private satellite to test reflecting sunlight onto the Earth’s surface\nThe post Astronomers express outrage after regulators approve ‘space mirror’ permit appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/astronomers-express-outrage-after-regulators-approve-space-mirror-permit/",
+      "pubDate": "2026-07-17T14:30:12.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
+      ],
+      "otherSources": []
+    },
+    {
       "title": "Many universities hold seized human remains. What should they do with them?",
       "summary": "Biological anthropologist Fatimah Jackson is leading an effort to prevent history from repeating.",
       "link": "https://www.sciencenews.org/article/human-remains-ethics-fatimah-jackson",
@@ -4547,6 +4773,18 @@
       "topics": [
         "Science",
         "History"
+      ],
+      "otherSources": []
+    },
+    {
+      "title": "Experiments provide new insights into the reverse sprinkler problem",
+      "summary": "New experiments suggest that a reverse sprinkler is driven by angular momentum induced at its centre as water is drawn in\nThe post Experiments provide new insights into the reverse sprinkler problem appeared first on Physics World.",
+      "link": "https://physicsworld.com/a/experiments-provide-new-insights-into-the-reverse-sprinkler-problem/",
+      "pubDate": "2026-07-17T12:00:24.000Z",
+      "source": "Physics World",
+      "region": "global",
+      "topics": [
+        "Physics"
       ],
       "otherSources": []
     },
@@ -4598,18 +4836,6 @@
         "New Book Releases",
         "Literature",
         "History"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "Firouzja Back In Top 10 After Grabbing Early Lead In Chennai",
-      "summary": "GM Alireza Firouzja reentered the top 10 after a win against GM Pranesh M saw him grab the sole lead after round one of the&nbsp;2026 Quantbox Chennai Grand Masters. All the other games featured near misses: GM Gukesh Dommaraju got into trouble ag...",
-      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-1",
-      "pubDate": "2026-07-16T20:16:32.000Z",
-      "source": "Chess.com News",
-      "region": "global",
-      "topics": [
-        "Chess"
       ],
       "otherSources": []
     },
@@ -4903,18 +5129,6 @@
       "summary": "Jannik Sinner brings Centre Court to its feet, winning a brilliant rally before wrapping up a \"compelling\" Wimbledon final against Alexander Zverev to retain the men's singles title.",
       "link": "https://www.bbc.co.uk/sport/tennis/videos/c3rygp5yj43o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-12T19:11:29.000Z",
-      "source": "BBC Tennis",
-      "region": "global",
-      "topics": [
-        "Tennis"
-      ],
-      "otherSources": []
-    },
-    {
-      "title": "More Than The Score: A golden age of Italian tennis",
-      "summary": "How Jannik Sinner and Italy rose to the very top of tennis",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ny3fzt?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T05:01:00.000Z",
       "source": "BBC Tennis",
       "region": "global",
       "topics": [
@@ -5413,6 +5627,42 @@
   ],
   "editorial": [
     {
+      "title": "A Brief Exchange That Shows the Enormous Difference Between Trump and Obama",
+      "link": "https://www.theatlantic.com/culture/2026/07/obama-caitlin-clark/688073/?utm_source=feed",
+      "pubDate": "2026-07-25T22:03:00.000Z",
+      "source": "The Atlantic"
+    },
+    {
+      "title": "LeBron James’ final act is about more than basketball. It’s about time | Claire de Lune",
+      "link": "https://www.theguardian.com/sport/2026/jul/25/why-lebron-james-chose-philadelphia-76ers-final-career",
+      "pubDate": "2026-07-25T17:14:53.000Z",
+      "source": "The Guardian Opinion"
+    },
+    {
+      "title": "The Peptide Wild West",
+      "link": "https://www.nytimes.com/2026/07/25/opinion/peptides-fda-health-supplements.html",
+      "pubDate": "2026-07-25T15:32:48.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "Nolan’s Zero-Eros ‘Odyssey’",
+      "link": "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html",
+      "pubDate": "2026-07-25T15:08:45.000Z",
+      "source": "NYT Opinion"
+    },
+    {
+      "title": "The Mounting Cost of War",
+      "link": "https://www.theatlantic.com/national/2026/07/mounting-cost-iran-war-washington-week/688071/?utm_source=feed",
+      "pubDate": "2026-07-25T14:56:58.000Z",
+      "source": "The Atlantic"
+    },
+    {
+      "title": "Whatever Happened to the B+ Student?",
+      "link": "https://www.nytimes.com/2026/07/25/opinion/college-students-grades.html",
+      "pubDate": "2026-07-25T14:20:44.000Z",
+      "source": "NYT Opinion"
+    },
+    {
       "title": "When Middle Age Actually Starts",
       "link": "https://www.theatlantic.com/family/2026/07/middle-age-start-end/688021/?utm_source=feed",
       "pubDate": "2026-07-25T13:00:00.000Z",
@@ -5443,46 +5693,10 @@
       "source": "The Guardian Opinion"
     },
     {
-      "title": "The Peptide Wild West",
-      "link": "https://www.nytimes.com/2026/07/25/opinion/peptides-fda-health-supplements.html",
-      "pubDate": "2026-07-25T11:00:28.000Z",
-      "source": "NYT Opinion"
-    },
-    {
       "title": "The New Tactic Trump Thinks Will Rally Voters",
       "link": "https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html",
       "pubDate": "2026-07-25T11:00:26.000Z",
       "source": "NYT Opinion"
-    },
-    {
-      "title": "Nolan’s Zero-Eros ‘Odyssey’",
-      "link": "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html",
-      "pubDate": "2026-07-25T11:00:21.000Z",
-      "source": "NYT Opinion"
-    },
-    {
-      "title": "Whatever Happened to the B+ Student?",
-      "link": "https://www.nytimes.com/2026/07/25/opinion/college-students-grades.html",
-      "pubDate": "2026-07-25T11:00:17.000Z",
-      "source": "NYT Opinion"
-    },
-    {
-      "title": "Even Trump Can’t Spin This One",
-      "link": "https://www.theatlantic.com/technology/2026/07/trump-iran-war-social-media/688065/?utm_source=feed",
-      "pubDate": "2026-07-25T11:00:00.000Z",
-      "source": "The Atlantic"
-    },
-    {
-      "title": "The Ticking Clock on the Strait of Hormuz",
-      "link": "https://www.theatlantic.com/international/2026/07/iran-war-hormuz-strait/688062/?utm_source=feed",
-      "pubDate": "2026-07-25T11:00:00.000Z",
-      "source": "The Atlantic"
-    },
-    {
-      "title": "Trump Swaps Out Tariffs for Even More Tariffs",
-      "link": "https://foreignpolicy.com/2026/07/24/us-tariffs-forced-labor-trump-section-301-trade-protectionism/",
-      "pubDate": "2026-07-24T21:32:19.000Z",
-      "source": "Foreign Policy"
     }
   ]
 }
